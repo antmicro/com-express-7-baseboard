@@ -1,0 +1,16 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 428b8fc7-93bb-4410-9228-c380af53fe2a)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+  (bus_alias "UART" (members ))
+
+  (hierarchical_label "UART{UART}" (shape bidirectional) (at 256.54 101.6 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 013cdbe6-cbc5-4cf1-a915-771656fe94cd)
+  )
+)

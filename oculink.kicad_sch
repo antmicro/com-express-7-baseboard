@@ -1,0 +1,15 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 86643ccc-264f-4d1f-bab4-65eed9345ce4)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "PCIe_x8{PCIe}" (shape input) (at 251.46 68.58 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 48d14a83-0171-44dc-9159-d91c3953fdcc)
+  )
+)

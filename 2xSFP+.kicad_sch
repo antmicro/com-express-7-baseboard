@@ -1,0 +1,19 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid a32f4b71-5697-4170-a41a-5acf0feff4dc)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "10GKR_B{10GBaseKR}" (shape input) (at 226.06 99.06 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 3b3355d6-b6bf-423e-bb30-9981e5e7ebda)
+  )
+  (hierarchical_label "10GKR_A{10GBaseKR}" (shape input) (at 226.06 91.44 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 5a3ef953-d01d-4d61-817d-adc84499d403)
+  )
+)

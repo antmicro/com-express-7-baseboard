@@ -1,0 +1,19 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 045019a3-6b4b-4c74-8430-5ec198178399)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "USB{USB}" (shape input) (at 66.04 81.28 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 26ee84c9-ca35-4121-82bd-bcb05bf29908)
+  )
+  (hierarchical_label "PCIe_x1{PCIe}" (shape input) (at 66.04 78.74 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid c51ac70e-b22f-43e7-8ba4-a79fe550f642)
+  )
+)
