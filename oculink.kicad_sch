@@ -2,7 +2,14 @@
 
   (uuid 86643ccc-264f-4d1f-bab4-65eed9345ce4)
 
-  (paper "A4")
+  (paper "A3")
+
+  (title_block
+    (title "Com Express 7 baseboard")
+    (date "2024-03-22")
+    (rev "1.0.0")
+    (company "Antmicro Ltd.")
+  )
 
   (lib_symbols
   )

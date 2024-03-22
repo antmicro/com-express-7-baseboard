@@ -2,12 +2,19 @@
 
   (uuid 428b8fc7-93bb-4410-9228-c380af53fe2a)
 
-  (paper "A4")
+  (paper "A3")
+
+  (title_block
+    (title "Com Express 7 baseboard")
+    (date "2024-03-22")
+    (rev "1.0.0")
+    (company "Antmicro Ltd.")
+  )
 
   (lib_symbols
   )
 
-  (bus_alias "UART" (members ))
+  (bus_alias "UART" (members "RX" "TX"))
 
   (hierarchical_label "UART{UART}" (shape bidirectional) (at 256.54 101.6 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))

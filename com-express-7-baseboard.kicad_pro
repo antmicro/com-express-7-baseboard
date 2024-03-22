@@ -514,7 +514,11 @@
     ],
     [
       "d0206463-9f0a-4ce9-a6c7-202004597ed5",
-      "Com Express 7"
+      "Com Express 7 Interfaces"
+    ],
+    [
+      "ec04a123-aeba-4efb-8d03-9c06245c1fcc",
+      "Com Express 7 MGMT"
     ]
   ],
   "text_variables": {}
