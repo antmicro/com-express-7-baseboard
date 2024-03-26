@@ -498,7 +498,7 @@
     ],
     [
       "2acc1b08-bc1c-4714-8c61-ebdd69dbc5a5",
-      "M.2 key M"
+      "M.2 key M #1"
     ],
     [
       "3f663515-85d2-432c-bfa2-be12ff3763c7",
@@ -519,6 +519,10 @@
     [
       "ec04a123-aeba-4efb-8d03-9c06245c1fcc",
       "Com Express 7 MGMT"
+    ],
+    [
+      "01a8e043-7255-4415-a44c-f6bbe482fcfc",
+      "PCIe misc"
     ]
   ],
   "text_variables": {}
