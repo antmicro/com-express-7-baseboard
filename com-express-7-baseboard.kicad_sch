@@ -423,9 +423,9 @@
     (property "Sheetfile" "usb-c_console.kicad_sch" (at 96.52 219.0246 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
-    (pin "UART{UART}" bidirectional (at 137.16 195.58 0)
+    (pin "UART_3V3{UART}" bidirectional (at 137.16 195.58 0)
       (effects (font (size 1.27 1.27)) (justify right))
-      (uuid 9d6e44ef-5dd2-4a6e-b14f-9153827e947e)
+      (uuid aac719fa-1290-4c63-b0fa-c173330d0c74)
     )
     (instances
       (project "com-express-7-baseboard"
