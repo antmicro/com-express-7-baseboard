@@ -527,6 +527,10 @@
     [
       "948132cb-09f2-431f-8df8-b09aea0442f3",
       "PCIe redriver"
+    ],
+    [
+      "50145e18-6fda-4310-8f05-c3e546b9d1d3",
+      "GPIO expander"
     ]
   ],
   "text_variables": {}
