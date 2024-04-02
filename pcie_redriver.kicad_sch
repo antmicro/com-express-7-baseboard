@@ -1,0 +1,26 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 8d6f115f-0306-483f-8fa9-8fbad47a4e8e)
+
+  (paper "A3")
+
+  (title_block
+    (title "Com Express 7 baseboard")
+    (date "2024-03-28")
+    (rev "1.0.0")
+    (company "Antmicro Ltd.")
+  )
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "PCIe_{I}{PCIe}" (shape input) (at 73.66 101.6 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 55242da8-ee58-45fb-b835-4433e7a8a94b)
+  )
+  (hierarchical_label "PCIe_{O}{PCIe}" (shape output) (at 276.86 104.14 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid ba795459-7d3a-44ee-a210-d0dcc736247c)
+  )
+)

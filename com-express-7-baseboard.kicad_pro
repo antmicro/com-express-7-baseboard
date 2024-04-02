@@ -523,6 +523,10 @@
     [
       "01a8e043-7255-4415-a44c-f6bbe482fcfc",
       "PCIe misc"
+    ],
+    [
+      "948132cb-09f2-431f-8df8-b09aea0442f3",
+      "PCIe redriver"
     ]
   ],
   "text_variables": {}
