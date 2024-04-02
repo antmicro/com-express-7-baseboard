@@ -3873,7 +3873,7 @@
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 64cc20f9-b37e-4f47-bddd-371660ed20f4)
   )
-  (hierarchical_label "~{GBE0_LINK_100}" (shape input) (at 100.33 86.36 180) (fields_autoplaced)
+  (hierarchical_label "~{GBE0_LINK}" (shape input) (at 100.33 86.36 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 83edc93b-5455-41f3-9acb-e144e1b800ea)
   )
