@@ -1399,6 +1399,10 @@
     (effects (font (size 4 4) (thickness 0.8) bold) (justify left bottom))
     (uuid 1ac11dad-9429-4469-b315-0defa9994e77)
   )
+  (text "TODO: CHECK IF AC COUPL CAPS NEEDED" (at 116.84 129.54 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 1af5ab98-6060-48f4-8048-153c80f38ccf)
+  )
 
   (label "PCIe_{x4}.TX2-" (at 158.75 143.51 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))

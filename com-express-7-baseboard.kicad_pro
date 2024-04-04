@@ -531,6 +531,14 @@
     [
       "50145e18-6fda-4310-8f05-c3e546b9d1d3",
       "GPIO expander"
+    ],
+    [
+      "cde7020e-9359-45c4-a901-da5ca675cc42",
+      "KR to SFI #1"
+    ],
+    [
+      "95d9402b-9039-48b1-9ce0-274bfe9b1321",
+      "KR to SFI #2"
     ]
   ],
   "text_variables": {}
