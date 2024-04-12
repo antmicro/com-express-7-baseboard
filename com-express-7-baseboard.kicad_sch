@@ -1057,7 +1057,7 @@
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid 57bf702f-fd20-4aee-95cc-b51eeee544a0)
     )
-    (pin "I2C_{10GLED}{I2C}" input (at 162.56 135.89 180)
+    (pin "I2C_{10GLED}{I2C}" output (at 162.56 135.89 180)
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid ff5d1bee-9b8e-4493-aecb-3974d119529e)
     )

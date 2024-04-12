@@ -4799,7 +4799,7 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid fd3e374f-e7c0-45d2-9f60-185ef9ede8dd)
   )
-  (hierarchical_label "I2C_{10GLED}{I2C}" (shape input) (at 303.53 180.34 0) (fields_autoplaced)
+  (hierarchical_label "I2C_{10GLED}{I2C}" (shape output) (at 303.53 180.34 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid fe23d120-2fe5-42ef-8da4-f2303e0d1858)
   )
