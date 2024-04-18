@@ -4811,7 +4811,7 @@
   (symbol (lib_id "antmicroB2BConnectors:Plug_Bus_CE7_EPT_401-51501-51") (at 281.94 198.12 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1c0d59e0-b210-4da5-8a87-29a301c6b1b3)
-    (property "Reference" "J1" (at 262.89 190.5 0)
+    (property "Reference" "J11" (at 262.89 190.5 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (property "Value" "Plug_Bus_CE7_EPT_401-51501-51" (at 335.28 210.82 0)
@@ -5278,7 +5278,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/d0206463-9f0a-4ce9-a6c7-202004597ed5"
-          (reference "J1") (unit 1)
+          (reference "J11") (unit 1)
         )
       )
     )
@@ -5287,7 +5287,7 @@
   (symbol (lib_id "antmicroB2BConnectors:Plug_Bus_CE7_EPT_401-51501-51") (at 281.94 33.02 0) (unit 11)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2cae138e-d184-4976-9c70-7ea49729989e)
-    (property "Reference" "J1" (at 262.89 25.4 0)
+    (property "Reference" "J11" (at 262.89 25.4 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (property "Value" "Plug_Bus_CE7_EPT_401-51501-51" (at 335.28 45.72 0)
@@ -5754,7 +5754,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/d0206463-9f0a-4ce9-a6c7-202004597ed5"
-          (reference "J1") (unit 11)
+          (reference "J11") (unit 11)
         )
       )
     )
@@ -5763,7 +5763,7 @@
   (symbol (lib_id "antmicroB2BConnectors:Plug_Bus_CE7_EPT_401-51501-51") (at 139.7 210.82 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 35c984c0-48d7-4d67-899b-03300e3f8518)
-    (property "Reference" "J1" (at 120.65 203.2 0)
+    (property "Reference" "J11" (at 120.65 203.2 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (property "Value" "Plug_Bus_CE7_EPT_401-51501-51" (at 193.04 223.52 0)
@@ -6230,7 +6230,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/d0206463-9f0a-4ce9-a6c7-202004597ed5"
-          (reference "J1") (unit 2)
+          (reference "J11") (unit 2)
         )
       )
     )
@@ -6239,7 +6239,7 @@
   (symbol (lib_id "antmicroTestPoints:TP_0.75mm_SMD") (at 281.94 175.26 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4a57af03-3b6f-4aa3-b7fe-cabb71a7291d)
-    (property "Reference" "TP41" (at 287.02 175.26 0)
+    (property "Reference" "TP20" (at 287.02 175.26 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
     )
     (property "Value" "TP_0.75mm_SMD" (at 292.735 179.07 0)
@@ -6267,7 +6267,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/d0206463-9f0a-4ce9-a6c7-202004597ed5"
-          (reference "TP41") (unit 1)
+          (reference "TP20") (unit 1)
         )
       )
     )
@@ -6276,7 +6276,7 @@
   (symbol (lib_id "antmicroB2BConnectors:Plug_Bus_CE7_EPT_401-51501-51") (at 353.06 33.02 0) (unit 6)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 50b3b3f4-e3f5-4438-8d0c-efa220852cba)
-    (property "Reference" "J1" (at 334.01 25.4 0)
+    (property "Reference" "J11" (at 334.01 25.4 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (property "Value" "Plug_Bus_CE7_EPT_401-51501-51" (at 406.4 45.72 0)
@@ -6743,7 +6743,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/d0206463-9f0a-4ce9-a6c7-202004597ed5"
-          (reference "J1") (unit 6)
+          (reference "J11") (unit 6)
         )
       )
     )
@@ -6752,7 +6752,7 @@
   (symbol (lib_id "antmicroB2BConnectors:Plug_Bus_CE7_EPT_401-51501-51") (at 210.82 205.74 0) (unit 10)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 56b1023a-1c81-43fd-9f80-a2174f876aa5)
-    (property "Reference" "J1" (at 191.77 198.12 0)
+    (property "Reference" "J11" (at 191.77 198.12 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (property "Value" "Plug_Bus_CE7_EPT_401-51501-51" (at 264.16 218.44 0)
@@ -7219,7 +7219,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/d0206463-9f0a-4ce9-a6c7-202004597ed5"
-          (reference "J1") (unit 10)
+          (reference "J11") (unit 10)
         )
       )
     )
@@ -7228,7 +7228,7 @@
   (symbol (lib_id "antmicroResistors0402:R_10k_0402") (at 367.03 100.33 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 69714a1d-7869-4569-b454-8b5225ffe9ad)
-    (property "Reference" "R190" (at 369.57 96.52 90)
+    (property "Reference" "R118" (at 369.57 96.52 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "R_10k_0402" (at 379.73 80.01 0)
@@ -7263,7 +7263,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/d0206463-9f0a-4ce9-a6c7-202004597ed5"
-          (reference "R190") (unit 1)
+          (reference "R118") (unit 1)
         )
       )
     )
@@ -7272,7 +7272,7 @@
   (symbol (lib_id "antmicroB2BConnectors:Plug_Bus_CE7_EPT_401-51501-51") (at 353.06 76.2 0) (unit 5)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6bb79ca5-641f-4192-bfc6-92be5f3d9009)
-    (property "Reference" "J1" (at 334.01 68.58 0)
+    (property "Reference" "J11" (at 334.01 68.58 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (property "Value" "Plug_Bus_CE7_EPT_401-51501-51" (at 406.4 88.9 0)
@@ -7739,7 +7739,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/d0206463-9f0a-4ce9-a6c7-202004597ed5"
-          (reference "J1") (unit 5)
+          (reference "J11") (unit 5)
         )
       )
     )
@@ -7748,7 +7748,7 @@
   (symbol (lib_id "antmicroB2BConnectors:Plug_Bus_CE7_EPT_401-51501-51") (at 210.82 157.48 0) (unit 7)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7c713369-d61e-4277-8a40-f103cea1caaa)
-    (property "Reference" "J1" (at 191.77 149.86 0)
+    (property "Reference" "J11" (at 191.77 149.86 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (property "Value" "Plug_Bus_CE7_EPT_401-51501-51" (at 264.16 170.18 0)
@@ -8215,7 +8215,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/d0206463-9f0a-4ce9-a6c7-202004597ed5"
-          (reference "J1") (unit 7)
+          (reference "J11") (unit 7)
         )
       )
     )
@@ -8224,7 +8224,7 @@
   (symbol (lib_id "antmicroTestPoints:TP_0.75mm_SMD") (at 281.94 172.72 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9ba988d0-f227-482c-a7bd-824e1511fcc1)
-    (property "Reference" "TP40" (at 287.02 172.72 0)
+    (property "Reference" "TP19" (at 287.02 172.72 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
     )
     (property "Value" "TP_0.75mm_SMD" (at 292.735 176.53 0)
@@ -8252,7 +8252,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/d0206463-9f0a-4ce9-a6c7-202004597ed5"
-          (reference "TP40") (unit 1)
+          (reference "TP19") (unit 1)
         )
       )
     )
@@ -8261,7 +8261,7 @@
   (symbol (lib_id "antmicropower:GND") (at 367.03 100.33 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a98712f2-8b0f-4f3c-991c-cb9834620586)
-    (property "Reference" "#PWR0200" (at 375.92 102.87 0)
+    (property "Reference" "#PWR0147" (at 375.92 102.87 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Value" "GND" (at 367.03 104.14 0)
@@ -8283,7 +8283,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/d0206463-9f0a-4ce9-a6c7-202004597ed5"
-          (reference "#PWR0200") (unit 1)
+          (reference "#PWR0147") (unit 1)
         )
       )
     )
@@ -8292,7 +8292,7 @@
   (symbol (lib_id "antmicroTestPoints:TP_0.75mm_SMD") (at 281.94 96.52 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b3846cdf-70c3-4aed-883e-f16003c442bc)
-    (property "Reference" "TP44" (at 287.02 96.52 0)
+    (property "Reference" "TP17" (at 287.02 96.52 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
     )
     (property "Value" "TP_0.75mm_SMD" (at 292.735 100.33 0)
@@ -8320,7 +8320,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/d0206463-9f0a-4ce9-a6c7-202004597ed5"
-          (reference "TP44") (unit 1)
+          (reference "TP17") (unit 1)
         )
       )
     )
@@ -8329,7 +8329,7 @@
   (symbol (lib_id "antmicroTestPoints:TP_0.75mm_SMD") (at 281.94 177.8 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ba7b7cd3-9576-4469-8bae-494f114dbee9)
-    (property "Reference" "TP42" (at 287.02 177.8 0)
+    (property "Reference" "TP21" (at 287.02 177.8 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
     )
     (property "Value" "TP_0.75mm_SMD" (at 292.735 181.61 0)
@@ -8357,7 +8357,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/d0206463-9f0a-4ce9-a6c7-202004597ed5"
-          (reference "TP42") (unit 1)
+          (reference "TP21") (unit 1)
         )
       )
     )
@@ -8366,7 +8366,7 @@
   (symbol (lib_id "antmicroB2BConnectors:Plug_Bus_CE7_EPT_401-51501-51") (at 139.7 33.02 0) (unit 9)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bded306c-1971-4549-b043-7dff55604fc0)
-    (property "Reference" "J1" (at 120.65 25.4 0)
+    (property "Reference" "J11" (at 120.65 25.4 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (property "Value" "Plug_Bus_CE7_EPT_401-51501-51" (at 193.04 45.72 0)
@@ -8833,7 +8833,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/d0206463-9f0a-4ce9-a6c7-202004597ed5"
-          (reference "J1") (unit 9)
+          (reference "J11") (unit 9)
         )
       )
     )
@@ -8842,7 +8842,7 @@
   (symbol (lib_id "antmicroTestPoints:TP_0.75mm_SMD") (at 281.94 170.18 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c93da162-05b2-4abe-b250-cd30a4df150f)
-    (property "Reference" "TP37" (at 287.02 170.18 0)
+    (property "Reference" "TP18" (at 287.02 170.18 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
     )
     (property "Value" "TP_0.75mm_SMD" (at 292.735 173.99 0)
@@ -8870,7 +8870,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/d0206463-9f0a-4ce9-a6c7-202004597ed5"
-          (reference "TP37") (unit 1)
+          (reference "TP18") (unit 1)
         )
       )
     )
@@ -8879,7 +8879,7 @@
   (symbol (lib_id "antmicroB2BConnectors:Plug_Bus_CE7_EPT_401-51501-51") (at 139.7 167.64 0) (unit 15)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e7143606-609b-4b84-bd3b-6fbbc17096c2)
-    (property "Reference" "J1" (at 120.65 160.02 0)
+    (property "Reference" "J11" (at 120.65 160.02 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (property "Value" "Plug_Bus_CE7_EPT_401-51501-51" (at 193.04 180.34 0)
@@ -9346,7 +9346,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/d0206463-9f0a-4ce9-a6c7-202004597ed5"
-          (reference "J1") (unit 15)
+          (reference "J11") (unit 15)
         )
       )
     )
@@ -9355,7 +9355,7 @@
   (symbol (lib_id "antmicroB2BConnectors:Plug_Bus_CE7_EPT_401-51501-51") (at 68.58 33.02 0) (unit 14)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ecbd77e5-9431-4fb9-8af5-3636df92cb6f)
-    (property "Reference" "J1" (at 49.53 25.4 0)
+    (property "Reference" "J11" (at 49.53 25.4 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (property "Value" "Plug_Bus_CE7_EPT_401-51501-51" (at 121.92 45.72 0)
@@ -9822,7 +9822,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/d0206463-9f0a-4ce9-a6c7-202004597ed5"
-          (reference "J1") (unit 14)
+          (reference "J11") (unit 14)
         )
       )
     )
@@ -9831,7 +9831,7 @@
   (symbol (lib_id "antmicroTestPoints:TP_0.75mm_SMD") (at 213.36 187.96 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f5bec8a4-0144-4125-bf1e-d4928cf8f7d6)
-    (property "Reference" "TP9" (at 218.44 187.96 0)
+    (property "Reference" "TP16" (at 218.44 187.96 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
     )
     (property "Value" "TP_0.75mm_SMD" (at 224.155 191.77 0)
@@ -9859,7 +9859,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/d0206463-9f0a-4ce9-a6c7-202004597ed5"
-          (reference "TP9") (unit 1)
+          (reference "TP16") (unit 1)
         )
       )
     )
@@ -9868,7 +9868,7 @@
   (symbol (lib_id "antmicroB2BConnectors:Plug_Bus_CE7_EPT_401-51501-51") (at 210.82 33.02 0) (unit 16)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fba42ce2-ad50-4cb6-8e99-9895208ab741)
-    (property "Reference" "J1" (at 191.77 25.4 0)
+    (property "Reference" "J11" (at 191.77 25.4 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (property "Value" "Plug_Bus_CE7_EPT_401-51501-51" (at 264.16 45.72 0)
@@ -10335,7 +10335,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/d0206463-9f0a-4ce9-a6c7-202004597ed5"
-          (reference "J1") (unit 16)
+          (reference "J11") (unit 16)
         )
       )
     )

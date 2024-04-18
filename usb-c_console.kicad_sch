@@ -2012,7 +2012,7 @@
   (symbol (lib_id "antmicroUSBConnectors:USB-C_Kycon_KUSBX-SL2-CS1N24-B-TR") (at 123.19 119.38 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 09d1f1ac-7d5e-4be6-8014-7f685c1b4610)
-    (property "Reference" "J7" (at 99.06 151.13 0)
+    (property "Reference" "J3" (at 99.06 151.13 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "USB-C_Kycon_KUSBX-SL2-CS1N24-B-TR" (at 99.06 153.67 0)
@@ -2064,7 +2064,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/443bd4b5-8a40-4669-9915-56b6f474530f"
-          (reference "J7") (unit 1)
+          (reference "J3") (unit 1)
         )
       )
     )
@@ -2073,7 +2073,7 @@
   (symbol (lib_id "antmicropower:GND") (at 133.35 143.51 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 10a8f437-182b-452d-8425-8e1277bf3ab7)
-    (property "Reference" "#PWR066" (at 142.24 146.05 0)
+    (property "Reference" "#PWR058" (at 142.24 146.05 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Value" "GND" (at 133.35 147.32 0)
@@ -2095,7 +2095,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/443bd4b5-8a40-4669-9915-56b6f474530f"
-          (reference "#PWR066") (unit 1)
+          (reference "#PWR058") (unit 1)
         )
       )
     )
@@ -2104,7 +2104,7 @@
   (symbol (lib_name "GND_1") (lib_id "antmicropower:GND") (at 175.26 129.54 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 10e3066b-80d2-4b2d-8882-1ef8a13006f2)
-    (property "Reference" "#PWR071" (at 166.37 132.08 0)
+    (property "Reference" "#PWR063" (at 166.37 132.08 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Value" "GND" (at 175.26 133.35 0)
@@ -2126,7 +2126,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/443bd4b5-8a40-4669-9915-56b6f474530f"
-          (reference "#PWR071") (unit 1)
+          (reference "#PWR063") (unit 1)
         )
       )
     )
@@ -2135,7 +2135,7 @@
   (symbol (lib_name "FT230X_QFN_1") (lib_id "antmicroInterfaceControllers:FT230X_QFN") (at 190.5 128.27 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 13bfbd4d-82aa-4660-a21a-1310fdfdad2c)
-    (property "Reference" "U4" (at 201.93 120.65 0)
+    (property "Reference" "U6" (at 201.93 120.65 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (property "Value" "FT230X_QFN" (at 201.93 123.19 0)
@@ -2179,7 +2179,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/443bd4b5-8a40-4669-9915-56b6f474530f"
-          (reference "U4") (unit 1)
+          (reference "U6") (unit 1)
         )
       )
     )
@@ -2188,7 +2188,7 @@
   (symbol (lib_id "antmicroResistors0402:R_0R_0402") (at 295.91 128.27 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 14b5a3e6-e3aa-42d9-8440-2ec419480772)
-    (property "Reference" "R68" (at 292.1 127 0)
+    (property "Reference" "R74" (at 292.1 127 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (property "Value" "R_0R_0402" (at 316.23 140.97 0)
@@ -2226,7 +2226,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/443bd4b5-8a40-4669-9915-56b6f474530f"
-          (reference "R68") (unit 1)
+          (reference "R74") (unit 1)
         )
       )
     )
@@ -2235,7 +2235,7 @@
   (symbol (lib_name "GND_1") (lib_id "antmicropower:GND") (at 161.29 147.32 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 18dfa414-5f9f-4c68-8c15-74acf622cf01)
-    (property "Reference" "#PWR070" (at 152.4 149.86 0)
+    (property "Reference" "#PWR062" (at 152.4 149.86 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Value" "GND" (at 161.29 151.13 0)
@@ -2257,7 +2257,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/443bd4b5-8a40-4669-9915-56b6f474530f"
-          (reference "#PWR070") (unit 1)
+          (reference "#PWR062") (unit 1)
         )
       )
     )
@@ -2266,7 +2266,7 @@
   (symbol (lib_id "antmicroCapacitors0402:C_100n_0402") (at 124.46 196.85 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 20d024a5-b0ec-4791-8768-235013005b35)
-    (property "Reference" "C61" (at 130.81 198.12 90)
+    (property "Reference" "C29" (at 130.81 198.12 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
     )
     (property "Value" "C_100n_0402" (at 134.62 217.17 0)
@@ -2304,7 +2304,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/443bd4b5-8a40-4669-9915-56b6f474530f"
-          (reference "C61") (unit 1)
+          (reference "C29") (unit 1)
         )
       )
     )
@@ -2313,7 +2313,7 @@
   (symbol (lib_id "antmicroCapacitors0402:C_100n_0402") (at 175.26 129.54 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 300f6f47-e34a-4613-84f1-c6051a830769)
-    (property "Reference" "C64" (at 177.8 125.7235 90)
+    (property "Reference" "C32" (at 177.8 125.7235 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "C_100n_0402" (at 185.42 109.22 0)
@@ -2351,7 +2351,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/443bd4b5-8a40-4669-9915-56b6f474530f"
-          (reference "C64") (unit 1)
+          (reference "C32") (unit 1)
         )
       )
     )
@@ -2360,7 +2360,7 @@
   (symbol (lib_id "antmicroCapacitors0402:C_47p_0402") (at 154.94 147.32 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 322614a2-27ae-4e37-9444-287107a07007)
-    (property "Reference" "C62" (at 156.21 143.51 90)
+    (property "Reference" "C30" (at 156.21 143.51 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "C_47p_0402" (at 165.1 127 0)
@@ -2398,7 +2398,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/443bd4b5-8a40-4669-9915-56b6f474530f"
-          (reference "C62") (unit 1)
+          (reference "C30") (unit 1)
         )
       )
     )
@@ -2407,7 +2407,7 @@
   (symbol (lib_name "GND_1") (lib_id "antmicropower:GND") (at 154.94 147.32 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 334f6a44-0488-45b4-8566-3fd3482aa35b)
-    (property "Reference" "#PWR069" (at 146.05 149.86 0)
+    (property "Reference" "#PWR061" (at 146.05 149.86 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Value" "GND" (at 154.94 151.13 0)
@@ -2429,7 +2429,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/443bd4b5-8a40-4669-9915-56b6f474530f"
-          (reference "#PWR069") (unit 1)
+          (reference "#PWR061") (unit 1)
         )
       )
     )
@@ -2438,7 +2438,7 @@
   (symbol (lib_name "TP_0.75mm_SMD_1") (lib_id "antmicroTestPoints:TP_0.75mm_SMD") (at 227.33 120.65 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3c6ceb96-133b-4586-a1b4-052b094642c1)
-    (property "Reference" "TP5" (at 220.98 120.65 0)
+    (property "Reference" "TP7" (at 220.98 120.65 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (property "Value" "TP_0.75mm_SMD" (at 216.535 116.84 0)
@@ -2466,7 +2466,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/443bd4b5-8a40-4669-9915-56b6f474530f"
-          (reference "TP5") (unit 1)
+          (reference "TP7") (unit 1)
         )
       )
     )
@@ -2475,7 +2475,7 @@
   (symbol (lib_id "antmicroResistors0402:R_220R_0402") (at 224.79 167.64 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 47995481-4f8c-4381-9ddc-b446632431af)
-    (property "Reference" "R66" (at 222.25 163.8299 90)
+    (property "Reference" "R72" (at 222.25 163.8299 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
     )
     (property "Value" "R_220R_0402" (at 237.49 147.32 0)
@@ -2510,7 +2510,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/443bd4b5-8a40-4669-9915-56b6f474530f"
-          (reference "R66") (unit 1)
+          (reference "R72") (unit 1)
         )
       )
     )
@@ -2519,7 +2519,7 @@
   (symbol (lib_id "antmicroResistors0402:R_5k1_0402") (at 128.27 124.46 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4e57ef77-b64e-42ea-9bf1-b1d84730efb4)
-    (property "Reference" "R59" (at 125.73 123.19 0)
+    (property "Reference" "R67" (at 125.73 123.19 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (property "Value" "R_5k1_0402" (at 148.59 137.16 0)
@@ -2554,7 +2554,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/443bd4b5-8a40-4669-9915-56b6f474530f"
-          (reference "R59") (unit 1)
+          (reference "R67") (unit 1)
         )
       )
     )
@@ -2563,7 +2563,7 @@
   (symbol (lib_id "antmicropower:GND") (at 262.89 119.38 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4fd86981-a55f-44e6-8872-dac7a19f62e6)
-    (property "Reference" "#PWR074" (at 262.89 125.73 0)
+    (property "Reference" "#PWR066" (at 262.89 125.73 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "Value" "GND" (at 262.89 123.19 0)
@@ -2585,7 +2585,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/443bd4b5-8a40-4669-9915-56b6f474530f"
-          (reference "#PWR074") (unit 1)
+          (reference "#PWR066") (unit 1)
         )
       )
     )
@@ -2594,7 +2594,7 @@
   (symbol (lib_id "antmicroResistors0402:R_220R_0402") (at 229.87 167.64 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 54b092b3-4969-40a5-bbca-6d3dddea99bc)
-    (property "Reference" "R67" (at 232.41 163.8299 90)
+    (property "Reference" "R73" (at 232.41 163.8299 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "R_220R_0402" (at 242.57 147.32 0)
@@ -2629,7 +2629,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/443bd4b5-8a40-4669-9915-56b6f474530f"
-          (reference "R67") (unit 1)
+          (reference "R73") (unit 1)
         )
       )
     )
@@ -2638,7 +2638,7 @@
   (symbol (lib_id "antmicroTestPoints:TP_0.75mm_SMD") (at 233.68 140.97 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 56276b99-71d8-415f-b91d-c5c5042d5c71)
-    (property "Reference" "TP7" (at 237.49 140.97 0)
+    (property "Reference" "TP9" (at 237.49 140.97 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TP_0.75mm_SMD" (at 248.92 148.59 0)
@@ -2666,7 +2666,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/443bd4b5-8a40-4669-9915-56b6f474530f"
-          (reference "TP7") (unit 1)
+          (reference "TP9") (unit 1)
         )
       )
     )
@@ -2675,7 +2675,7 @@
   (symbol (lib_id "antmicroResistors0402:R_5k1_0402") (at 128.27 127 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 644fd0f6-a240-44f2-9336-a9a42f5e9b84)
-    (property "Reference" "R60" (at 125.73 125.73 0)
+    (property "Reference" "R68" (at 125.73 125.73 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (property "Value" "R_5k1_0402" (at 148.59 139.7 0)
@@ -2710,7 +2710,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/443bd4b5-8a40-4669-9915-56b6f474530f"
-          (reference "R60") (unit 1)
+          (reference "R68") (unit 1)
         )
       )
     )
@@ -2719,7 +2719,7 @@
   (symbol (lib_name "GND_1") (lib_id "antmicropower:GND") (at 138.43 128.27 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 693f5301-44f8-450d-95c7-bf9d73fc1bd2)
-    (property "Reference" "#PWR067" (at 129.54 130.81 0)
+    (property "Reference" "#PWR059" (at 129.54 130.81 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Value" "GND" (at 138.43 132.08 0)
@@ -2741,7 +2741,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/443bd4b5-8a40-4669-9915-56b6f474530f"
-          (reference "#PWR067") (unit 1)
+          (reference "#PWR059") (unit 1)
         )
       )
     )
@@ -2750,7 +2750,7 @@
   (symbol (lib_id "antmicroLEDIndicationDiscrete:LED_G_0603_LTST-C190GKT") (at 229.87 171.45 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6ba8bf1c-bd25-4be9-96f9-8782a61edd87)
-    (property "Reference" "D8" (at 233.68 173.9899 90)
+    (property "Reference" "D12" (at 233.68 173.9899 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "LED_G_0603_LTST-C190GKT" (at 222.25 194.31 0)
@@ -2779,7 +2779,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/443bd4b5-8a40-4669-9915-56b6f474530f"
-          (reference "D8") (unit 1)
+          (reference "D12") (unit 1)
         )
       )
     )
@@ -2788,7 +2788,7 @@
   (symbol (lib_id "antmicroResistors0402:R_0R_0402") (at 182.88 143.51 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 77d4f3a5-e842-4de3-8567-07c6f07e341d)
-    (property "Reference" "R63" (at 185.42 140.97 0)
+    (property "Reference" "R71" (at 185.42 140.97 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (property "Value" "R_0R_0402" (at 203.2 156.21 0)
@@ -2826,7 +2826,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/443bd4b5-8a40-4669-9915-56b6f474530f"
-          (reference "R63") (unit 1)
+          (reference "R71") (unit 1)
         )
       )
     )
@@ -2835,7 +2835,7 @@
   (symbol (lib_id "antmicroResistors0402:R_330R_0402") (at 120.65 196.85 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8af61df9-9b2d-426d-94fa-8aa2f75524a5)
-    (property "Reference" "R58" (at 119.38 198.12 90)
+    (property "Reference" "R66" (at 119.38 198.12 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
     )
     (property "Value" "R_330R_0402" (at 133.35 217.17 0)
@@ -2870,7 +2870,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/443bd4b5-8a40-4669-9915-56b6f474530f"
-          (reference "R58") (unit 1)
+          (reference "R66") (unit 1)
         )
       )
     )
@@ -2879,7 +2879,7 @@
   (symbol (lib_id "antmicropower:+3V3") (at 293.37 110.49 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8e828eb6-c4ec-484d-902f-9ca8c72a36cd)
-    (property "Reference" "#PWR076" (at 308.61 110.49 0)
+    (property "Reference" "#PWR068" (at 308.61 110.49 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Value" "+3V3" (at 293.37 105.41 0)
@@ -2901,7 +2901,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/443bd4b5-8a40-4669-9915-56b6f474530f"
-          (reference "#PWR076") (unit 1)
+          (reference "#PWR068") (unit 1)
         )
       )
     )
@@ -2910,7 +2910,7 @@
   (symbol (lib_id "antmicropower:GND") (at 266.7 134.62 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 92f5d1ab-fb32-4fb2-b1a0-9c834eee9b42)
-    (property "Reference" "#PWR075" (at 266.7 140.97 0)
+    (property "Reference" "#PWR067" (at 266.7 140.97 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "Value" "GND" (at 266.7 139.7 0)
@@ -2932,7 +2932,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/443bd4b5-8a40-4669-9915-56b6f474530f"
-          (reference "#PWR075") (unit 1)
+          (reference "#PWR067") (unit 1)
         )
       )
     )
@@ -2941,7 +2941,7 @@
   (symbol (lib_id "antmicroTVSDiodes:TPD2E2U06DCKR") (at 143.51 143.51 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a01951f4-97ab-4706-abb7-1c468aad3d65)
-    (property "Reference" "D5" (at 140.97 152.4 90)
+    (property "Reference" "D9" (at 140.97 152.4 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (property "Value" "TPD2E2U06DCKR" (at 140.97 154.94 90)
@@ -2971,7 +2971,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/443bd4b5-8a40-4669-9915-56b6f474530f"
-          (reference "D5") (unit 1)
+          (reference "D9") (unit 1)
         )
       )
     )
@@ -2980,7 +2980,7 @@
   (symbol (lib_id "antmicroResistors0402:R_27R_0402") (at 166.37 139.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a3f95f39-e07b-4ef4-8509-38e81dfb2143)
-    (property "Reference" "R62" (at 163.83 138.43 0)
+    (property "Reference" "R70" (at 163.83 138.43 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (property "Value" "R_27R_0402" (at 186.69 152.4 0)
@@ -3015,7 +3015,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/443bd4b5-8a40-4669-9915-56b6f474530f"
-          (reference "R62") (unit 1)
+          (reference "R70") (unit 1)
         )
       )
     )
@@ -3024,7 +3024,7 @@
   (symbol (lib_id "antmicroResistors0402:R_27R_0402") (at 166.37 137.16 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a4cca0b5-fb5c-419f-bf7f-22e11b986525)
-    (property "Reference" "R61" (at 163.83 135.89 0)
+    (property "Reference" "R69" (at 163.83 135.89 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (property "Value" "R_27R_0402" (at 186.69 149.86 0)
@@ -3059,7 +3059,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/443bd4b5-8a40-4669-9915-56b6f474530f"
-          (reference "R61") (unit 1)
+          (reference "R69") (unit 1)
         )
       )
     )
@@ -3068,7 +3068,7 @@
   (symbol (lib_id "antmicroCapacitors0402:C_47p_0402") (at 161.29 147.32 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a654ee3f-4dab-486b-920d-a41c3d9ac714)
-    (property "Reference" "C63" (at 162.56 143.51 90)
+    (property "Reference" "C31" (at 162.56 143.51 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "C_47p_0402" (at 171.45 127 0)
@@ -3106,7 +3106,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/443bd4b5-8a40-4669-9915-56b6f474530f"
-          (reference "C63") (unit 1)
+          (reference "C31") (unit 1)
         )
       )
     )
@@ -3115,7 +3115,7 @@
   (symbol (lib_id "antmicroCapacitors0402:C_100n_0402") (at 262.89 118.11 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b0b42392-d732-4701-a194-d682de078f67)
-    (property "Reference" "C66" (at 260.35 114.2935 90)
+    (property "Reference" "C34" (at 260.35 114.2935 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "C_100n_0402" (at 266.7 118.11 0)
@@ -3153,7 +3153,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/443bd4b5-8a40-4669-9915-56b6f474530f"
-          (reference "C66") (unit 1)
+          (reference "C34") (unit 1)
         )
       )
     )
@@ -3162,7 +3162,7 @@
   (symbol (lib_id "antmicroCapacitors0402:C_100n_0402") (at 293.37 118.11 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b21ae6ce-1afe-4f3a-88cd-4000faaf7c77)
-    (property "Reference" "C67" (at 295.91 114.2935 90)
+    (property "Reference" "C35" (at 295.91 114.2935 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "C_100n_0402" (at 297.18 118.11 0)
@@ -3200,7 +3200,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/443bd4b5-8a40-4669-9915-56b6f474530f"
-          (reference "C67") (unit 1)
+          (reference "C35") (unit 1)
         )
       )
     )
@@ -3209,7 +3209,7 @@
   (symbol (lib_name "TP_0.75mm_SMD_1") (lib_id "antmicroTestPoints:TP_0.75mm_SMD") (at 227.33 123.19 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b4083f51-3a46-4074-8dfe-4528b382abe1)
-    (property "Reference" "TP6" (at 220.98 123.19 0)
+    (property "Reference" "TP8" (at 220.98 123.19 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (property "Value" "TP_0.75mm_SMD" (at 216.535 119.38 0)
@@ -3237,7 +3237,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/443bd4b5-8a40-4669-9915-56b6f474530f"
-          (reference "TP6") (unit 1)
+          (reference "TP8") (unit 1)
         )
       )
     )
@@ -3246,7 +3246,7 @@
   (symbol (lib_id "antmicropower:GND") (at 180.34 118.11 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bee0e5dc-4a76-4715-8a99-9df3a48e610d)
-    (property "Reference" "#PWR072" (at 180.34 124.46 0)
+    (property "Reference" "#PWR064" (at 180.34 124.46 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "Value" "GND" (at 178.435 122.555 0)
@@ -3268,7 +3268,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/443bd4b5-8a40-4669-9915-56b6f474530f"
-          (reference "#PWR072") (unit 1)
+          (reference "#PWR064") (unit 1)
         )
       )
     )
@@ -3277,7 +3277,7 @@
   (symbol (lib_id "antmicroTVSDiodes:PESD5Z5_0F") (at 147.32 121.92 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c5eaac49-616d-4d5d-aa75-142411478f1c)
-    (property "Reference" "D6" (at 149.86 116.5224 90)
+    (property "Reference" "D10" (at 149.86 116.5224 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "PESD5Z5_0F" (at 149.86 119.0624 90)
@@ -3306,7 +3306,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/443bd4b5-8a40-4669-9915-56b6f474530f"
-          (reference "D6") (unit 1)
+          (reference "D10") (unit 1)
         )
       )
     )
@@ -3315,7 +3315,7 @@
   (symbol (lib_id "antmicroCapacitors0402:C_1u_0402") (at 180.34 118.11 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c6fe7328-1e3d-4c08-a3ab-233f32cbbd29)
-    (property "Reference" "C65" (at 182.88 114.2935 90)
+    (property "Reference" "C33" (at 182.88 114.2935 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "C_1u_0402" (at 190.5 97.79 0)
@@ -3353,7 +3353,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/443bd4b5-8a40-4669-9915-56b6f474530f"
-          (reference "C65") (unit 1)
+          (reference "C33") (unit 1)
         )
       )
     )
@@ -3362,7 +3362,7 @@
   (symbol (lib_id "antmicroTestPoints:TP_0.75mm_SMD") (at 233.68 148.59 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cc83443a-0665-4f2e-a845-36990ff2a810)
-    (property "Reference" "TP8" (at 237.49 148.59 0)
+    (property "Reference" "TP10" (at 237.49 148.59 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TP_0.75mm_SMD" (at 248.92 156.21 0)
@@ -3390,7 +3390,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/443bd4b5-8a40-4669-9915-56b6f474530f"
-          (reference "TP8") (unit 1)
+          (reference "TP10") (unit 1)
         )
       )
     )
@@ -3399,7 +3399,7 @@
   (symbol (lib_name "GND_1") (lib_id "antmicropower:GND") (at 130.81 207.01 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cf71174f-5587-4fbd-9ca1-f231cdd490dc)
-    (property "Reference" "#PWR065" (at 121.92 209.55 0)
+    (property "Reference" "#PWR057" (at 121.92 209.55 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Value" "GND" (at 130.81 210.82 0)
@@ -3421,7 +3421,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/443bd4b5-8a40-4669-9915-56b6f474530f"
-          (reference "#PWR065") (unit 1)
+          (reference "#PWR057") (unit 1)
         )
       )
     )
@@ -3430,7 +3430,7 @@
   (symbol (lib_name "GND_1") (lib_id "antmicropower:GND") (at 147.32 121.92 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d78502ab-03c6-453f-a489-f68d3926dbb7)
-    (property "Reference" "#PWR068" (at 138.43 124.46 0)
+    (property "Reference" "#PWR060" (at 138.43 124.46 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Value" "GND" (at 147.32 125.73 0)
@@ -3452,7 +3452,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/443bd4b5-8a40-4669-9915-56b6f474530f"
-          (reference "#PWR068") (unit 1)
+          (reference "#PWR060") (unit 1)
         )
       )
     )
@@ -3461,7 +3461,7 @@
   (symbol (lib_id "antmicropower:GND") (at 293.37 119.38 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid de431e01-1356-48c3-be70-346a8deb71f0)
-    (property "Reference" "#PWR077" (at 293.37 125.73 0)
+    (property "Reference" "#PWR069" (at 293.37 125.73 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "Value" "GND" (at 293.37 123.19 0)
@@ -3483,7 +3483,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/443bd4b5-8a40-4669-9915-56b6f474530f"
-          (reference "#PWR077") (unit 1)
+          (reference "#PWR069") (unit 1)
         )
       )
     )
@@ -3492,7 +3492,7 @@
   (symbol (lib_id "antmicropower:GND") (at 189.23 151.13 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid df71809d-1380-4ac3-a5c5-468a5af20313)
-    (property "Reference" "#PWR073" (at 189.23 157.48 0)
+    (property "Reference" "#PWR065" (at 189.23 157.48 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "Value" "GND" (at 191.135 156.21 0)
@@ -3514,7 +3514,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/443bd4b5-8a40-4669-9915-56b6f474530f"
-          (reference "#PWR073") (unit 1)
+          (reference "#PWR065") (unit 1)
         )
       )
     )
@@ -3523,7 +3523,7 @@
   (symbol (lib_id "antmicroLogicTranslatorsLevelShifters:NTS0102_TSSOP") (at 288.29 125.73 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f72381c8-07e0-4eb8-9a39-8fd65e513c9c)
-    (property "Reference" "U6" (at 278.13 118.11 0)
+    (property "Reference" "U7" (at 278.13 118.11 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (property "Value" "NTS0102_TSSOP" (at 278.13 120.65 0)
@@ -3558,7 +3558,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/443bd4b5-8a40-4669-9915-56b6f474530f"
-          (reference "U6") (unit 1)
+          (reference "U7") (unit 1)
         )
       )
     )
@@ -3567,7 +3567,7 @@
   (symbol (lib_id "antmicroLEDIndicationDiscrete:LED_G_0603_LTST-C190GKT") (at 224.79 171.45 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f7d514de-0f79-4b92-963d-4d1dace5d131)
-    (property "Reference" "D7" (at 220.98 173.9899 90)
+    (property "Reference" "D11" (at 220.98 173.9899 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "LED_G_0603_LTST-C190GKT" (at 232.41 194.31 0)
@@ -3596,7 +3596,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/443bd4b5-8a40-4669-9915-56b6f474530f"
-          (reference "D7") (unit 1)
+          (reference "D11") (unit 1)
         )
       )
     )
@@ -3605,7 +3605,7 @@
   (symbol (lib_id "antmicroResistors0402:R_0R_0402") (at 295.91 130.81 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fae7bc47-80e6-49bc-a485-fccedc18fd96)
-    (property "Reference" "R69" (at 292.1 129.54 0)
+    (property "Reference" "R75" (at 292.1 129.54 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (property "Value" "R_0R_0402" (at 316.23 143.51 0)
@@ -3643,7 +3643,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/443bd4b5-8a40-4669-9915-56b6f474530f"
-          (reference "R69") (unit 1)
+          (reference "R75") (unit 1)
         )
       )
     )
