@@ -1469,11 +1469,6 @@
     (uuid fb337e5d-c7f3-4f04-9cc2-e94a41971e9e)
   )
 
-  (text "TODO: \ncalculate the link budget.\nCheck if redrivers are needed"
-    (at 111.76 160.02 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 2ffde090-47e5-4399-b048-e71134ed8347)
-  )
   (text "For REFCLK\nSee PCI Express\nOCuLink\nSpecification\nRevision 1.0\nTable 2-2 note 2"
     (at 260.35 123.19 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
