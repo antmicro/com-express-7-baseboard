@@ -1585,7 +1585,7 @@
   (symbol (lib_id "antmicropower:GND") (at 275.59 191.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 16ac6b83-ed5f-4ea8-b049-542a975aba86)
-    (property "Reference" "#PWR083" (at 284.48 194.31 0)
+    (property "Reference" "#PWR084" (at 284.48 194.31 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Value" "GND" (at 275.59 195.58 0)
@@ -1607,7 +1607,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/55405a83-d274-4fdb-aba5-7f854fcb14c7"
-          (reference "#PWR083") (unit 1)
+          (reference "#PWR084") (unit 1)
         )
       )
     )
@@ -1662,7 +1662,7 @@
   (symbol (lib_id "antmicropower:PWR_FLAG") (at 207.01 187.96 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4af51f58-2528-44d4-8139-645628b73137)
-    (property "Reference" "#FLG08" (at 208.915 187.96 0)
+    (property "Reference" "#FLG06" (at 208.915 187.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PWR_FLAG" (at 210.82 187.9599 90)
@@ -1678,7 +1678,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/55405a83-d274-4fdb-aba5-7f854fcb14c7"
-          (reference "#FLG08") (unit 1)
+          (reference "#FLG06") (unit 1)
         )
       )
     )
@@ -1835,7 +1835,7 @@
   (symbol (lib_id "antmicropower:GND") (at 316.23 191.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 85278244-bc29-4f20-a97e-b31aef526917)
-    (property "Reference" "#PWR084" (at 325.12 194.31 0)
+    (property "Reference" "#PWR085" (at 325.12 194.31 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Value" "GND" (at 316.23 195.58 0)
@@ -1857,7 +1857,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/55405a83-d274-4fdb-aba5-7f854fcb14c7"
-          (reference "#PWR084") (unit 1)
+          (reference "#PWR085") (unit 1)
         )
       )
     )
@@ -1866,7 +1866,7 @@
   (symbol (lib_id "antmicropower:GND") (at 205.74 189.23 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 869a08bc-e50f-4dc9-bef6-f6b87a0b9816)
-    (property "Reference" "#PWR0433" (at 214.63 191.77 0)
+    (property "Reference" "#PWR083" (at 214.63 191.77 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Value" "GND" (at 205.74 193.04 0)
@@ -1888,7 +1888,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/55405a83-d274-4fdb-aba5-7f854fcb14c7"
-          (reference "#PWR0433") (unit 1)
+          (reference "#PWR083") (unit 1)
         )
       )
     )
@@ -1897,7 +1897,7 @@
   (symbol (lib_id "antmicropower:PWR_FLAG") (at 190.5 121.92 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9cf4fd31-2766-45c0-bdb7-715b18e5b011)
-    (property "Reference" "#FLG014" (at 188.595 121.92 0)
+    (property "Reference" "#FLG05" (at 188.595 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PWR_FLAG" (at 186.69 121.92 0)
@@ -1913,7 +1913,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/55405a83-d274-4fdb-aba5-7f854fcb14c7"
-          (reference "#FLG014") (unit 1)
+          (reference "#FLG05") (unit 1)
         )
       )
     )
