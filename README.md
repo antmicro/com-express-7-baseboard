@@ -1,21 +1,33 @@
 # COM Express 7 baseboard
 
-This project contains a mechanical mock of a baseboard meant for COM Express 7 SoM.
+Copyright (c) 2022-2023 [Antmicro](https://www.antmicro.com)
 
 ![](img/mock.png)
 
-Following interfaces are exposed:
+## Overview
+
+This project contains open hardware design files for a baseboard supporting COM Express 7 modules.
+The board breaks-out major communications and peripheral interfaces provided by the standard.
+It also provides a backplane connector which makes it possible to integrate this board into larger systems.
+
 ## Key features
 
-* PCIe card format
-* Powered by 8-pin 12V connector.
-* Compatible with COM Express 7
-* 1x GBe
-* 2x USB 3.0
-* 2x 10G SFP+
-* 2x 10G 10GBase-T
-* 1x HDMI
-* 1x Thunderbolt
-* 2x M.2 key M
-* 1x M.2 key E
+* Two SFP+ 10G ethernet ports
+* OCuLink PCIe x4 connector
+* Two USB 3.0 type A ports
+* Gigabit RJ45 connector
+* Singular +12V supply voltage
+* USB-C console output
+* Two M.2 key M with PCIe x4
+* M.2 key E
+* SD card connector
+* Backplane connector with PCIe, USB and UART console
+* Temperature and fan monitor/controller with 3 12V fan connectors
+* LEDs for status indication
+* Board power/current monitors
+* Board EEPROM and support for carrier MAFS BIOS
+
+## Licensing
+
+This project is published under the [Apache-2.0](LICENSE) license.
 
