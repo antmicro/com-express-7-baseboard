@@ -1476,7 +1476,7 @@
   (symbol (lib_id "antmicroPciConnectors:Bus_M.2_2199230-2") (at 182.88 82.55 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1493821e-c950-4151-ab5f-2bb8f1ce691c)
-    (property "Reference" "J10" (at 198.12 74.93 0)
+    (property "Reference" "J100" (at 198.12 74.93 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (property "Value" "Bus_M.2_2199230-2" (at 198.12 76.2 0)
@@ -1571,7 +1571,7 @@
     (instances
       (project "com-express-7-baseboard"
         (path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/ebb6e8c2-9d30-49b6-83d5-1732977f9e4c"
-          (reference "J10") (unit 1)
+          (reference "J100") (unit 1)
         )
       )
     )
