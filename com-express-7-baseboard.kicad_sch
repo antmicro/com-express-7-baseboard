@@ -903,7 +903,7 @@
     (property "Sheetname" "M.2 key M #1" (at 281.94 60.2484 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "m2keym.kicad_sch" (at 281.94 89.4846 0)
+    (property "Sheetfile" "m2keym_low.kicad_sch" (at 281.94 89.4846 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (pin "SUSCLK" input (at 322.58 66.04 0)
