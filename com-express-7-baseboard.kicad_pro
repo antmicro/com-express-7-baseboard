@@ -138,7 +138,7 @@
           "td_on_pad_in_zone": false,
           "td_onpadsmd": true,
           "td_onroundshapesonly": false,
-          "td_ontrackend": false,
+          "td_ontrackend": true,
           "td_onviapad": true
         }
       ],
@@ -438,9 +438,9 @@
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.25,
-        "via_diameter": 0.8,
-        "via_drill": 0.4,
+        "track_width": 0.2,
+        "via_diameter": 0.45,
+        "via_drill": 0.1,
         "wire_width": 6
       },
       {
@@ -452,7 +452,7 @@
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
-        "name": "100Ohm-diff_10GbE",
+        "name": "100Ohm-diff_10GKR",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
@@ -486,8 +486,8 @@
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
-        "name": "100Ohm-diff_SFP",
-        "pcb_color": "rgb(255, 0, 255)",
+        "name": "100Ohm-diff_SFI",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
         "via_diameter": 0.45,
@@ -544,11 +544,11 @@
         "pattern": "*PCIe*-"
       },
       {
-        "netclass": "100Ohm-diff_SFP",
+        "netclass": "100Ohm-diff_SFI",
         "pattern": "*SFI*+"
       },
       {
-        "netclass": "100Ohm-diff_SFP",
+        "netclass": "100Ohm-diff_SFI",
         "pattern": "*SFI*-"
       },
       {
@@ -558,6 +558,10 @@
       {
         "netclass": "100Ohm-diff_GbE",
         "pattern": "*GbE*-"
+      },
+      {
+        "netclass": "100Ohm-diff_10GKR",
+        "pattern": "*10GKR*"
       }
     ]
   },
