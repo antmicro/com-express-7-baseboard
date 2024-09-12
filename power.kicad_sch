@@ -10307,7 +10307,7 @@
     (property "Reference" "#FLG08" (at 125.095 224.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "PWR_FLAG" (at 125.73 224.79 90)
+    (property "Value" "PWR_FLAG" (at 127 224.7899 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (at 123.19 224.79 0)

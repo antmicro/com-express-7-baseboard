@@ -8825,7 +8825,7 @@
   )
 
   (symbol (lib_id "antmicropower:GND") (at 327.66 170.18 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid eab11435-984e-4075-8c1d-565a455f2b8a)
     (property "Reference" "#PWR0375" (at 327.66 176.53 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
