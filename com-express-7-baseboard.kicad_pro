@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 0.0,
+          "height": 0.55,
+          "width": 0.4
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -504,7 +504,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "85Ohm-diff_PCIe",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgba(255, 0, 255, 0.639)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
         "via_diameter": 0.45,
@@ -521,7 +521,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "90Ohm-diff_USB",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgba(204, 102, 0, 0.639)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
         "via_diameter": 0.45,
@@ -562,6 +562,10 @@
       {
         "netclass": "100Ohm-diff_10GKR",
         "pattern": "*10GKR*"
+      },
+      {
+        "netclass": "90Ohm-diff_USB",
+        "pattern": "*Backplane/USB*"
       }
     ]
   },

@@ -6177,7 +6177,7 @@
   )
 
   (symbol (lib_id "antmicroTransistorsFETsMOSFETsSingle:BSS138-7-F") (at 364.49 78.74 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 4a0bcec4-3011-494d-9fe6-cc1978fcc06e)
     (property "Reference" "Q3" (at 375.92 74.93 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
@@ -6191,7 +6191,7 @@
     (property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30144.pdf" (at 387.35 88.9 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
-    (property "MPN" "BSS138-7-F" (at 387.35 91.44 0)
+    (property "MPN" "BSS138-7-F" (at 375.92 78.74 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Manufacturer" "Diodes Incorporated" (at 387.35 93.98 0)
