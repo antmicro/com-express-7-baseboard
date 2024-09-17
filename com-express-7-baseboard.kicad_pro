@@ -445,7 +445,7 @@
       },
       {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.15,
         "diff_pair_gap": 0.22,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.16,
@@ -462,7 +462,7 @@
       },
       {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.15,
         "diff_pair_gap": 0.2,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.15,
@@ -479,7 +479,7 @@
       },
       {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.15,
         "diff_pair_gap": 0.22,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.16,
@@ -496,7 +496,7 @@
       },
       {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.15,
         "diff_pair_gap": 0.187,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.202,
@@ -504,7 +504,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "85Ohm-diff_PCIe",
-        "pcb_color": "rgba(255, 0, 255, 0.639)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
         "via_diameter": 0.45,
@@ -513,7 +513,7 @@
       },
       {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.15,
         "diff_pair_gap": 0.195,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.185,
@@ -521,7 +521,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "90Ohm-diff_USB",
-        "pcb_color": "rgba(204, 102, 0, 0.639)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
         "via_diameter": 0.45,
