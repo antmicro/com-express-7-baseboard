@@ -566,6 +566,10 @@
       {
         "netclass": "90Ohm-diff_USB",
         "pattern": "*Backplane/USB*"
+      },
+      {
+        "netclass": "90Ohm-diff_USB",
+        "pattern": "*2xUSB3.0*X*"
       }
     ]
   },
