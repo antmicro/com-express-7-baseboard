@@ -1,0 +1,9 @@
+(version 1)
+
+(rule "100Ohm_diff_GbE_inner" 
+	(constraint track_width (opt 0.124mm))
+	(constraint clearance (opt 0.22mm))
+	(condition "(A.NetClass == '100Ohm-diff_GbE')")
+	(layer inner)
+)
+
