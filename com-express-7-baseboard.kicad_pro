@@ -574,6 +574,14 @@
       {
         "netclass": "100Ohm-diff_GbE",
         "pattern": "*RJ45/D*"
+      },
+      {
+        "netclass": "90Ohm-diff_USB",
+        "pattern": "*2xUSB3.0*P*D*"
+      },
+      {
+        "netclass": "90Ohm-diff_USB",
+        "pattern": "*2xUSB3.0*USB_*D*"
       }
     ]
   },
