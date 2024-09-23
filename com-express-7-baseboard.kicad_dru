@@ -14,3 +14,9 @@
 	(layer inner)
 )
 
+(rule "85Ohm_diff_PCIe_inner" 
+	(constraint track_width (opt 0.178mm))
+	(constraint clearance (opt 0.196mm))
+	(condition "(A.NetClass == '85Ohm-diff_PCIe')")
+	(layer inner)
+)

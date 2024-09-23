@@ -582,6 +582,14 @@
       {
         "netclass": "90Ohm-diff_USB",
         "pattern": "*2xUSB3.0*USB_*D*"
+      },
+      {
+        "netclass": "85Ohm-diff_PCIe",
+        "pattern": "*PCIE_{REF}.CK*"
+      },
+      {
+        "netclass": "90Ohm-diff_USB",
+        "pattern": "*USB_D*"
       }
     ]
   },
