@@ -20,3 +20,10 @@
 	(condition "(A.NetClass == '85Ohm-diff_PCIe')")
 	(layer inner)
 )
+
+(rule "50Ohm_se_inner" 
+	(constraint track_width (opt 0.155mm))
+	(condition "(A.NetClass == '50Ohm-se')")
+	(layer inner)
+)
+
