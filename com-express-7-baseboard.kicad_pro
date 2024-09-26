@@ -180,6 +180,7 @@
         0.2,
         0.3,
         0.5,
+        0.55,
         1.4
       ],
       "via_dimensions": [
@@ -504,7 +505,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "50Ohm-se",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgba(0, 255, 255, 0.451)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.182,
         "via_diameter": 0.45,
@@ -538,7 +539,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "90Ohm-diff_USB",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgba(0, 255, 255, 0.478)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
         "via_diameter": 0.45,
@@ -611,6 +612,14 @@
       {
         "netclass": "50Ohm-se",
         "pattern": "*Com*SDIO*"
+      },
+      {
+        "netclass": "90Ohm-diff_USB",
+        "pattern": "*USB*FTDI_D*"
+      },
+      {
+        "netclass": "90Ohm-diff_USB",
+        "pattern": "*USB1.D*"
       }
     ]
   },
