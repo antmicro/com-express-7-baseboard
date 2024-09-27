@@ -7,7 +7,7 @@
 	(layer inner)
 )
 
-(rule "80Ohm_diff_USB_inner" 
+(rule "90Ohm_diff_USB_inner" 
 	(constraint track_width (opt 0.159mm))
 	(constraint clearance (opt 0.204mm))
 	(condition "(A.NetClass == '90Ohm-diff_USB')")
