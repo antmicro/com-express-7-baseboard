@@ -2,21 +2,21 @@
 
 (rule "100Ohm_diff_GbE_inner" 
 	(constraint track_width (opt 0.124mm))
-	(constraint clearance (opt 0.22mm))
+	(constraint diff_pair_gap (opt 0.22mm))
 	(condition "(A.NetClass == '100Ohm-diff_GbE')")
 	(layer inner)
 )
 
 (rule "90Ohm_diff_USB_inner" 
 	(constraint track_width (opt 0.159mm))
-	(constraint clearance (opt 0.204mm))
+	(constraint diff_pair_gap (opt 0.204mm))
 	(condition "(A.NetClass == '90Ohm-diff_USB')")
 	(layer inner)
 )
 
 (rule "85Ohm_diff_PCIe_inner" 
 	(constraint track_width (opt 0.178mm))
-	(constraint clearance (opt 0.196mm))
+	(constraint diff_pair_gap (opt 0.196mm))
 	(condition "(A.NetClass == '85Ohm-diff_PCIe')")
 	(layer inner)
 )
