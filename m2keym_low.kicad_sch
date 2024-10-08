@@ -1461,6 +1461,11 @@
     (effects (font (size 4 4) (thickness 0.8) bold) (justify left bottom))
     (uuid 1ac11dad-9429-4469-b315-0defa9994e77)
   )
+  (text "Swapped polarity of TX and RX lines\nfor easier PCB layout"
+    (at 163.83 173.99 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid f4e90bf9-59e7-4369-8627-751f9d06294f)
+  )
 
   (label "PCIe_{x4}.TX2-" (at 158.75 143.51 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -2161,7 +2166,7 @@
     (property "Public" "False" (at 250.19 121.92 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
-    (property "Color" "Green" (at 234.95 140.97 90)
+    (property "Color" "Green" (at 233.68 140.97 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (pin "1" (uuid 0b942525-c44d-4dd8-ad04-8973eb300242))
