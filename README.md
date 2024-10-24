@@ -1,8 +1,8 @@
 # COM Express 7 baseboard
 
-Copyright (c) 2022-2023 [Antmicro](https://www.antmicro.com)
+Copyright (c) 2022-2024 [Antmicro](https://www.antmicro.com)
 
-![](img/mock.png)
+![](assets/previews/orthoT.png)
 
 ## Overview
 
@@ -26,6 +26,14 @@ It also provides a backplane connector which makes it possible to integrate this
 * LEDs for status indication
 * Board power/current monitors
 * Board EEPROM and support for carrier MAFS BIOS
+
+## Project structure
+
+The main directory contains KiCad PCB project files, a LICENSE, and a README.
+The remaining files are stored in the following directories:
+
+* `doc` - contains board schematic
+* `assets` - contains visual assets for showcasing this design on [Open Hardware Portal](https://openhardware.antmicro.com/boards/com-express-7-baseboard/?tab=features&view=top-ortho).
 
 ## Licensing
 
