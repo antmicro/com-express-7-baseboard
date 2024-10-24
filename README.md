@@ -12,7 +12,7 @@ It also provides a backplane connector which makes it possible to integrate this
 
 ## Key features
 
-* Two SFP+ 10G ethernet ports
+* Two SFP+ 10G Ethernet ports
 * OCuLink PCIe x4 connector
 * Two USB 3.0 type A ports
 * Gigabit RJ45 connector
