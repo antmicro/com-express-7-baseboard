@@ -6996,7 +6996,7 @@
   )
 
   (symbol (lib_id "antmicroModules:Mech_SolidRun_LX2160A-CEX7") (at 246.38 232.41 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid 5be27ab7-5618-4db3-a150-2723c8bd488c)
     (property "Reference" "A3" (at 257.81 234.315 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
