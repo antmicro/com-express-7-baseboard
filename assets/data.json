@@ -1,7 +1,6 @@
 {
     "id": "com-express-7-baseboard",
     "componentIds": [
-        "solidrun-srx2160s01d00ge064v21c0",
         "seiko-instruments-ms621fe-fl11e",
         "tdk-c1005x6s1a105k050bc",
         "kemet-t520b107m010ate070",
@@ -23,6 +22,7 @@
         "littelfuse-1206l450slwr",
         "wurth-elektronik-9774025151r",
         "bivar-slp3-150-300-f",
+        "wurth-elektronik-9774050151r",
         "amphenol-rje361882415",
         "bel-fuse-ss-79100-010",
         "kycon-kusbx-sl2-cs1n24-b-tr",
@@ -42,7 +42,6 @@
         "vishay-si7613dn-t1-ge3",
         "nexperia-bss84akw-115",
         "onsemi-mmbt3904lt1g",
-        "nexperia-bc817-25w-115",
         "panasonic-erj2ge0r00x",
         "bourns-cr0402-fx-4700glf",
         "bourns-cr0402-fx-3300glf",
