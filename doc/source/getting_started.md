@@ -25,7 +25,7 @@ This will result in ([`D18`](#D18)) changing color from red to green, wihich sig
 
 ```{csv-table} Frozen Delights!
 :header: >
-:    "Pin no.", "b", "Pin no.", "a"
+:    "Pin no.", "Net", "Pin no.", "Net"
 :widths: 5, 20, 5, 20
 
 "1", "12V","2", "12V"

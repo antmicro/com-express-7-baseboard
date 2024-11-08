@@ -40,5 +40,5 @@ They are connected to one I2C bus. Their addresses are `0x40`, `0x41` and `0x42`
 
 ## Mechanics
 
-The Jetson Orin Baseboard PCB is 225x104 millimeters (WxL) which translates into 10.04x4.09 inch.
+The COM Express 7 baseboard PCB is 225x104 millimeters (WxL) which translates into 10.04x4.09 inch.
 The overall height of the set depends on the cooling module attached.
