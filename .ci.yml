@@ -7,10 +7,10 @@ build-and-deploy:
     tags:
         - docs
     variables:
-        DOCS_DIR: '.'
+        DOCS_DIR: 'doc'
     script:
-        - pip3 install -r requirements.txt
         - cd $DOCS_DIR
+        - pip3 install -r requirements.txt
         - export SOURCEDIR=`grep -oP "^SOURCEDIR\s*\??=\s*\K(.*)" Makefile`
         # build html and pdf (latex)
         - make html latexpdf
