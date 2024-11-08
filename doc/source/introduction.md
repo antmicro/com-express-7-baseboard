@@ -1,6 +1,7 @@
 # Board overview
 
-COM Express 7 baseboard is an open hardware board design supporting Type 7 COM Express modules.
+The Baseboard supports Type 7 COM Express modules. The board breaks out major communications and peripheral interfaces as defined by the COM Express standard. It also provides a backplane connector, making it possible to integrate the board into larger systems. The SolidRun LX2160A COM Express module has been used in this project. The LX2160A features 16 Arm Cortex-A72 processors, 4 x 10GbE and 18x PCIe Gen 3.0 lanes and is fully supported in Linux.
+
 The board design files were created in KiCad 7x.
 You can find out more about the COM Express 7 baseboard by visiting Antmicro's portals listed below:
 
