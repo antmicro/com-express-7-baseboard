@@ -33,15 +33,13 @@ They are connected to one I2C bus. Their addresses are `0x40`, `0x41` and `0x42`
 
 - Gigabit Ethernet RJ45 connector ([`J1A`](#J1))
 - USB 3.0 - two type A ports: ([`J1B`](#J1)) and ([`J1C`](#J1))
-- USB-C console output ([`J3`](#J3))
+- USB-C console ([`J3`](#J3))
 - 2x M.2 2280 key M connector with PCIe x4 ([`J5`](#J5)) and ([`J8`](#J8))
 - M.2 2230 key E connector with PCIe x1 ([`J100`](#J100))
 - SD card connector ([`J15`](#J15))
 - Backplane PCB edge connector with PCIe x2, USB 2.0 and UART console ([`J16`](#J16))
-
-## 2x RGB LED for status indication
-
-## Board EEPROM and support for carrier MAFS BIOS
+- 2x RGB LED for status indication
+- Board EEPROM and support for carrier MAFS BIOS
 
 ## Mechanics
 
