@@ -12,6 +12,8 @@ You can find out more about the COM Express 7 baseboard by visiting Antmicro's p
 They provide 3D renders and the board [stackup definition](https://openhardware.antmicro.com/boards/com-express-7-baseboard/?view=top-ortho&tab=stackup), as well as [an interactive preview](https://openhardware.antmicro.com/boards/com-express-7-baseboard/?view=top-ortho&amp%3Btab=stackup&tab=preview) of the board schematic.
 A [PDF schematic](../com-express-7-baseboard-schematic.pdf) of the board is also available.
 
+<iframe src="_static/COM_Express_baseboard_VSD_graph.html" style="border:0px" height="800px" width="100%" title="COM Express 7 baseboard graph"></iframe>
+
 ## IO map 
 
 A map of on-board connectors, status LEDs, control buttons and I/O interfaces is provided below.

@@ -62,6 +62,8 @@ todo_include_todos=False
 
 # -- Options for HTML output ---------------------------------------------------
 
+html_static_path = ['_static']
+
 html_theme = 'sphinx_immaterial'
 
 html_last_updated_fmt = today_fmt
