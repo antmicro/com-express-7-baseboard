@@ -2,23 +2,30 @@ include:
   - project: 'repositories/antmicro-pcb-release-ci-template'
     file: '/.ci.yml'
 
-build-and-deploy:
-    image: $CI_DOCS_DOCKER_IMAGE
-    tags:
-        - docs
-    variables:
-        DOCS_DIR: 'doc'
-    script:
-        - cd $DOCS_DIR
-        - pip3 install -r requirements.txt
-        - export SOURCEDIR=`grep -oP "^SOURCEDIR\s*\??=\s*\K(.*)" Makefile`
-        # build html and pdf (latex)
-        - make html latexpdf
-        # add PDF version to html build
-        - cp build/latex/*.pdf build/html/
-        # tar docs to trigger deployment
-        - tar cf $CI_DOCS_ARCHIVE -C build/html/ .
-    artifacts:
-        paths:
-            - $DOCS_DIR/build
-            - $CI_DOCS_ARCHIVE
+image: $CI_DOCS_DOCKER_IMAGE
+
+docs-build:
+  stage: build
+  before_script:
+    - cd doc/
+    - pip3 install -r requirements.txt
+  script:
+    - cd doc/
+    - make html
+    - tar cf ../$CI_DOCS_ARCHIVE -C build/html/ .
+  artifacts:
+    paths:
+      - doc/build
+      - $CI_DOCS_ARCHIVE
+
+docs-deploy:
+  variables:
+    GIT_STRATEGY: none
+  dependencies:
+    - docs-build
+  stage: deploy
+  tags: ['docs']
+  script: echo 'Deploying docs'
+  artifacts:
+    paths:
+      - $CI_DOCS_ARCHIVE
