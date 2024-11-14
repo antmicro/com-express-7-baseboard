@@ -5,4 +5,6 @@
 
 introduction
 getting_started
+power_supply
+pinouts
 ```
