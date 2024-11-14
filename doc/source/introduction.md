@@ -29,6 +29,8 @@ COM Express 7 baseboard can be powered with a stable DC voltage via the on-board
 ## Available interfaces and features
 
 - Gigabit Ethernet RJ45 connector ([`J1A`](#J1))
+- 2x SFP+ 10 Gigabit Ethernet port ([`J2`](#J2))
+- OCuLink PCIe x4 connector ([`J4`](#J4)) 
 - USB 3.0 - two type A ports: ([`J1B`](#J1)) and ([`J1C`](#J1))
 - USB-C console ([`J3`](#J3))
 - 2x M.2 2280 key M connector with PCIe x4 ([`J5`](#J5)) and ([`J8`](#J8))
