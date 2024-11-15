@@ -31,7 +31,8 @@ COM Express 7 baseboard interface map
 
 ## Power
  
-COM Express 7 baseboard can be powered with a stable DC voltage via the on-board locking DC connector ([`J6`](#J6)) with Molex Nano-Fit plug, or backplane PCB-edge connector ([`J16`](#J16)). 
+COM Express 7 baseboard can be powered with a stable DC voltage via the on-board locking DC connector ([`J6`](#J6)) with Molex Nano-Fit plug, or backplane PCB-edge connector ([`J16`](#J16)).
+More details in [Power supply](./power_supply.md) section.
 
 ## Available interfaces and features
 
