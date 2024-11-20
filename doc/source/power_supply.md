@@ -10,7 +10,10 @@ They are connected to one I2C bus. Their addresses are `0x40`, `0x41` and `0x42`
 
 ## Power sequence
 
-+12V_AON -> +5V_AON -> +3V3_AON -> *Power button* ->  +12V -> +5V -> +3V3 -> +1V8 -> +1V0
+```{md-mermaid}
+graph LR
++12V_AON --> +5V_AON --> +3V3_AON --> Power_button -->  +12V --> +5V --> +3V3 --> +1V8 --> +1V0
+```
 
 - When 12V is supplied to the baseboard, `+5V_AON` is generated from `+12V_AON`, and `+3V3_AON` is generated from `+5V_AON`.
 - The `PSON` signal turns on the [`Q1`](#Q1) MOSFET, which in turn switches [`Q2`](#Q2) MOSFET on, passing power from `+12V_AON` to `+12V` rail.
