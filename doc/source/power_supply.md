@@ -16,11 +16,11 @@ graph LR
 ```
 
 - When 12V is supplied to the baseboard, `+5V_AON` is generated from `+12V_AON`, and `+3V3_AON` is generated from `+5V_AON`.
+- LED [`D18`](#D18) glows red, indicating power is connected
 - The `PSON` signal turns on the [`Q1`](#Q1) MOSFET, which in turn switches [`Q2`](#Q2) MOSFET on, passing power from `+12V_AON` to `+12V` rail.
 There is a combinational logic circuit which pulls the `PSON` net low, if the COM Express module is NOT type 7. It is determined by the state of 
 `!TYPE0`, `!TYPE1` and `!TYPE2` signals, which come from the connected COM Express module (pins C54, C57 and D57 of [`J12`](#J12))
 - There is a circuit, which simulates button click for autostart. If `R173` and `C101` are desoldered, the autostart is disabled and then [`SW1`](#SW1) button is used to power on the baseboard. 
-
 - After all power supplies start-up correctly, 1V0 rail will trigger `PWR_OK` line to set to high state after 120ms (the delay is created by `U20`). 
 This will result in ([`D18`](#D18)) changing color from red to green, which signals successful power supply section startup.
 
