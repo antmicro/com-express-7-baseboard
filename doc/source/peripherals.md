@@ -1,7 +1,7 @@
 # Peripherals
 
 ## Master Attached Flash Sharing location selection
-MAFS location can be set to be on Module or on Carier, using ([`J14`](#J14)) jumper.
+MAFS location can be set to be on Module or on Carrier, using ([`J14`](#J14)) jumper.
 
 ## Clear CMOS
 Using ([`J13`](#J13)) jumper, RTC on COM Express 7 can be cleared.
@@ -9,7 +9,7 @@ Using ([`J13`](#J13)) jumper, RTC on COM Express 7 can be cleared.
 ## SFI / KR
 
 1 HS channel needs to be configured (e.g. CH A) for 10G-KR, configure the other HS channel for XFI per the attached instructions,  and use Data Switch to connect CH A to CH B (DST_CONTROL_1/2 registers).
-Using OR resistors, SFI can be directly connected to KR on COM Express 7, omiting the `TLK10232CTR` IC.
+By using OR resistors, SFI can be directly connected to 10GBase-KR pins on COM Express Type 7, eliminating the need for the TLK10232CTR IC. This configuration is intended for modules that support SFI-compatible interfaces on 10GBase-KR pins, such as the SolidRun LX2160A
 
 
 ## 10GbE on backplane connector
@@ -18,7 +18,7 @@ PCIe B3x4 can be configured as 10G-KR for LX2160A
 
 ## GPIO expander
 
-There is a `PCA9539AHF` GPIO expander (address: 0x74) connected to the SMBus. I controlls the status LED ([`D17`](#D17)), !PRSNT and GPIO pins on the backplane connector ([`J16`](#J16)),
+There is a `PCA9539AHF` GPIO expander (address: 0x74) connected to the SMBus. I controls the status LED ([`D17`](#D17)), !PRSNT and GPIO pins on the backplane connector ([`J16`](#J16)),
 as well as `Enable` signals controlling power flow to the USB 3.0 ports.
 
 ## Devices on the I2C bus

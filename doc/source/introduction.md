@@ -1,8 +1,8 @@
 # Introduction
 
-The Baseboard supports Type 7 COM Express modules. The board breaks out major communications and peripheral interfaces as defined by the COM Express standard. It also provides a backplane connector, making it possible to integrate the board into larger systems. 
+The Baseboard supports COM Express Type 7 modules. The board breaks out major communications and peripheral interfaces as defined by the COM Express standard. It features front panel connectors for cable interfaces and a backplane edge connector designed for integrating the board into larger systems.
 
-One of the supported Type 7 COM Express modules is the SolidRun LX2160A. It features 16 Arm Cortex-A72 processors, 4 x 10GbE and 18x PCIe Gen 3.0 lanes and is fully supported in Linux.
+One of the supported COM Express Type 7 modules is the SolidRun LX2160A. It features 16 Arm Cortex-A72 processors, 4 x 10GbE and 18x PCIe Gen 3.0 lanes and is fully supported by Linux.
 
 The board design files were created in KiCad 7.x.
 You can find out more about the COM Express 7 baseboard by visiting Antmicro's portals listed below:
@@ -31,7 +31,7 @@ COM Express 7 baseboard interface map
 
 ## Power
  
-COM Express 7 baseboard can be powered with a stable DC voltage via the on-board locking DC connector ([`J6`](#J6)) with Molex Nano-Fit plug, or backplane PCB-edge connector ([`J16`](#J16)).
+COM Express 7 baseboard can be powered with a DC voltage via the on-board locking DC connector ([`J6`](#J6)) with Molex Nano-Fit plug, or backplane PCB-edge connector ([`J16`](#J16)).
 More details in [Power supply](./power_supply.md) section.
 
 ## Available interfaces and features
@@ -42,7 +42,7 @@ More details in [Power supply](./power_supply.md) section.
 - USB 3.0 - two type A ports: ([`J1B`](#J1)) and ([`J1C`](#J1))
 - USB-C console ([`J3`](#J3))
 - 2x M.2 2280 key M connector with PCIe x4 ([`J5`](#J5)) and ([`J8`](#J8))
-- M.2 2230 key E connector with PCIe x1 ([`J100`](#J100))
+- M.2 2230 key E connector with PCIe x1 and USB([`J100`](#J100))
 - SD card connector ([`J15`](#J15))
 - Backplane PCB edge connector with PCIe x2, USB 2.0 and UART console ([`J16`](#J16))
 - 2x RGB LED for status indication
