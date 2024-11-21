@@ -11191,6 +11191,16 @@
 	)
 	(wire
 		(pts
+			(xy 280.67 243.84) (xy 280.67 246.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6fa4f114-a37e-4009-81ed-b581255ccfa6")
+	)
+	(wire
+		(pts
 			(xy 64.77 224.79) (xy 69.85 224.79)
 		)
 		(stroke
@@ -12231,6 +12241,16 @@
 	)
 	(wire
 		(pts
+			(xy 271.78 243.84) (xy 271.78 246.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b24a85b3-bd8f-498e-a44c-b2ab15f43b54")
+	)
+	(wire
+		(pts
 			(xy 254 207.01) (xy 257.81 207.01)
 		)
 		(stroke
@@ -13031,16 +13051,6 @@
 	)
 	(wire
 		(pts
-			(xy 280.67 243.84) (xy 280.67 246.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f0addcaa-1bc6-4570-a746-a51aa14c9258")
-	)
-	(wire
-		(pts
 			(xy 322.58 83.82) (xy 322.58 88.9)
 		)
 		(stroke
@@ -13178,16 +13188,6 @@
 			(type default)
 		)
 		(uuid "f8277fcf-394a-435b-9ddd-3f65b50de1c9")
-	)
-	(wire
-		(pts
-			(xy 271.78 243.84) (xy 271.78 246.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f92d8ca1-6283-434d-9dea-f48ef052a8a9")
 	)
 	(wire
 		(pts
@@ -16013,146 +16013,6 @@
 		)
 	)
 	(symbol
-		(lib_id "antmicroResistors0402:R_2k2_0402")
-		(at 271.78 251.46 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "186a8002-5cd8-4ae8-891e-a6e2c1a3ea66")
-		(property "Reference" "R318"
-			(at 273.05 247.65 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "R_2k2_0402"
-			(at 284.48 231.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "antmicro-footprints:R_0402_1005Metric"
-			(at 287.02 231.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.bourns.com/docs/product-datasheets/cr.pdf"
-			(at 289.56 231.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 271.78 251.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-2201GLF"
-			(at 292.1 231.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 294.64 231.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 297.18 231.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 299.72 231.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Val" "2k2"
-			(at 273.05 250.19 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify right)
-			)
-		)
-		(property "Tolerance" "1%"
-			(at 281.94 231.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "451d7b80-b7fd-4166-81b8-3cd78baf9794")
-		)
-		(pin "2"
-			(uuid "a909dbd3-7fbf-4946-8063-8de78c19010b")
-		)
-		(instances
-			(project "com-express-7-baseboard"
-				(path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/9e43a8fe-5590-4346-856e-e8b6e5166965"
-					(reference "R318")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "antmicroLEDIndicationDiscrete:LED_G_0603_LTST-C190GKT")
 		(at 227.33 261.62 270)
 		(mirror x)
@@ -16740,6 +16600,145 @@
 		)
 	)
 	(symbol
+		(lib_id "antmicroLEDIndicationDiscrete:LED_G_0603_LTST-C190GKT")
+		(at 271.78 243.84 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1ead809b-7f27-4654-b173-fd602c4a48b2")
+		(property "Reference" "D27"
+			(at 272.415 239.395 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "LED_G_0603_LTST-C190GKT"
+			(at 264.16 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:LED_0603_1608Metric_G"
+			(at 261.62 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTST-C190GKT.pdf"
+			(at 259.08 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 271.78 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "LTST-C190GKT"
+			(at 275.59 238.7601 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Lite-On"
+			(at 254 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 251.46 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 248.92 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Public" "False"
+			(at 254 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Color" "Green"
+			(at 272.415 243.84 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "66577f1e-d27d-468b-94d5-7a6da7198b66")
+		)
+		(pin "2"
+			(uuid "b093254f-6a7b-4ee9-8289-e869f345f2ab")
+		)
+		(instances
+			(project "com-express-7-baseboard"
+				(path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/9e43a8fe-5590-4346-856e-e8b6e5166965"
+					(reference "D27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "antmicropower:+3V3_AON")
 		(at 227.33 243.84 0)
 		(unit 1)
@@ -17303,6 +17302,146 @@
 			(project "com-express-7-baseboard"
 				(path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/9e43a8fe-5590-4346-856e-e8b6e5166965"
 					(reference "R326")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicroResistors0402:R_2k2_0402")
+		(at 280.67 251.46 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "26b27e6c-7b42-4909-ad26-b3ad2ac531c9")
+		(property "Reference" "R318"
+			(at 281.94 247.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "R_2k2_0402"
+			(at 293.37 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:R_0402_1005Metric"
+			(at 295.91 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.bourns.com/docs/product-datasheets/cr.pdf"
+			(at 298.45 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 280.67 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CR0402-FX-2201GLF"
+			(at 300.99 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Bourns"
+			(at 303.53 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 306.07 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 308.61 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Val" "2k2"
+			(at 281.94 250.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify right)
+			)
+		)
+		(property "Tolerance" "1%"
+			(at 290.83 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7b96ad60-ccbe-4df7-aef4-cd1a3c885415")
+		)
+		(pin "2"
+			(uuid "335f7616-314d-46e0-ae39-44f45d374ef1")
+		)
+		(instances
+			(project "com-express-7-baseboard"
+				(path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/9e43a8fe-5590-4346-856e-e8b6e5166965"
+					(reference "R318")
 					(unit 1)
 				)
 			)
@@ -18928,145 +19067,6 @@
 			(project "com-express-7-baseboard"
 				(path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/9e43a8fe-5590-4346-856e-e8b6e5166965"
 					(reference "R119")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "antmicroLEDIndicationDiscrete:LED_G_0603_LTST-C190GKT")
-		(at 271.78 243.84 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "36cfcc9e-e908-42a5-baa0-4ee4b447caa1")
-		(property "Reference" "D26"
-			(at 272.415 239.395 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "LED_G_0603_LTST-C190GKT"
-			(at 264.16 220.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "antmicro-footprints:LED_0603_1608Metric_G"
-			(at 261.62 220.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTST-C190GKT.pdf"
-			(at 259.08 220.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 271.78 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "LTST-C190GKT"
-			(at 275.59 238.7601 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Lite-On"
-			(at 254 220.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 251.46 220.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 248.92 220.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Public" "False"
-			(at 254 223.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Color" "Green"
-			(at 272.415 243.84 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "1"
-			(uuid "2fee22a1-d877-4528-a612-3d07c7d82c47")
-		)
-		(pin "2"
-			(uuid "07689ab1-99d4-41bb-a11a-ca3b90c9723a")
-		)
-		(instances
-			(project "com-express-7-baseboard"
-				(path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/9e43a8fe-5590-4346-856e-e8b6e5166965"
-					(reference "D26")
 					(unit 1)
 				)
 			)
@@ -22511,145 +22511,6 @@
 			(project "com-express-7-baseboard"
 				(path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/9e43a8fe-5590-4346-856e-e8b6e5166965"
 					(reference "L4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "antmicroLEDIndicationDiscrete:LED_G_0603_LTST-C190GKT")
-		(at 280.67 243.84 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "4fc01959-8996-4f22-bbd6-02009c951b2b")
-		(property "Reference" "D27"
-			(at 281.305 239.395 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "LED_G_0603_LTST-C190GKT"
-			(at 273.05 220.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "antmicro-footprints:LED_0603_1608Metric_G"
-			(at 270.51 220.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTST-C190GKT.pdf"
-			(at 267.97 220.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 280.67 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "LTST-C190GKT"
-			(at 284.48 238.7601 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Lite-On"
-			(at 262.89 220.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 260.35 220.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 257.81 220.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Public" "False"
-			(at 262.89 223.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Color" "Green"
-			(at 281.305 243.84 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "1"
-			(uuid "ef95e64b-b4b2-4b7b-9ca0-30248827ae98")
-		)
-		(pin "2"
-			(uuid "96b63456-4913-46ec-b607-98530299be95")
-		)
-		(instances
-			(project "com-express-7-baseboard"
-				(path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/9e43a8fe-5590-4346-856e-e8b6e5166965"
-					(reference "D27")
 					(unit 1)
 				)
 			)
@@ -27033,146 +26894,6 @@
 			(project "com-express-7-baseboard"
 				(path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/9e43a8fe-5590-4346-856e-e8b6e5166965"
 					(reference "TP97")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "antmicroResistors0402:R_2k2_0402")
-		(at 280.67 251.46 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "7bfca22f-615d-4d72-a5a1-b2d66f2efca2")
-		(property "Reference" "R319"
-			(at 281.94 247.65 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "R_2k2_0402"
-			(at 293.37 231.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "antmicro-footprints:R_0402_1005Metric"
-			(at 295.91 231.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.bourns.com/docs/product-datasheets/cr.pdf"
-			(at 298.45 231.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 280.67 251.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CR0402-FX-2201GLF"
-			(at 300.99 231.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 303.53 231.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 306.07 231.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 308.61 231.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Val" "2k2"
-			(at 281.94 250.19 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify right)
-			)
-		)
-		(property "Tolerance" "1%"
-			(at 290.83 231.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2f3d4f19-56f9-4b2f-90fe-eb18f1eaa39f")
-		)
-		(pin "2"
-			(uuid "82aea8ac-62aa-49bc-bd1c-5015043e057a")
-		)
-		(instances
-			(project "com-express-7-baseboard"
-				(path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/9e43a8fe-5590-4346-856e-e8b6e5166965"
-					(reference "R319")
 					(unit 1)
 				)
 			)
@@ -32262,6 +31983,145 @@
 			(project "com-express-7-baseboard"
 				(path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/9e43a8fe-5590-4346-856e-e8b6e5166965"
 					(reference "#PWR0444")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicroLEDIndicationDiscrete:LED_G_0603_LTST-C190GKT")
+		(at 280.67 243.84 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b6aea2df-8c8a-465f-96f6-57c279597e6f")
+		(property "Reference" "D26"
+			(at 281.305 239.395 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "LED_G_0603_LTST-C190GKT"
+			(at 273.05 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:LED_0603_1608Metric_G"
+			(at 270.51 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTST-C190GKT.pdf"
+			(at 267.97 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 280.67 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "LTST-C190GKT"
+			(at 284.48 238.7601 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Lite-On"
+			(at 262.89 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 260.35 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 257.81 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Public" "False"
+			(at 262.89 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Color" "Green"
+			(at 281.305 243.84 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "2adc1d4f-b922-4493-b605-047327a4706c")
+		)
+		(pin "2"
+			(uuid "3b6dcfe1-199b-4616-ab6a-9c63e7d5c1c1")
+		)
+		(instances
+			(project "com-express-7-baseboard"
+				(path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/9e43a8fe-5590-4346-856e-e8b6e5166965"
+					(reference "D26")
 					(unit 1)
 				)
 			)
@@ -37556,6 +37416,146 @@
 			(project "com-express-7-baseboard"
 				(path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/9e43a8fe-5590-4346-856e-e8b6e5166965"
 					(reference "#PWR0123")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicroResistors0402:R_2k2_0402")
+		(at 271.78 251.46 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "efdaecb1-7236-4c5c-b92a-b7aed8084375")
+		(property "Reference" "R319"
+			(at 273.05 247.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "R_2k2_0402"
+			(at 284.48 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:R_0402_1005Metric"
+			(at 287.02 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.bourns.com/docs/product-datasheets/cr.pdf"
+			(at 289.56 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 271.78 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CR0402-FX-2201GLF"
+			(at 292.1 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Bourns"
+			(at 294.64 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 297.18 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 299.72 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Val" "2k2"
+			(at 273.05 250.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify right)
+			)
+		)
+		(property "Tolerance" "1%"
+			(at 281.94 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8c8292be-e72a-407a-b958-e8ce55d8240c")
+		)
+		(pin "2"
+			(uuid "8e2641a8-254b-488a-b827-d6ba437c6fa4")
+		)
+		(instances
+			(project "com-express-7-baseboard"
+				(path "/1b8c34da-dad5-4b0b-8c4b-45db766c4dfa/9e43a8fe-5590-4346-856e-e8b6e5166965"
+					(reference "R319")
 					(unit 1)
 				)
 			)
