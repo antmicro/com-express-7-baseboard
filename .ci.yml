@@ -1,3 +1,31 @@
 include:
   - project: 'repositories/antmicro-pcb-release-ci-template'
     file: '/.ci.yml'
+
+image: $CI_DOCS_DOCKER_IMAGE
+
+docs-build:
+  stage: build
+  before_script:
+    - cd doc/
+    - pip3 install -r requirements.txt
+  script:
+    - cd doc/
+    - make html
+    - tar cf ../$CI_DOCS_ARCHIVE -C build/html/ .
+  artifacts:
+    paths:
+      - doc/build
+      - $CI_DOCS_ARCHIVE
+
+docs-deploy:
+  variables:
+    GIT_STRATEGY: none
+  dependencies:
+    - docs-build
+  stage: deploy
+  tags: ['docs']
+  script: echo 'Deploying docs'
+  artifacts:
+    paths:
+      - $CI_DOCS_ARCHIVE
