@@ -3231,7 +3231,7 @@
 		(uuid "6b66a731-81c7-4f99-9f9e-458bc06b896b")
 	)
 	(bus_entry
-		(at 165.1 92.71)
+		(at 158.75 92.71)
 		(size -1.27 -1.27)
 		(stroke
 			(width 0)
@@ -3249,7 +3249,7 @@
 		(uuid "b3528443-798d-40f6-b553-072f2ef380cf")
 	)
 	(bus_entry
-		(at 165.1 95.25)
+		(at 158.75 95.25)
 		(size -1.27 -1.27)
 		(stroke
 			(width 0)
@@ -3286,7 +3286,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 100.33) (xy 182.88 100.33)
+			(xy 139.7 100.33) (xy 161.29 100.33)
 		)
 		(stroke
 			(width 0)
@@ -3306,7 +3306,7 @@
 	)
 	(bus
 		(pts
-			(xy 162.56 87.63) (xy 132.08 87.63)
+			(xy 156.21 87.63) (xy 132.08 87.63)
 		)
 		(stroke
 			(width 0)
@@ -3326,7 +3326,7 @@
 	)
 	(bus
 		(pts
-			(xy 163.83 88.9) (xy 162.56 87.63)
+			(xy 157.48 88.9) (xy 156.21 87.63)
 		)
 		(stroke
 			(width 0)
@@ -3356,7 +3356,7 @@
 	)
 	(bus
 		(pts
-			(xy 163.83 93.98) (xy 163.83 91.44)
+			(xy 157.48 93.98) (xy 157.48 91.44)
 		)
 		(stroke
 			(width 0)
@@ -3426,7 +3426,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 95.25) (xy 165.1 95.25)
+			(xy 182.88 95.25) (xy 158.75 95.25)
 		)
 		(stroke
 			(width 0)
@@ -3453,6 +3453,16 @@
 			(type default)
 		)
 		(uuid "3d26588e-bdc7-4428-b8c6-22fa798bd94b")
+	)
+	(wire
+		(pts
+			(xy 163.83 100.33) (xy 161.29 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4327c206-fbbb-4396-ae31-094d877ecd0b")
 	)
 	(wire
 		(pts
@@ -3483,6 +3493,16 @@
 			(type default)
 		)
 		(uuid "4d27e773-08c8-4a3a-af5c-0e4e0b8675e1")
+	)
+	(wire
+		(pts
+			(xy 163.83 100.33) (xy 182.88 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d7328d9-54be-4374-8778-dfacdb8f3af6")
 	)
 	(wire
 		(pts
@@ -3523,6 +3543,16 @@
 			(type default)
 		)
 		(uuid "5583d687-0abc-4d27-a5af-44c729b9bc1a")
+	)
+	(wire
+		(pts
+			(xy 163.83 107.95) (xy 161.29 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ce9794e-e8c0-41ee-b1eb-61a417f073c0")
 	)
 	(wire
 		(pts
@@ -3606,6 +3636,16 @@
 	)
 	(wire
 		(pts
+			(xy 161.29 107.95) (xy 163.83 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73abed84-3d64-4bf0-a235-5b81384e070f")
+	)
+	(wire
+		(pts
 			(xy 227.33 95.25) (xy 237.49 95.25)
 		)
 		(stroke
@@ -3643,6 +3683,16 @@
 			(type default)
 		)
 		(uuid "7e4b4b69-5b47-4e14-bbb0-324020e58115")
+	)
+	(wire
+		(pts
+			(xy 161.29 110.49) (xy 139.7 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8070a849-7e26-4dfc-9fb2-c42059f6cd99")
 	)
 	(wire
 		(pts
@@ -3686,7 +3736,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 92.71) (xy 165.1 92.71)
+			(xy 182.88 92.71) (xy 158.75 92.71)
 		)
 		(stroke
 			(width 0)
@@ -3774,6 +3824,16 @@
 		)
 		(uuid "a5e82466-c5f2-4c04-804d-dfc01d7e4855")
 	)
+	(wire
+		(pts
+			(xy 163.83 102.87) (xy 182.88 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ae24ba9a-4b4c-4c9d-a2db-e2f83e6a5f96")
+	)
 	(bus
 		(pts
 			(xy 138.43 106.68) (xy 138.43 109.22)
@@ -3846,7 +3906,17 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 110.49) (xy 139.7 110.49)
+			(xy 161.29 100.33) (xy 163.83 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8a0f9f9-b147-434a-886e-ef7bdc74333f")
+	)
+	(wire
+		(pts
+			(xy 182.88 110.49) (xy 163.83 110.49)
 		)
 		(stroke
 			(width 0)
@@ -3886,7 +3956,7 @@
 	)
 	(bus
 		(pts
-			(xy 163.83 91.44) (xy 163.83 88.9)
+			(xy 157.48 91.44) (xy 157.48 88.9)
 		)
 		(stroke
 			(width 0)
@@ -3916,6 +3986,16 @@
 	)
 	(wire
 		(pts
+			(xy 161.29 107.95) (xy 139.7 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ddb262a4-3d93-4e3d-82a1-7df073a310e8")
+	)
+	(wire
+		(pts
 			(xy 166.37 74.93) (xy 166.37 76.2)
 		)
 		(stroke
@@ -3936,7 +4016,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 107.95) (xy 139.7 107.95)
+			(xy 182.88 107.95) (xy 163.83 107.95)
 		)
 		(stroke
 			(width 0)
@@ -3966,7 +4046,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 102.87) (xy 182.88 102.87)
+			(xy 139.7 102.87) (xy 161.29 102.87)
 		)
 		(stroke
 			(width 0)
@@ -4049,6 +4129,17 @@
 			(justify left bottom)
 		)
 		(uuid "a5bdf7e3-87f5-4484-b61a-3557ae39e2ee")
+	)
+	(text "Swapped polarity of TX and RX lines\nfor easier PCB layout"
+		(exclude_from_sim no)
+		(at 137.668 135.128 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f13264f7-c53c-483d-a966-ba968a857c9b")
 	)
 	(label "~{LED_1}"
 		(at 218.44 167.64 0)
@@ -4139,13 +4230,13 @@
 		(uuid "a94ca10f-cb42-41b9-b314-b2d346f6c4c2")
 	)
 	(label "PCIE_{REF}.CK-"
-		(at 182.88 95.25 180)
+		(at 158.75 95.25 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "ae9d04c5-69ec-4555-8e56-76c8b1585211")
 	)
@@ -4194,13 +4285,13 @@
 		(uuid "b831e136-4bd2-47f8-b786-528e3cf03dcd")
 	)
 	(label "PCIE_{REF}.CK+"
-		(at 182.88 92.71 180)
+		(at 158.75 92.71 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "ba2121ec-337c-46f7-b5d3-b8d338a47d9f")
 	)

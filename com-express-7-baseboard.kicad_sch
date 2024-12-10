@@ -3184,12 +3184,12 @@
 			)
 		)
 		(pin "PCIe_{B1x4}{PCIe}" output
-			(at 248.92 66.04 0)
+			(at 162.56 144.78 180)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 			(uuid "10007523-bef0-4b1a-9bf6-c8b63aa3a25a")
 		)
@@ -3334,17 +3334,17 @@
 			(uuid "e14ee778-23f8-447d-b84b-2ecfa3d919db")
 		)
 		(pin "PCIe_{B2Ax4}{PCIe}" output
-			(at 162.56 144.78 180)
+			(at 248.92 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 			(uuid "a8b6a47c-5378-4eff-bd30-99127ca4d301")
 		)
 		(pin "PCIe_{B2Bx4}{PCIe}" output
-			(at 248.92 101.6 0)
+			(at 248.92 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)

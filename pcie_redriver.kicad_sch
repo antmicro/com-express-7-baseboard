@@ -5583,7 +5583,7 @@
 		(uuid "02b87751-af82-4d3d-bba5-e84099e8b31d")
 	)
 	(label "PCIe_{I}.RX0-"
-		(at 135.89 186.69 0)
+		(at 135.89 209.55 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5616,7 +5616,7 @@
 		(uuid "115744fe-d253-4747-804b-ec0c8dc732af")
 	)
 	(label "PCIe_{O}.RX0+"
-		(at 250.19 184.15 180)
+		(at 250.19 207.01 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5638,7 +5638,7 @@
 		(uuid "11e75ca4-fe08-4f9a-8b29-3df2e5776b3a")
 	)
 	(label "PCIe_{O}.RX2+"
-		(at 250.19 199.39 180)
+		(at 250.19 191.77 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5682,7 +5682,7 @@
 		(uuid "2376cb81-ac77-4f21-a035-e38ee8cd2494")
 	)
 	(label "PCIe_{I}_C.RX1+"
-		(at 166.37 191.77 0)
+		(at 166.37 199.39 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5693,7 +5693,7 @@
 		(uuid "33df3a4a-a7a2-41ea-a3af-db64fc6314d6")
 	)
 	(label "PCIe_{I}_C.RX3+"
-		(at 166.37 207.01 0)
+		(at 166.37 184.15 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5748,7 +5748,7 @@
 		(uuid "3f0ba462-ea5b-4532-a10d-f442c44a6bea")
 	)
 	(label "PCIe_{I}_C.RX2+"
-		(at 166.37 199.39 0)
+		(at 166.37 191.77 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5770,7 +5770,7 @@
 		(uuid "59171e9e-2989-4362-94a6-4f50c5c7f060")
 	)
 	(label "PCIe_{I}_C.RX0+"
-		(at 166.37 184.15 0)
+		(at 166.37 207.01 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5781,7 +5781,7 @@
 		(uuid "5932fc0c-c36e-45b3-b6da-d94e82acc372")
 	)
 	(label "PCIe_{I}.RX2+"
-		(at 135.89 199.39 0)
+		(at 135.89 191.77 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5792,7 +5792,7 @@
 		(uuid "594116ec-2bc2-495a-a575-fb4f8d344a34")
 	)
 	(label "PCIe_{I}.RX3+"
-		(at 135.89 207.01 0)
+		(at 135.89 184.15 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5814,7 +5814,7 @@
 		(uuid "675e8009-1a99-4d6e-8b5c-248a946815f2")
 	)
 	(label "PCIe_{I}_C.RX0-"
-		(at 166.37 186.69 0)
+		(at 166.37 209.55 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5825,7 +5825,7 @@
 		(uuid "6cdd5860-00f8-41d1-93ff-3766a82b7f86")
 	)
 	(label "PCIe_{I}_C.RX3-"
-		(at 166.37 209.55 0)
+		(at 166.37 186.69 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5836,7 +5836,7 @@
 		(uuid "6cfa36f9-b604-4714-a6c2-070495ee3d77")
 	)
 	(label "PCIe_{I}_C.RX2-"
-		(at 166.37 201.93 0)
+		(at 166.37 194.31 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5913,7 +5913,7 @@
 		(uuid "903eba27-1dab-47a2-bbbb-f42cd93e121a")
 	)
 	(label "PCIe_{I}.RX1-"
-		(at 135.89 194.31 0)
+		(at 135.89 201.93 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5935,7 +5935,7 @@
 		(uuid "9575277d-76ca-488f-8d05-8d3641cd80d6")
 	)
 	(label "PCIe_{O}.RX0-"
-		(at 250.19 186.69 180)
+		(at 250.19 209.55 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5946,7 +5946,7 @@
 		(uuid "962fc8cd-5560-48ca-b7e7-f37abdc07b36")
 	)
 	(label "PCIe_{O}.RX1-"
-		(at 250.19 194.31 180)
+		(at 250.19 201.93 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5957,7 +5957,7 @@
 		(uuid "97dc73ab-95e3-4efe-90ff-a38122b83da0")
 	)
 	(label "PCIe_{O}.RX2-"
-		(at 250.19 201.93 180)
+		(at 250.19 194.31 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6001,7 +6001,7 @@
 		(uuid "ae995a6e-51d7-4ffa-976b-767545a84252")
 	)
 	(label "PCIe_{O}.RX1+"
-		(at 250.19 191.77 180)
+		(at 250.19 199.39 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6012,7 +6012,7 @@
 		(uuid "b0896279-adfc-4aab-9faf-97c97bc761f6")
 	)
 	(label "PCIe_{I}.RX3-"
-		(at 135.89 209.55 0)
+		(at 135.89 186.69 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6056,7 +6056,7 @@
 		(uuid "c1a6f4cc-a879-4ba9-893b-7f8fb02d8204")
 	)
 	(label "PCIe_{I}.RX1+"
-		(at 135.89 191.77 0)
+		(at 135.89 199.39 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6067,7 +6067,7 @@
 		(uuid "c456eb4d-7787-4ea0-ab71-0ed7503604c3")
 	)
 	(label "PCIe_{I}_C.RX1-"
-		(at 166.37 194.31 0)
+		(at 166.37 201.93 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6078,7 +6078,7 @@
 		(uuid "c558591d-d60a-4324-96ff-cdabb4081b69")
 	)
 	(label "PCIe_{I}.RX0+"
-		(at 135.89 184.15 0)
+		(at 135.89 207.01 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6111,7 +6111,7 @@
 		(uuid "d7e011a7-5690-4d24-bb52-040009392d04")
 	)
 	(label "PCIe_{O}.RX3+"
-		(at 250.19 207.01 180)
+		(at 250.19 184.15 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6166,7 +6166,7 @@
 		(uuid "e1eb11e8-1b41-41f2-8c30-98fd520831b4")
 	)
 	(label "PCIe_{I}.RX2-"
-		(at 135.89 201.93 0)
+		(at 135.89 194.31 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6188,7 +6188,7 @@
 		(uuid "e66234be-8fcc-4749-805c-d81963c3aa94")
 	)
 	(label "PCIe_{O}.RX3-"
-		(at 250.19 209.55 180)
+		(at 250.19 186.69 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
