@@ -27,3 +27,27 @@
 	(layer inner)
 )
 
+(rule "10GKR_LM_1"
+	(constraint length (min 75.7mm) (max 75.9mm))
+	(constraint skew (min -0.1mm) (max 0.1mm) (opt 0.0mm))
+	(condition "(A.NetName == '*10GKR*')")
+)
+
+(rule "GbEMDI_LM_2"
+	(constraint length (min 18.75mm) (max 18.85mm) (opt 18.8mm))
+	(constraint skew (min -0.1mm) (max 0.1mm) (opt 0.0mm))
+	(condition "((A.NetName == '*D*-') || (A.NetName == '*D*+')) && (A.NetClass == '100Ohm-diff_GbE')")
+)
+
+(rule "GbEMDI_LM_1"
+	(constraint length (min 107.9mm) (max 108mm))
+	(constraint skew (min -0.1mm) (max 0.1mm) (opt 0.0mm))
+	(condition "(A.NetName == '*MDI*')")
+)
+
+(rule "SDIO_LM"
+	(constraint length (min 139.5mm) (max 140.5mm) (opt 140.0mm))
+	(constraint skew (min -0.1mm) (max 0.1mm) (opt 0.0mm))
+	(condition "(A.NetClass == '50Ohm-se')")
+)
+
