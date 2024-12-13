@@ -46,7 +46,7 @@
 )
 
 (rule "SDIO_LM"
-	(constraint length (min 139.5mm) (max 140.5mm) (opt 140.0mm))
+	(constraint length (min 140.6mm) (max 141.0mm) (opt 140.8mm))
 	(constraint skew (min -0.1mm) (max 0.1mm) (opt 0.0mm))
 	(condition "(A.NetClass == '50Ohm-se')")
 )
