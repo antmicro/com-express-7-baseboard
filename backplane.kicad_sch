@@ -5,10 +5,11 @@
 	(uuid "adca64db-7231-4319-ab7a-52f071ed48af")
 	(paper "A3")
 	(title_block
-		(title "Com Express 7 baseboard")
-		(date "2024-03-28")
+		(title "COM Express 7 Baseboard")
+		(date "2024-12-13")
 		(rev "1.1.0")
-		(company "Antmicro Ltd.")
+		(company "Antmicro Ltd")
+		(comment 1 "www.antmicro.com")
 	)
 	(lib_symbols
 		(symbol "antmicroEdgeConnectors:PCB-Edge_Samtec_HSEC8_2x20_HSEC8-120-01-S-D-EM2"
@@ -3168,6 +3169,19 @@
 			(type default)
 		)
 		(uuid "fbe47e66-212e-4334-a4d2-1292f6b4cb4c")
+	)
+	(text "Backplane connector"
+		(exclude_from_sim no)
+		(at 185.928 93.472 0)
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.4)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "1f15d918-e4f2-4b69-b9b6-e3e00b050f6c")
 	)
 	(text "Vcc is 12V nominal\n"
 		(exclude_from_sim no)

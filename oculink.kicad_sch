@@ -5,10 +5,11 @@
 	(uuid "86643ccc-264f-4d1f-bab4-65eed9345ce4")
 	(paper "A3")
 	(title_block
-		(title "Com Express 7 baseboard")
-		(date "2024-03-28")
+		(title "COM Express 7 Baseboard")
+		(date "2024-12-13")
 		(rev "1.1.0")
-		(company "Antmicro Ltd.")
+		(company "Antmicro Ltd")
+		(comment 1 "www.antmicro.com")
 	)
 	(lib_symbols
 		(symbol "antmicroCapacitors0603:C_22u_16V_0603"
@@ -4226,6 +4227,19 @@
 			(justify left bottom)
 		)
 		(uuid "cbd4a644-9183-4ed3-bdee-15579628d4e5")
+	)
+	(text "OCuLink"
+		(exclude_from_sim no)
+		(at 208.534 72.644 0)
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.4)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "d6b3fc82-87a0-4272-8ff8-af758343db84")
 	)
 	(label "I2C0.SDA"
 		(at 208.28 111.76 0)

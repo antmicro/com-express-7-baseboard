@@ -5,10 +5,11 @@
 	(uuid "fa0e9501-e6de-4e94-b0ac-c9857077baeb")
 	(paper "A3")
 	(title_block
-		(title "Com Express 7 baseboard")
-		(date "2024-03-28")
+		(title "COM Express 7 Baseboard")
+		(date "2024-12-13")
 		(rev "1.1.0")
-		(company "Antmicro Ltd.")
+		(company "Antmicro Ltd")
+		(comment 1 "www.antmicro.com")
 	)
 	(lib_symbols
 		(symbol "antmicroCapacitors0402:C_100n_0402"

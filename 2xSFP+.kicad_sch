@@ -5,10 +5,11 @@
 	(uuid "a32f4b71-5697-4170-a41a-5acf0feff4dc")
 	(paper "A3")
 	(title_block
-		(title "Com Express 7 baseboard")
-		(date "2024-03-28")
+		(title "COM Express 7 Baseboard")
+		(date "2024-12-13")
 		(rev "1.1.0")
-		(company "Antmicro Ltd.")
+		(company "Antmicro Ltd")
+		(comment 1 "www.antmicro.com")
 	)
 	(lib_symbols
 		(symbol "antmicroCapacitors0402:C_100n_0402"
@@ -6188,6 +6189,19 @@
 			(type default)
 		)
 		(uuid "ffdadf65-a4e5-44da-8ddd-b339c16ad877")
+	)
+	(text "2x SFP+"
+		(exclude_from_sim no)
+		(at 204.724 21.844 0)
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.4)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "2675c61d-d63b-4cda-a1c1-ba360594d0e2")
 	)
 	(text "Address 0x74\n"
 		(exclude_from_sim no)

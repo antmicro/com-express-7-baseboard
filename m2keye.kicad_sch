@@ -5,10 +5,11 @@
 	(uuid "045019a3-6b4b-4c74-8430-5ec198178399")
 	(paper "A3")
 	(title_block
-		(title "Com Express 7 baseboard")
-		(date "2024-03-28")
+		(title "COM Express 7 Baseboard")
+		(date "2024-12-13")
 		(rev "1.1.0")
-		(company "Antmicro Ltd.")
+		(company "Antmicro Ltd")
+		(comment 1 "www.antmicro.com")
 	)
 	(lib_symbols
 		(symbol "antmicroCapacitors0603:C_22u_16V_0603"
@@ -4124,12 +4125,12 @@
 		)
 		(uuid "fb2ad51b-c4c6-4f55-a08c-5fe33320c58f")
 	)
-	(text "M.2 KEY E"
+	(text "M.2 key E"
 		(exclude_from_sim no)
 		(at 182.88 49.53 0)
 		(effects
 			(font
-				(size 4 4)
+				(size 2 2)
 				(thickness 0.508)
 				(bold yes)
 			)

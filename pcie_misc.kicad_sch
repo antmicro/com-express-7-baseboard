@@ -5,10 +5,11 @@
 	(uuid "dd30e04d-0bb4-4fe8-8cd8-4e034eb21543")
 	(paper "A3")
 	(title_block
-		(title "Com Express 7 baseboard")
-		(date "2024-03-28")
+		(title "COM Express 7 Baseboard")
+		(date "2024-12-13")
 		(rev "1.1.0")
-		(company "Antmicro Ltd.")
+		(company "Antmicro Ltd")
+		(comment 1 "www.antmicro.com")
 	)
 	(lib_symbols
 		(symbol "antmicroCapacitors0402:C_100n_0402"
@@ -4520,7 +4521,7 @@
 		)
 		(uuid "ffcd761e-e6ac-4737-a3c6-5d5a82c641d4")
 	)
-	(text "PCIe CLOCK FANOUT BUFFER"
+	(text "PCIe clock fanout buffer"
 		(exclude_from_sim no)
 		(at 83.82 33.02 0)
 		(effects

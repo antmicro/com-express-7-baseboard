@@ -5,10 +5,11 @@
 	(uuid "99f64ca9-f595-4b10-a905-c7d02e22d249")
 	(paper "A3")
 	(title_block
-		(title "Com Express 7 baseboard")
-		(date "2024-03-28")
+		(title "COM Express 7 Baseboard")
+		(date "2024-12-13")
 		(rev "1.1.0")
-		(company "Antmicro Ltd.")
+		(company "Antmicro Ltd")
+		(comment 1 "www.antmicro.com")
 	)
 	(lib_symbols
 		(symbol "antmicroB2BConnectors:Plug_Bus_CE7_EPT_401-51501-51"
@@ -13587,6 +13588,19 @@
 			(justify left bottom)
 		)
 		(uuid "6e0d5582-d527-4f5b-9c05-43c2f3131b69")
+	)
+	(text "COM Express 7 interfaces"
+		(exclude_from_sim no)
+		(at 184.404 19.05 0)
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.4)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "99364add-b22e-4dae-90f9-fef1c37f1461")
 	)
 	(text "Can be x4"
 		(exclude_from_sim no)

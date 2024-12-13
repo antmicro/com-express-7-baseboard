@@ -5,10 +5,11 @@
 	(uuid "29df7c9d-5f76-4553-a4c5-f0de755e7934")
 	(paper "A3")
 	(title_block
-		(title "Com Express 7 baseboard")
-		(date "2024-03-28")
+		(title "COM Express 7 Baseboard")
+		(date "2024-12-13")
 		(rev "1.1.0")
-		(company "Antmicro Ltd.")
+		(company "Antmicro Ltd")
+		(comment 1 "www.antmicro.com")
 	)
 	(lib_symbols
 		(symbol "antmicroCapacitors0402:C_100n_0402"
@@ -2500,6 +2501,19 @@
 			(type default)
 		)
 		(uuid "fc2c485d-9ca1-4171-81a0-b519a5d6e410")
+	)
+	(text "SD card connector"
+		(exclude_from_sim no)
+		(at 209.55 110.744 0)
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.8)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "438ca425-3c64-4395-8d7c-d546bb074798")
 	)
 	(label "SDIO.DAT0"
 		(at 198.12 152.4 180)

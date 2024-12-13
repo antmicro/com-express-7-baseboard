@@ -5,10 +5,11 @@
 	(uuid "6c23130b-30b8-458a-9054-ff2bf8d643b8")
 	(paper "A3")
 	(title_block
-		(title "Com Express 7 baseboard")
-		(date "2024-03-28")
+		(title "COM Express 7 Baseboard")
+		(date "2024-12-13")
 		(rev "1.1.0")
-		(company "Antmicro Ltd.")
+		(company "Antmicro Ltd")
+		(comment 1 "www.antmicro.com")
 	)
 	(lib_symbols
 		(symbol "antmicroCapacitors0402:C_100n_0402"
@@ -13338,6 +13339,8 @@
 		(effects
 			(font
 				(size 2 2)
+				(thickness 0.4)
+				(bold yes)
 			)
 			(justify left bottom)
 		)
@@ -13354,12 +13357,14 @@
 		)
 		(uuid "14bf0104-9ea9-481a-afd4-21a636c0b4de")
 	)
-	(text "+12V SOURCE\nAND BULK DECOUPLING"
+	(text "+12V source\nand bulk decoupling"
 		(exclude_from_sim no)
 		(at 53.34 190.5 0)
 		(effects
 			(font
 				(size 2 2)
+				(thickness 0.4)
+				(bold yes)
 			)
 			(justify left bottom)
 		)
@@ -13398,12 +13403,14 @@
 		)
 		(uuid "4aebf66c-7e56-430a-9368-319f2b88c0dd")
 	)
-	(text "+1V0 DC/DC CONVERTER"
+	(text "+1V0 DC/DC converter"
 		(exclude_from_sim no)
 		(at 99.06 17.78 0)
 		(effects
 			(font
 				(size 2 2)
+				(thickness 0.4)
+				(bold yes)
 			)
 			(justify left bottom)
 		)
@@ -13431,12 +13438,14 @@
 		)
 		(uuid "709c7936-d3a9-426f-95ac-e720231eab86")
 	)
-	(text "+5V DC/DC CONVERTER"
+	(text "+5V DC/DC converter"
 		(exclude_from_sim no)
 		(at 297.18 20.32 0)
 		(effects
 			(font
 				(size 2 2)
+				(thickness 0.4)
+				(bold yes)
 			)
 			(justify left bottom)
 		)
@@ -13497,12 +13506,14 @@
 		)
 		(uuid "e0d5624e-434d-4b28-9481-a748cfea0808")
 	)
-	(text "+1V8 DC/DC CONVERTER"
+	(text "+1V8 DC/DC converter"
 		(exclude_from_sim no)
 		(at 297.18 106.68 0)
 		(effects
 			(font
 				(size 2 2)
+				(thickness 0.4)
+				(bold yes)
 			)
 			(justify left bottom)
 		)
@@ -13519,23 +13530,27 @@
 		)
 		(uuid "e945f471-22e1-41bc-a774-4bae339c9cf0")
 	)
-	(text "+3V3 DC/DC CONVERTER"
+	(text "+3V3 DC/DC converter"
 		(exclude_from_sim no)
 		(at 99.06 106.68 0)
 		(effects
 			(font
 				(size 2 2)
+				(thickness 0.4)
+				(bold yes)
 			)
 			(justify left bottom)
 		)
 		(uuid "e9fe9f13-704a-4ab2-95cc-36e227d853b6")
 	)
-	(text "POWER LEDS AND TESTPOINTS"
+	(text "Power LEDs and testpoints"
 		(exclude_from_sim no)
 		(at 232.41 186.69 0)
 		(effects
 			(font
 				(size 2 2)
+				(thickness 0.4)
+				(bold yes)
 			)
 			(justify left bottom)
 		)

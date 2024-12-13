@@ -5,10 +5,11 @@
 	(uuid "92edda85-f0f9-44d6-855f-b92b7daa2470")
 	(paper "A3")
 	(title_block
-		(title "Com Express 7 baseboard")
-		(date "2024-03-28")
+		(title "COM Express 7 Baseboard")
+		(date "2024-12-13")
 		(rev "1.1.0")
-		(company "Antmicro Ltd.")
+		(company "Antmicro Ltd")
+		(comment 1 "www.antmicro.com")
 	)
 	(lib_symbols
 		(symbol "antmicroB2BConnectors:Plug_Bus_CE7_EPT_401-51501-51"
@@ -18166,6 +18167,19 @@
 		)
 		(uuid "149e81d8-07a5-4b5a-929d-f41d5c97974f")
 	)
+	(text "COM Express 7 power and management"
+		(exclude_from_sim no)
+		(at 67.31 22.86 0)
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.4)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "1e03eb81-4e9c-43cf-b697-06f4410b2d88")
+	)
 	(text "Carrier MAFS BIOS"
 		(exclude_from_sim no)
 		(at 335.28 175.26 0)
@@ -18212,7 +18226,7 @@
 		)
 		(uuid "8ef71053-c331-4068-9078-6f4d82a2df3d")
 	)
-	(text "POWER AND RESET"
+	(text "Power and reset"
 		(exclude_from_sim no)
 		(at 275.59 26.67 0)
 		(effects

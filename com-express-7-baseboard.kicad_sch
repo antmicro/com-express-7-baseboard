@@ -5,10 +5,11 @@
 	(uuid "1b8c34da-dad5-4b0b-8c4b-45db766c4dfa")
 	(paper "A3")
 	(title_block
-		(title "Com Express 7 baseboard")
-		(date "2024-03-28")
+		(title "COM Express 7 Baseboard")
+		(date "2024-12-13")
 		(rev "1.1.0")
-		(company "Antmicro Ltd.")
+		(company "Antmicro Ltd")
+		(comment 1 "www.antmicro.com")
 	)
 	(lib_symbols)
 	(bus_alias "10GBaseKR"

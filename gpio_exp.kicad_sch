@@ -5,10 +5,11 @@
 	(uuid "976577d0-38f2-408e-87bd-f9c2c6c44bc0")
 	(paper "A3")
 	(title_block
-		(title "Com Express 7 baseboard")
-		(date "2024-03-28")
+		(title "COM Express 7 Baseboard")
+		(date "2024-12-13")
 		(rev "1.1.0")
-		(company "Antmicro Ltd.")
+		(company "Antmicro Ltd")
+		(comment 1 "www.antmicro.com")
 	)
 	(lib_symbols
 		(symbol "antmicroCapacitors0402:C_100n_0402"
@@ -1793,6 +1794,19 @@
 			(type default)
 		)
 		(uuid "ffc901a5-f18c-48c0-a3ef-3b11405488cf")
+	)
+	(text "GPIO expander"
+		(exclude_from_sim no)
+		(at 193.04 112.014 0)
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.8)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "54e7d00a-32fa-4f12-a57b-2ddb07649b1f")
 	)
 	(text "Address 0x74\n"
 		(exclude_from_sim no)

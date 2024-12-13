@@ -5,10 +5,11 @@
 	(uuid "50aa46bf-3490-49d6-88dd-11d5c1ef0bfa")
 	(paper "A3")
 	(title_block
-		(title "Com Express 7 baseboard")
-		(date "2024-03-28")
+		(title "COM Express 7 Baseboard")
+		(date "2024-12-13")
 		(rev "1.1.0")
-		(company "Antmicro Ltd.")
+		(company "Antmicro Ltd")
+		(comment 1 "www.antmicro.com")
 	)
 	(lib_symbols
 		(symbol "antmicroCapacitors0402:C_100n_0402"
@@ -8122,9 +8123,9 @@
 		)
 		(uuid "0fe9bd10-aaa6-4d61-b7e0-f130560450d7")
 	)
-	(text "FRONT PANEL LEDS"
+	(text "Front panel LEDs"
 		(exclude_from_sim no)
-		(at 50.8 160.02 0)
+		(at 59.69 158.75 0)
 		(effects
 			(font
 				(size 2 2)
@@ -8168,9 +8169,9 @@
 		)
 		(uuid "6990b615-951a-4669-b783-f9a41082e44e")
 	)
-	(text "FAN/VOLTAGE/TEMPERATURE\nMONITOR"
+	(text "Fan/Voltage/Temperature\nmonitor"
 		(exclude_from_sim no)
-		(at 93.98 27.94 0)
+		(at 100.076 26.162 0)
 		(effects
 			(font
 				(size 2 2)
@@ -8214,7 +8215,7 @@
 		)
 		(uuid "b6897799-5e4f-41ca-a38b-5a1f375f4efb")
 	)
-	(text "FAN CONNECTORS"
+	(text "Fan connector"
 		(exclude_from_sim no)
 		(at 307.34 20.32 0)
 		(effects

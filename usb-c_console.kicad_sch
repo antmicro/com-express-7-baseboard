@@ -5,10 +5,11 @@
 	(uuid "428b8fc7-93bb-4410-9228-c380af53fe2a")
 	(paper "A3")
 	(title_block
-		(title "Com Express 7 baseboard")
-		(date "2024-03-28")
+		(title "COM Express 7 Baseboard")
+		(date "2024-12-13")
 		(rev "1.1.0")
-		(company "Antmicro Ltd.")
+		(company "Antmicro Ltd")
+		(comment 1 "www.antmicro.com")
 	)
 	(lib_symbols
 		(symbol "antmicroCapacitors0402:C_100n_0402"
@@ -5659,6 +5660,19 @@
 			(type default)
 		)
 		(uuid "fd76fdaa-3325-45f2-b57d-28a56b71d47b")
+	)
+	(text "USB-C console"
+		(exclude_from_sim no)
+		(at 200.406 94.234 0)
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.4)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "308bcb82-36c5-46cb-bad8-a547460cd7b9")
 	)
 	(text "RX"
 		(exclude_from_sim no)

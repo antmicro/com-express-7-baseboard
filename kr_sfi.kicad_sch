@@ -5,10 +5,11 @@
 	(uuid "1e35785d-ef9c-468d-afe6-2c90e748ea2f")
 	(paper "A3")
 	(title_block
-		(title "Com Express 7 baseboard")
-		(date "2024-03-28")
+		(title "COM Express 7 Baseboard")
+		(date "2024-12-13")
 		(rev "1.1.0")
-		(company "Antmicro Ltd.")
+		(company "Antmicro Ltd")
+		(comment 1 "www.antmicro.com")
 	)
 	(lib_symbols
 		(symbol "antmicroCapacitors0402:C_100n_0402"
@@ -8434,6 +8435,19 @@
 			(justify left bottom)
 		)
 		(uuid "a564bbbb-179e-4461-8451-5f042b32cab9")
+	)
+	(text "10GKR to SFI"
+		(exclude_from_sim no)
+		(at 195.58 33.782 0)
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.4)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "c4e17631-9906-422c-bd0c-79912b1c2fd0")
 	)
 	(label "KR.TX+"
 		(at 104.14 83.82 180)
