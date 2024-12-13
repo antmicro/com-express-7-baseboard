@@ -1,4 +1,4 @@
-# COM Express 7 baseboard
+# COM Express 7 Baseboard
 
 Copyright (c) 2022-2024 [Antmicro](https://www.antmicro.com)
 
