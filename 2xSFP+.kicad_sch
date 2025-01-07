@@ -6203,7 +6203,7 @@
 		)
 		(uuid "2675c61d-d63b-4cda-a1c1-ba360594d0e2")
 	)
-	(text "Address 0x74\n"
+	(text "Address 0x75"
 		(exclude_from_sim no)
 		(at 191.77 274.32 0)
 		(effects
@@ -14702,7 +14702,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "c025f7c6-88a8-4f3f-a2a0-8b6e6485efd6")
 		(property "Reference" "R32"
 			(at 161.29 269.24 90)
@@ -17236,7 +17236,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "e47910df-75e3-455d-af19-77da5d76745d")
 		(property "Reference" "R31"
 			(at 158.75 255.27 90)
