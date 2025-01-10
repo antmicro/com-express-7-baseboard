@@ -10653,7 +10653,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "012ea7ce-6abb-48a8-b982-cc7563253895")
 		(property "Reference" "R4"
 			(at 107.95 85.09 0)
@@ -11794,7 +11794,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "1c01864b-7911-4aee-88a8-954aabbae9bf")
 		(property "Reference" "R9"
 			(at 134.62 54.61 90)
@@ -14485,7 +14485,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "551c1028-2a40-4860-b0d4-216eb651c366")
 		(property "Reference" "R7"
 			(at 124.46 54.61 90)
@@ -16511,7 +16511,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "800d1acc-9f85-4d39-b92b-0259d7c2627b")
 		(property "Reference" "R5"
 			(at 107.95 88.9 0)
@@ -16670,7 +16670,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "81311d73-8c9d-4df0-926b-69d9c1923a7e")
 		(property "Reference" "R10"
 			(at 134.62 76.2 90)
@@ -16971,7 +16971,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "8b7c9829-99ab-45a0-bd79-eda2c6892c0e")
 		(property "Reference" "R2"
 			(at 107.95 67.31 0)
@@ -20182,7 +20182,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "c1ec1b71-cd3e-453a-8780-a126b568ffd9")
 		(property "Reference" "R3"
 			(at 107.95 82.55 0)
@@ -21251,7 +21251,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "d42a25d5-d2cf-4540-97b0-e0ff78828cac")
 		(property "Reference" "R1"
 			(at 107.95 62.23 0)
