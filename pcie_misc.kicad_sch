@@ -5053,7 +5053,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "0e04910c-e5c9-40b8-9617-1372b0aa8d87")
 		(property "Reference" "R178"
 			(at 38.1 80.01 0)
@@ -5373,7 +5373,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "164e39d1-e232-4f1e-8956-cf50d1ab657b")
 		(property "Reference" "R315"
 			(at 38.1 85.09 0)
@@ -6677,7 +6677,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "2d85e9a6-15ed-40ae-84d6-0a4bfdd883f6")
 		(property "Reference" "R317"
 			(at 38.1 90.17 0)
@@ -7307,7 +7307,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "418978cb-37da-4292-8c9a-d152a2a1177f")
 		(property "Reference" "R182"
 			(at 53.34 102.87 90)
@@ -7551,7 +7551,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "5a7a7389-cfed-4acf-9325-160588677986")
 		(property "Reference" "R185"
 			(at 72.39 102.87 90)
@@ -7701,7 +7701,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "5dea26e2-786c-45fe-8e38-6cb0e00de6f0")
 		(property "Reference" "R314"
 			(at 38.1 82.55 0)
@@ -8204,7 +8204,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "6af62580-37ff-437c-a40b-eac08fbf0bc1")
 		(property "Reference" "R184"
 			(at 66.04 102.87 90)
@@ -8354,7 +8354,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "6caefdf6-4e63-444f-8cd7-3180ee15359e")
 		(property "Reference" "R186"
 			(at 78.74 102.87 90)
@@ -8919,7 +8919,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "83eb0915-4704-431d-b6c2-57c324a7c275")
 		(property "Reference" "R316"
 			(at 38.1 87.63 0)
@@ -13055,7 +13055,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "f1b19b03-c756-41d6-8d50-969ac5777916")
 		(property "Reference" "R183"
 			(at 59.69 102.87 90)
