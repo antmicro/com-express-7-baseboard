@@ -12,6 +12,2196 @@
 		(comment 1 "www.antmicro.com")
 	)
 	(lib_symbols
+		(symbol "Amphenol_RJE361882415_1"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 39.37 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "Amphenol_RJE361882415"
+				(at 39.37 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "antmicro-footprints:RJ45_RJE361882415"
+				(at 39.37 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/p-rje36-188-2xx5.pdf"
+				(at 39.37 -15.24 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Description" "Modular Connectors / Ethernet Connectors MODULAR JACK"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "RJE361882415"
+				(at 39.37 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Manufacturer" "Amphenol"
+				(at 39.37 -17.78 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Author" "Antmicro"
+				(at 39.37 -20.32 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "License" "Apache-2.0"
+				(at 39.37 -22.86 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "THT, CONNECTOR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Amphenol_RJE361882415_1_1_1"
+				(polyline
+					(pts
+						(xy 8.89 -17.145) (xy 8.89 -5.715)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.89 -5.715) (xy 15.24 -5.715)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 15.24 -17.145) (xy 8.89 -17.145)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 15.24 -17.145) (xy 15.24 -15.875)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 15.24 -15.875) (xy 16.51 -15.875)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 15.24 -6.985) (xy 16.51 -6.985)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 15.24 -5.715) (xy 15.24 -6.985)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 16.51 -15.875) (xy 16.51 -14.605)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 16.51 -14.605) (xy 17.78 -14.605)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 16.51 -8.255) (xy 17.78 -8.255)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 16.51 -6.985) (xy 16.51 -8.255)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 17.78 -8.255) (xy 17.78 -14.605)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 3.81 2.54)
+					(end 21.59 -25.4)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 7.62 -4.445)
+					(end 19.05 -18.415)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin bidirectional line
+					(at 0 0 0)
+					(length 3.81)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -2.54 0)
+					(length 3.81)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -5.08 0)
+					(length 3.81)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -7.62 0)
+					(length 3.81)
+					(name "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -10.16 0)
+					(length 3.81)
+					(name "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -12.7 0)
+					(length 3.81)
+					(name "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -15.24 0)
+					(length 3.81)
+					(name "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -17.78 0)
+					(length 3.81)
+					(name "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 25.4 0 180)
+					(length 3.81)
+					(name "LED_D1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "D1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 25.4 -2.54 180)
+					(length 3.81)
+					(name "LED_D2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "D2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 25.4 -20.32 180)
+					(length 3.81)
+					(name "LED_D3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "D3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 25.4 -22.86 180)
+					(length 3.81)
+					(name "LED_D4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "D4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -22.86 0)
+					(length 3.81)
+					(name "MP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "MP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "Amphenol_RJE361882415_1_2_1"
+				(polyline
+					(pts
+						(xy 13.335 -6.35) (xy 13.335 -3.81)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 12.7 -3.81) (xy 13.97 -3.81) (xy 13.335 -2.54) (xy 12.7 -3.81)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 13.335 -7.62) (xy 13.335 -6.985) (xy 12.065 -5.715) (xy 12.065 -5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 13.335 -6.985) (xy 13.335 -6.35) (xy 14.605 -5.715) (xy 14.605 -4.445)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 3.81 2.54)
+					(end 20.32 -24.13)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(circle
+					(center 12.065 -5.08)
+					(radius 0.381)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 13.335 -8.255)
+					(radius 0.635)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 14.224 -4.191)
+					(end 14.986 -4.953)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 16.256 -3.81)
+					(end 18.034 -8.382)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 17.018 -4.318)
+					(end 17.653 -7.874)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(text "PORT 1"
+					(at 12.7 0 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+							(thickness 0.15)
+						)
+						(justify left bottom)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 3.81)
+					(name "VBUS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "U1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -6.35 0)
+					(length 3.81)
+					(name "D-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "U2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -3.81 0)
+					(length 3.81)
+					(name "D+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "U3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 -19.05 0)
+					(length 3.81)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "U4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -13.97 0)
+					(length 3.81)
+					(name "SSTX+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "U5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -16.51 0)
+					(length 3.81)
+					(name "SSTX-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "U6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 -21.59 0)
+					(length 3.81)
+					(name "GND_DRAIN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "U7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -8.89 0)
+					(length 3.81)
+					(name "SSRX+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "U8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -11.43 0)
+					(length 3.81)
+					(name "SSRX-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "U9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "Amphenol_RJE361882415_1_3_1"
+				(polyline
+					(pts
+						(xy 13.335 -6.35) (xy 13.335 -3.81)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 12.7 -3.81) (xy 13.97 -3.81) (xy 13.335 -2.54) (xy 12.7 -3.81)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 13.335 -7.62) (xy 13.335 -6.985) (xy 12.065 -5.715) (xy 12.065 -5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 13.335 -6.985) (xy 13.335 -6.35) (xy 14.605 -5.715) (xy 14.605 -4.445)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 3.81 2.54)
+					(end 20.32 -24.13)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(circle
+					(center 12.065 -5.08)
+					(radius 0.381)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 13.335 -8.255)
+					(radius 0.635)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 14.224 -4.191)
+					(end 14.986 -4.953)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 16.256 -3.81)
+					(end 18.034 -8.382)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 17.018 -4.318)
+					(end 17.653 -7.874)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(text "PORT 2"
+					(at 12.7 0 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+							(thickness 0.15)
+						)
+						(justify left bottom)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 3.81)
+					(name "VBUS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "U10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -6.35 0)
+					(length 3.81)
+					(name "D-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "U11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -3.81 0)
+					(length 3.81)
+					(name "D+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "U12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 -19.05 0)
+					(length 3.81)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "U13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -13.97 0)
+					(length 3.81)
+					(name "SSTX+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "U14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -16.51 0)
+					(length 3.81)
+					(name "SSTX-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "U15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 -21.59 0)
+					(length 3.81)
+					(name "GND_DRAIN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "U16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -8.89 0)
+					(length 3.81)
+					(name "SSRX+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "U17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -11.43 0)
+					(length 3.81)
+					(name "SSRX-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "U18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "Amphenol_RJE361882415_2"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 39.37 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "Amphenol_RJE361882415"
+				(at 39.37 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "antmicro-footprints:RJ45_RJE361882415"
+				(at 39.37 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/p-rje36-188-2xx5.pdf"
+				(at 39.37 -15.24 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Description" "Modular Connectors / Ethernet Connectors MODULAR JACK"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "RJE361882415"
+				(at 39.37 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Manufacturer" "Amphenol"
+				(at 39.37 -17.78 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Author" "Antmicro"
+				(at 39.37 -20.32 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "License" "Apache-2.0"
+				(at 39.37 -22.86 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(thickness 0.15)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "THT, CONNECTOR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Amphenol_RJE361882415_2_1_1"
+				(polyline
+					(pts
+						(xy 8.89 -17.145) (xy 8.89 -5.715)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.89 -5.715) (xy 15.24 -5.715)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 15.24 -17.145) (xy 8.89 -17.145)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 15.24 -17.145) (xy 15.24 -15.875)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 15.24 -15.875) (xy 16.51 -15.875)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 15.24 -6.985) (xy 16.51 -6.985)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 15.24 -5.715) (xy 15.24 -6.985)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 16.51 -15.875) (xy 16.51 -14.605)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 16.51 -14.605) (xy 17.78 -14.605)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 16.51 -8.255) (xy 17.78 -8.255)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 16.51 -6.985) (xy 16.51 -8.255)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 17.78 -8.255) (xy 17.78 -14.605)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 3.81 2.54)
+					(end 21.59 -25.4)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 7.62 -4.445)
+					(end 19.05 -18.415)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin bidirectional line
+					(at 0 0 0)
+					(length 3.81)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -2.54 0)
+					(length 3.81)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -5.08 0)
+					(length 3.81)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -7.62 0)
+					(length 3.81)
+					(name "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -10.16 0)
+					(length 3.81)
+					(name "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -12.7 0)
+					(length 3.81)
+					(name "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -15.24 0)
+					(length 3.81)
+					(name "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -17.78 0)
+					(length 3.81)
+					(name "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 25.4 0 180)
+					(length 3.81)
+					(name "LED_D1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "D1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 25.4 -2.54 180)
+					(length 3.81)
+					(name "LED_D2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "D2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 25.4 -20.32 180)
+					(length 3.81)
+					(name "LED_D3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "D3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 25.4 -22.86 180)
+					(length 3.81)
+					(name "LED_D4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "D4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -22.86 0)
+					(length 3.81)
+					(name "MP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "MP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "Amphenol_RJE361882415_2_2_1"
+				(polyline
+					(pts
+						(xy 13.335 -6.35) (xy 13.335 -3.81)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 12.7 -3.81) (xy 13.97 -3.81) (xy 13.335 -2.54) (xy 12.7 -3.81)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 13.335 -7.62) (xy 13.335 -6.985) (xy 12.065 -5.715) (xy 12.065 -5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 13.335 -6.985) (xy 13.335 -6.35) (xy 14.605 -5.715) (xy 14.605 -4.445)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 3.81 2.54)
+					(end 20.32 -24.13)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(circle
+					(center 12.065 -5.08)
+					(radius 0.381)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 13.335 -8.255)
+					(radius 0.635)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 14.224 -4.191)
+					(end 14.986 -4.953)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 16.256 -3.81)
+					(end 18.034 -8.382)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 17.018 -4.318)
+					(end 17.653 -7.874)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(text "PORT 1"
+					(at 12.7 0 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+							(thickness 0.15)
+						)
+						(justify left bottom)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 3.81)
+					(name "VBUS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "U1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -6.35 0)
+					(length 3.81)
+					(name "D-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "U2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -3.81 0)
+					(length 3.81)
+					(name "D+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "U3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 -19.05 0)
+					(length 3.81)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "U4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -13.97 0)
+					(length 3.81)
+					(name "SSTX+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "U5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -16.51 0)
+					(length 3.81)
+					(name "SSTX-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "U6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 -21.59 0)
+					(length 3.81)
+					(name "GND_DRAIN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "U7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -8.89 0)
+					(length 3.81)
+					(name "SSRX+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "U8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -11.43 0)
+					(length 3.81)
+					(name "SSRX-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "U9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "Amphenol_RJE361882415_2_3_1"
+				(polyline
+					(pts
+						(xy 13.335 -6.35) (xy 13.335 -3.81)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 12.7 -3.81) (xy 13.97 -3.81) (xy 13.335 -2.54) (xy 12.7 -3.81)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 13.335 -7.62) (xy 13.335 -6.985) (xy 12.065 -5.715) (xy 12.065 -5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 13.335 -6.985) (xy 13.335 -6.35) (xy 14.605 -5.715) (xy 14.605 -4.445)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 3.81 2.54)
+					(end 20.32 -24.13)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(circle
+					(center 12.065 -5.08)
+					(radius 0.381)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 13.335 -8.255)
+					(radius 0.635)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 14.224 -4.191)
+					(end 14.986 -4.953)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 16.256 -3.81)
+					(end 18.034 -8.382)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start 17.018 -4.318)
+					(end 17.653 -7.874)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(text "PORT 2"
+					(at 12.7 0 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+							(thickness 0.15)
+						)
+						(justify left bottom)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 3.81)
+					(name "VBUS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "U10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -6.35 0)
+					(length 3.81)
+					(name "D-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "U11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -3.81 0)
+					(length 3.81)
+					(name "D+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "U12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 -19.05 0)
+					(length 3.81)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "U13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -13.97 0)
+					(length 3.81)
+					(name "SSTX+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "U14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -16.51 0)
+					(length 3.81)
+					(name "SSTX-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "U15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 -21.59 0)
+					(length 3.81)
+					(name "GND_DRAIN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "U16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -8.89 0)
+					(length 3.81)
+					(name "SSRX+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "U17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -11.43 0)
+					(length 3.81)
+					(name "SSRX-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "U18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "antmicroCapacitors0402:C_100n_0402"
 			(pin_numbers hide)
 			(pin_names hide)
@@ -5980,22 +8170,16 @@
 		(uuid "175ea035-fc1f-4409-a1fe-a9c366b20d95")
 	)
 	(junction
-		(at 180.34 248.92)
+		(at 180.34 181.61)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "18345fc3-efaa-46fe-b067-ea36a2055d98")
+		(uuid "18d07831-28f7-45c8-9630-0848bab0362f")
 	)
 	(junction
 		(at 227.33 243.84)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "22503c49-a086-402f-8131-51f2a7ab4d9c")
-	)
-	(junction
-		(at 175.26 184.15)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "22d9a41b-1051-4b87-8890-fe8c63b035f9")
 	)
 	(junction
 		(at 133.35 74.93)
@@ -6014,12 +8198,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2c5dace8-319b-48c6-a316-5d50c38cdc24")
-	)
-	(junction
-		(at 177.8 176.53)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2d2eb984-2502-483d-82a5-4e213378a375")
 	)
 	(junction
 		(at 149.86 224.79)
@@ -6058,6 +8236,12 @@
 		(uuid "368aeda0-6988-4898-aaed-001a748fbc60")
 	)
 	(junction
+		(at 177.8 254)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3a589ae1-e07c-4642-9da9-84622f077a41")
+	)
+	(junction
 		(at 149.86 154.94)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6068,6 +8252,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3b27b89d-23cb-443a-af8b-9674aacc3a4b")
+	)
+	(junction
+		(at 172.72 248.92)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3f60305d-fc03-4b99-92d5-8e1be4440c5f")
 	)
 	(junction
 		(at 232.41 68.58)
@@ -6112,6 +8302,18 @@
 		(uuid "578b9684-c921-4925-a639-af6dc8324a2b")
 	)
 	(junction
+		(at 180.34 251.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5ed6af37-079b-48dc-a761-eaf30a5df233")
+	)
+	(junction
+		(at 175.26 176.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5f342a72-cebe-47ce-96b6-be49d2a024a8")
+	)
+	(junction
 		(at 133.35 63.5)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6154,10 +8356,10 @@
 		(uuid "79dc2804-279f-448d-b7f6-bc7ca9f98db7")
 	)
 	(junction
-		(at 175.26 254)
+		(at 172.72 179.07)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "83d49e40-2c7d-4a0b-8a5b-bf4aeefd5d12")
+		(uuid "7c36f5f5-1164-49d9-a6bd-487c64a975b4")
 	)
 	(junction
 		(at 109.22 86.36)
@@ -6220,12 +8422,6 @@
 		(uuid "b89bdcf2-6ccd-48df-ba7f-6be8aeb2fcb6")
 	)
 	(junction
-		(at 177.8 246.38)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "cba0c079-8fa8-4d7e-bf31-7078993e23f2")
-	)
-	(junction
 		(at 88.9 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6244,10 +8440,22 @@
 		(uuid "d9ccbbeb-07b2-463d-a6ac-30213aa73fc0")
 	)
 	(junction
+		(at 175.26 246.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e595c265-d5e5-4c9b-896b-64699f9fe525")
+	)
+	(junction
 		(at 241.3 160.02)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e626b7c5-a15a-4805-9ea7-6d327687d458")
+	)
+	(junction
+		(at 177.8 184.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ed6c25a7-1571-4d81-b40b-6b40074e62cd")
 	)
 	(junction
 		(at 160.02 154.94)
@@ -6256,28 +8464,10 @@
 		(uuid "f2c74c4d-c52b-4107-932d-03f310c09ac4")
 	)
 	(junction
-		(at 180.34 179.07)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f8feeff4-ffbe-4d6f-a377-e170cd8f917a")
-	)
-	(junction
-		(at 172.72 251.46)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f954a07a-554f-4caf-a709-72914879a3a6")
-	)
-	(junction
 		(at 241.3 229.87)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f95dfb04-aa25-4378-9314-cb6de5b2b82d")
-	)
-	(junction
-		(at 172.72 181.61)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fafeaecb-1e0a-4848-9814-93af92410926")
 	)
 	(junction
 		(at 137.16 189.23)
@@ -6626,6 +8816,16 @@
 	)
 	(wire
 		(pts
+			(xy 180.34 181.61) (xy 180.34 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0eafe11b-3329-4e49-af62-e6390ddc8663")
+	)
+	(wire
+		(pts
 			(xy 262.89 95.25) (xy 292.1 95.25)
 		)
 		(stroke
@@ -6816,7 +9016,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 246.38) (xy 220.98 246.38)
+			(xy 135.89 246.38) (xy 175.26 246.38)
 		)
 		(stroke
 			(width 0)
@@ -6866,7 +9066,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 251.46) (xy 220.98 251.46)
+			(xy 135.89 251.46) (xy 180.34 251.46)
 		)
 		(stroke
 			(width 0)
@@ -6956,16 +9156,6 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 251.46) (xy 135.89 251.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "27eff6c1-e4d4-48b7-9ee8-96ed04c964fb")
-	)
-	(wire
-		(pts
 			(xy 227.33 173.99) (xy 227.33 176.53)
 		)
 		(stroke
@@ -6993,6 +9183,16 @@
 			(type default)
 		)
 		(uuid "2e0552a9-baf0-43f3-8a16-19c5b2e163dd")
+	)
+	(wire
+		(pts
+			(xy 172.72 248.92) (xy 220.98 248.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e584790-4fbe-42d7-b9c9-c68465cc964f")
 	)
 	(wire
 		(pts
@@ -7066,16 +9266,6 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 184.15) (xy 220.98 184.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "340036db-ed5f-4436-9685-385f71c4351e")
-	)
-	(wire
-		(pts
 			(xy 261.62 55.88) (xy 261.62 68.58)
 		)
 		(stroke
@@ -7083,16 +9273,6 @@
 			(type default)
 		)
 		(uuid "348852e9-9d82-4309-b7c8-b148e4790b17")
-	)
-	(wire
-		(pts
-			(xy 175.26 254) (xy 175.26 260.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "351a3fc7-7730-4b5c-a49e-dc5ea202829e")
 	)
 	(wire
 		(pts
@@ -7143,16 +9323,6 @@
 			(type default)
 		)
 		(uuid "3b062dea-221a-42f3-bc69-0e9e3b14a500")
-	)
-	(wire
-		(pts
-			(xy 172.72 251.46) (xy 172.72 260.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3b89c8ff-14b0-471c-a668-5b34488f6284")
 	)
 	(wire
 		(pts
@@ -7286,16 +9456,6 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 248.92) (xy 180.34 260.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "43c92eea-0782-4d97-8134-cfcdb054111e")
-	)
-	(wire
-		(pts
 			(xy 262.89 78.74) (xy 262.89 80.01)
 		)
 		(stroke
@@ -7393,6 +9553,16 @@
 			(type default)
 		)
 		(uuid "4d30eda3-29c4-4c55-ba41-dca926afeebb")
+	)
+	(wire
+		(pts
+			(xy 172.72 179.07) (xy 220.98 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4da8fba7-52e3-4f19-a532-aadc6a13812a")
 	)
 	(wire
 		(pts
@@ -7556,6 +9726,16 @@
 	)
 	(wire
 		(pts
+			(xy 175.26 246.38) (xy 175.26 260.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b63a904-be94-4d7a-a4f6-640d235333b7")
+	)
+	(wire
+		(pts
 			(xy 229.87 241.3) (xy 229.87 247.65)
 		)
 		(stroke
@@ -7573,6 +9753,16 @@
 			(type default)
 		)
 		(uuid "5c2f30ac-6b82-4977-967e-9e34ffea6e9a")
+	)
+	(wire
+		(pts
+			(xy 175.26 190.5) (xy 175.26 176.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c7fa123-3fcd-4816-9854-2fdc0570ad5a")
 	)
 	(bus
 		(pts
@@ -7596,6 +9786,16 @@
 	)
 	(wire
 		(pts
+			(xy 177.8 254) (xy 177.8 260.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d992dec-c707-4a14-8ceb-e60512452d90")
+	)
+	(wire
+		(pts
 			(xy 162.56 78.74) (xy 184.15 78.74)
 		)
 		(stroke
@@ -7613,16 +9813,6 @@
 			(type default)
 		)
 		(uuid "5efb2c64-ad0d-4afe-818b-3870da8e6a0c")
-	)
-	(wire
-		(pts
-			(xy 180.34 179.07) (xy 220.98 179.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5fd74ea2-be86-4e7c-b600-8dc1f5cee785")
 	)
 	(wire
 		(pts
@@ -7646,7 +9836,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 254) (xy 220.98 254)
+			(xy 135.89 254) (xy 177.8 254)
 		)
 		(stroke
 			(width 0)
@@ -7703,6 +9893,16 @@
 			(type default)
 		)
 		(uuid "63c8abff-665b-4e5a-82d3-792e2d096547")
+	)
+	(wire
+		(pts
+			(xy 172.72 248.92) (xy 172.72 260.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63ee73a5-d323-4e03-b5fe-e36ef312a642")
 	)
 	(wire
 		(pts
@@ -7786,13 +9986,23 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 248.92) (xy 220.98 248.92)
+			(xy 135.89 248.92) (xy 172.72 248.92)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "69ec52c0-ba5d-44c2-a01b-6f7a95d04d0e")
+	)
+	(wire
+		(pts
+			(xy 172.72 179.07) (xy 172.72 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69f9d8ed-85f1-47fb-a96d-3dc8204d0f31")
 	)
 	(bus
 		(pts
@@ -7836,16 +10046,6 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 176.53) (xy 220.98 176.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6cebb3d7-e038-453d-8c65-12e175b71afc")
-	)
-	(wire
-		(pts
 			(xy 200.66 78.74) (xy 210.82 78.74)
 		)
 		(stroke
@@ -7883,26 +10083,6 @@
 			(type default)
 		)
 		(uuid "72286bfb-e5a5-4c1c-81fb-d57f8064bcff")
-	)
-	(wire
-		(pts
-			(xy 175.26 254) (xy 135.89 254)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "72eb35a9-d503-45c8-b6ad-8bf0091352e4")
-	)
-	(wire
-		(pts
-			(xy 135.89 248.92) (xy 180.34 248.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7311d453-889d-4ad5-976b-8a33fe59a63e")
 	)
 	(wire
 		(pts
@@ -8296,6 +10476,26 @@
 	)
 	(wire
 		(pts
+			(xy 175.26 246.38) (xy 220.98 246.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f2a8526-5045-4188-96f6-06e8bc1f1277")
+	)
+	(wire
+		(pts
+			(xy 175.26 176.53) (xy 220.98 176.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "903fd301-e31b-47db-a0b0-7eaeafcb6b94")
+	)
+	(wire
+		(pts
 			(xy 280.67 55.88) (xy 280.67 100.33)
 		)
 		(stroke
@@ -8356,6 +10556,16 @@
 	)
 	(wire
 		(pts
+			(xy 180.34 251.46) (xy 180.34 260.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9673a0c5-87a5-4baa-b687-9b59af5a4353")
+	)
+	(wire
+		(pts
 			(xy 86.36 92.71) (xy 86.36 86.36)
 		)
 		(stroke
@@ -8404,6 +10614,16 @@
 		)
 		(uuid "99a5e520-3646-4025-99fe-c1950f784a76")
 	)
+	(wire
+		(pts
+			(xy 177.8 184.15) (xy 220.98 184.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a650db8-da05-4c68-9bde-708cc01fbb17")
+	)
 	(bus
 		(pts
 			(xy 269.24 238.76) (xy 260.35 238.76)
@@ -8446,7 +10666,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 176.53) (xy 135.89 176.53)
+			(xy 135.89 176.53) (xy 175.26 176.53)
 		)
 		(stroke
 			(width 0)
@@ -8486,23 +10706,13 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 181.61) (xy 135.89 181.61)
+			(xy 135.89 181.61) (xy 180.34 181.61)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "a3ffede0-3c32-4bbd-ab35-536d73cc39b3")
-	)
-	(wire
-		(pts
-			(xy 177.8 246.38) (xy 135.89 246.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a4230525-aab0-4e67-b7cd-9ffc596c14b6")
 	)
 	(wire
 		(pts
@@ -8576,7 +10786,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 179.07) (xy 135.89 179.07)
+			(xy 135.89 179.07) (xy 172.72 179.07)
 		)
 		(stroke
 			(width 0)
@@ -8616,7 +10826,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 184.15) (xy 135.89 184.15)
+			(xy 135.89 184.15) (xy 177.8 184.15)
 		)
 		(stroke
 			(width 0)
@@ -8683,6 +10893,16 @@
 			(type default)
 		)
 		(uuid "b0fdb6fb-938d-4c7c-b7bb-d6b0cafdac9b")
+	)
+	(wire
+		(pts
+			(xy 177.8 184.15) (xy 177.8 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b10acbf3-1a7d-4780-92f1-86ab9f71a1df")
 	)
 	(wire
 		(pts
@@ -8846,6 +11066,16 @@
 	)
 	(wire
 		(pts
+			(xy 180.34 251.46) (xy 220.98 251.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb864bea-0f5d-422f-8627-a376f966476e")
+	)
+	(wire
+		(pts
 			(xy 101.6 90.17) (xy 99.06 90.17)
 		)
 		(stroke
@@ -8876,13 +11106,13 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 176.53) (xy 177.8 190.5)
+			(xy 180.34 181.61) (xy 220.98 181.61)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c118b5fc-8402-4bbf-904f-e3cb6edc697e")
+		(uuid "bfdfa5e2-34b3-4188-9289-612cb2b5f1b2")
 	)
 	(bus
 		(pts
@@ -9043,6 +11273,16 @@
 			(type default)
 		)
 		(uuid "cad3e04c-f4ef-4197-a79f-abf0c76d9922")
+	)
+	(wire
+		(pts
+			(xy 177.8 254) (xy 220.98 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "caff8f7e-eb28-4961-9212-bb8451c8d63c")
 	)
 	(wire
 		(pts
@@ -9296,16 +11536,6 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 181.61) (xy 172.72 190.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ddb891c0-a169-402d-a052-14faa45545de")
-	)
-	(wire
-		(pts
 			(xy 269.24 229.87) (xy 254 229.87)
 		)
 		(stroke
@@ -9476,16 +11706,6 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 184.15) (xy 175.26 190.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e79fc66b-7fa4-486f-b304-19b8150ffb5d")
-	)
-	(wire
-		(pts
 			(xy 184.15 78.74) (xy 184.15 92.71)
 		)
 		(stroke
@@ -9576,16 +11796,6 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 179.07) (xy 180.34 190.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f34a3207-8dee-4fa1-afdb-38293523de1a")
-	)
-	(wire
-		(pts
 			(xy 200.66 58.42) (xy 200.66 57.15)
 		)
 		(stroke
@@ -9596,16 +11806,6 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 181.61) (xy 220.98 181.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f57d3016-e26d-4cf9-8971-b62459e8fdd0")
-	)
-	(wire
-		(pts
 			(xy 190.5 82.55) (xy 190.5 73.66)
 		)
 		(stroke
@@ -9613,16 +11813,6 @@
 			(type default)
 		)
 		(uuid "f58da236-b06a-47f1-bc1a-393941018c06")
-	)
-	(wire
-		(pts
-			(xy 177.8 246.38) (xy 177.8 260.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f603cecb-86e3-4f15-a64a-b07be3f68287")
 	)
 	(wire
 		(pts
@@ -9833,7 +12023,6 @@
 	)
 	(label "DB-"
 		(at 205.74 71.12 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9844,7 +12033,6 @@
 	)
 	(label "P1_D-"
 		(at 173.99 173.99 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9855,7 +12043,6 @@
 	)
 	(label "P2_VBUS"
 		(at 173.99 224.79 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9866,7 +12053,6 @@
 	)
 	(label "DA_FL+"
 		(at 231.14 53.34 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9877,7 +12063,6 @@
 	)
 	(label "P2_ISET"
 		(at 208.28 227.33 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9888,7 +12073,6 @@
 	)
 	(label "P2_D+"
 		(at 173.99 241.3 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9899,7 +12083,6 @@
 	)
 	(label "DB_FL-"
 		(at 231.14 71.12 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9910,7 +12093,6 @@
 	)
 	(label "FLG_2B"
 		(at 229.87 227.33 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9921,7 +12103,6 @@
 	)
 	(label "P1_ISET"
 		(at 208.28 157.48 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9932,7 +12113,6 @@
 	)
 	(label "USBSS_1.TX-"
 		(at 205.74 184.15 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9943,7 +12123,6 @@
 	)
 	(label "USBSS_2.RX-"
 		(at 217.17 248.92 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9954,7 +12133,6 @@
 	)
 	(label "DC+"
 		(at 170.18 71.12 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9965,7 +12143,6 @@
 	)
 	(label "DC_FL-"
 		(at 231.14 83.82 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9976,7 +12153,6 @@
 	)
 	(label "DD+"
 		(at 170.18 78.74 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9987,7 +12163,6 @@
 	)
 	(label "DA_FL-"
 		(at 231.14 58.42 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9998,7 +12173,6 @@
 	)
 	(label "USBSS_1.TX+"
 		(at 205.74 181.61 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10009,7 +12183,6 @@
 	)
 	(label "SH"
 		(at 162.56 92.71 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10020,7 +12193,6 @@
 	)
 	(label "FLG_1B"
 		(at 229.87 157.48 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10031,7 +12203,6 @@
 	)
 	(label "GbE.MDI2-"
 		(at 281.94 82.55 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10042,7 +12213,6 @@
 	)
 	(label "USBSS_2.TX-"
 		(at 205.74 254 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10053,7 +12223,6 @@
 	)
 	(label "DD-"
 		(at 170.18 81.28 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10064,7 +12233,6 @@
 	)
 	(label "DC+"
 		(at 205.74 78.74 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10075,7 +12243,6 @@
 	)
 	(label "USBSS_1.RX-"
 		(at 217.17 179.07 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10086,7 +12253,6 @@
 	)
 	(label "GbE.MDI3+"
 		(at 281.94 92.71 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10097,7 +12263,6 @@
 	)
 	(label "EN_2B"
 		(at 229.87 229.87 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10108,7 +12273,6 @@
 	)
 	(label "GbE.MDI0-"
 		(at 281.94 57.15 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10119,7 +12283,6 @@
 	)
 	(label "P1_D+"
 		(at 173.99 171.45 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10130,7 +12293,6 @@
 	)
 	(label "DD+"
 		(at 205.74 91.44 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10141,7 +12303,6 @@
 	)
 	(label "USB_1.D+"
 		(at 255.27 171.45 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10152,7 +12313,6 @@
 	)
 	(label "DD_FL+"
 		(at 231.14 91.44 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10163,7 +12323,6 @@
 	)
 	(label "DC-"
 		(at 205.74 83.82 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10174,7 +12333,6 @@
 	)
 	(label "GbE.CTREF"
 		(at 281.94 49.53 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10185,7 +12343,6 @@
 	)
 	(label "USB_2.D+"
 		(at 255.27 241.3 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10196,7 +12353,6 @@
 	)
 	(label "USBSS_2.TX+"
 		(at 205.74 251.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10207,7 +12363,6 @@
 	)
 	(label "GbE.MDI2+"
 		(at 281.94 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10218,7 +12373,6 @@
 	)
 	(label "DB_FL+"
 		(at 231.14 66.04 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10229,7 +12383,6 @@
 	)
 	(label "DA+"
 		(at 170.18 63.5 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10240,7 +12393,6 @@
 	)
 	(label "DB-"
 		(at 170.18 76.2 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10251,7 +12403,6 @@
 	)
 	(label "USB_1.D-"
 		(at 255.27 173.99 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10262,7 +12413,6 @@
 	)
 	(label "DD-"
 		(at 205.74 96.52 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10273,7 +12423,6 @@
 	)
 	(label "GbE.MDI3-"
 		(at 281.94 95.25 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10284,7 +12433,6 @@
 	)
 	(label "DA+"
 		(at 205.74 53.34 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10295,7 +12443,6 @@
 	)
 	(label "DC_FL+"
 		(at 231.14 78.74 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10306,7 +12453,6 @@
 	)
 	(label "GbE.MDI1+"
 		(at 281.94 67.31 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10317,7 +12463,6 @@
 	)
 	(label "EN_1B"
 		(at 229.87 160.02 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10328,7 +12473,6 @@
 	)
 	(label "P1_VBUS"
 		(at 173.99 154.94 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10339,7 +12483,6 @@
 	)
 	(label "GbE.MDI0+"
 		(at 281.94 54.61 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10350,7 +12493,6 @@
 	)
 	(label "DA-"
 		(at 170.18 66.04 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10361,7 +12503,6 @@
 	)
 	(label "DA-"
 		(at 205.74 58.42 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10372,7 +12513,6 @@
 	)
 	(label "DB+"
 		(at 205.74 66.04 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10383,7 +12523,6 @@
 	)
 	(label "USBSS_2.RX+"
 		(at 217.17 246.38 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10394,7 +12533,6 @@
 	)
 	(label "USB_2.D-"
 		(at 255.27 243.84 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10405,7 +12543,6 @@
 	)
 	(label "DD_FL-"
 		(at 231.14 96.52 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10416,7 +12553,6 @@
 	)
 	(label "P2_D-"
 		(at 173.99 243.84 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10427,7 +12563,6 @@
 	)
 	(label "DB+"
 		(at 170.18 68.58 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10438,7 +12573,6 @@
 	)
 	(label "GbE.MDI1-"
 		(at 281.94 69.85 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10449,7 +12583,6 @@
 	)
 	(label "DC-"
 		(at 170.18 73.66 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10460,7 +12593,6 @@
 	)
 	(label "USBSS_1.RX+"
 		(at 217.17 176.53 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10472,7 +12604,6 @@
 	(hierarchical_label "USBSS_1{USBSS}"
 		(shape input)
 		(at 269.24 187.96 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10484,7 +12615,6 @@
 	(hierarchical_label "USB_1{USB}"
 		(shape input)
 		(at 269.24 168.91 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10496,7 +12626,6 @@
 	(hierarchical_label "FLG_2"
 		(shape output)
 		(at 269.24 227.33 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10508,7 +12637,6 @@
 	(hierarchical_label "~{GBE0_ACT}"
 		(shape input)
 		(at 82.55 63.5 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10520,7 +12648,6 @@
 	(hierarchical_label "~{GBE0_LINK_1000}"
 		(shape input)
 		(at 82.55 83.82 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10532,7 +12659,6 @@
 	(hierarchical_label "~{GBE0_LINK}"
 		(shape input)
 		(at 82.55 86.36 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10544,7 +12670,6 @@
 	(hierarchical_label "GbE{GbE}"
 		(shape input)
 		(at 299.72 43.18 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10556,7 +12681,6 @@
 	(hierarchical_label "USB_2{USB}"
 		(shape input)
 		(at 269.24 238.76 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10568,7 +12692,6 @@
 	(hierarchical_label "EN_2"
 		(shape input)
 		(at 269.24 229.87 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10580,7 +12703,6 @@
 	(hierarchical_label "FLG_1"
 		(shape output)
 		(at 269.24 157.48 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10592,7 +12714,6 @@
 	(hierarchical_label "EN_1"
 		(shape input)
 		(at 269.24 160.02 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10604,7 +12725,6 @@
 	(hierarchical_label "USBSS_2{USBSS}"
 		(shape input)
 		(at 269.24 257.81 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23431,6 +25551,7 @@
 		)
 	)
 	(symbol
+		(lib_name "Amphenol_RJE361882415_1")
 		(lib_id "antmicroModularConnectorsJacks:Amphenol_RJE361882415")
 		(at 135.89 167.64 0)
 		(mirror y)
@@ -23459,20 +25580,24 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:RJ45_RJE361882415"
-			(at 97.79 223.52 0)
+			(at 96.52 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
+				(justify left bottom)
 				(hide yes)
 			)
 		)
 		(property "Datasheet" "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/p-rje36-188-2xx5.pdf"
-			(at 97.79 223.52 0)
+			(at 96.52 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
+				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -23490,15 +25615,18 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property "Manufacturer" "Amphenol"
-			(at 135.89 167.64 0)
+			(at 96.52 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
+				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -23627,6 +25755,7 @@
 		)
 	)
 	(symbol
+		(lib_name "Amphenol_RJE361882415_2")
 		(lib_id "antmicroModularConnectorsJacks:Amphenol_RJE361882415")
 		(at 135.89 237.49 0)
 		(mirror y)
@@ -23655,24 +25784,28 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:RJ45_RJE361882415"
-			(at 97.79 293.37 0)
+			(at 96.52 250.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
+				(justify left bottom)
 				(hide yes)
 			)
 		)
 		(property "Datasheet" "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/p-rje36-188-2xx5.pdf"
-			(at 97.79 293.37 0)
+			(at 96.52 252.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
+				(justify left bottom)
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Modular Connectors / Ethernet Connectors MODULAR JACK"
 			(at 135.89 237.49 0)
 			(effects
 				(font
@@ -23686,15 +25819,18 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property "Manufacturer" "Amphenol"
-			(at 135.89 237.49 0)
+			(at 96.52 255.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
+				(justify left bottom)
 				(hide yes)
 			)
 		)
