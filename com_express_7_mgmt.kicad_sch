@@ -6,7 +6,7 @@
 	(paper "A3")
 	(title_block
 		(title "COM Express 7 Baseboard")
-		(date "2024-12-13")
+		(date "2025-01-30")
 		(rev "1.1.0")
 		(company "Antmicro Ltd")
 		(comment 1 "www.antmicro.com")
@@ -18701,7 +18701,6 @@
 	)
 	(label "SER1.RX"
 		(at 87.63 264.16 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18712,7 +18711,6 @@
 	)
 	(label "~{SUS_S5}"
 		(at 95.25 172.72 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18723,7 +18721,6 @@
 	)
 	(label "~{TYPE1}"
 		(at 233.68 143.51 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18734,7 +18731,6 @@
 	)
 	(label "PWRBTN"
 		(at 218.44 71.12 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18745,7 +18741,6 @@
 	)
 	(label "~{TYPE1}"
 		(at 83.82 215.9 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18756,7 +18751,6 @@
 	)
 	(label "~{TYPE2}"
 		(at 83.82 218.44 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18767,7 +18761,6 @@
 	)
 	(label "MAFS_POWER"
 		(at 361.95 193.04 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18778,7 +18771,6 @@
 	)
 	(label "SPI.~{CS}"
 		(at 328.93 213.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18789,7 +18781,6 @@
 	)
 	(label "I2C.SCL"
 		(at 87.63 269.24 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18800,7 +18791,6 @@
 	)
 	(label "I2C.SDA"
 		(at 87.63 271.78 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18811,7 +18801,6 @@
 	)
 	(label "~{SUS_S5}"
 		(at 246.38 68.58 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18822,7 +18811,6 @@
 	)
 	(label "SPI{SPI}"
 		(at 102.87 238.76 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18833,7 +18821,6 @@
 	)
 	(label "SMBus.~{INT}"
 		(at 91.44 154.94 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18844,7 +18831,6 @@
 	)
 	(label "SPI.MISO"
 		(at 87.63 241.3 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18855,7 +18841,6 @@
 	)
 	(label "SER0.TX"
 		(at 87.63 254 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18866,7 +18851,6 @@
 	)
 	(label "~{CW_PWRBTN}"
 		(at 322.58 63.5 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18877,7 +18861,6 @@
 	)
 	(label "SPI.CLK"
 		(at 328.93 210.82 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18888,7 +18871,6 @@
 	)
 	(label "~{TYPE2}"
 		(at 233.68 146.05 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18899,7 +18881,6 @@
 	)
 	(label "I2C{I2C}"
 		(at 201.93 209.55 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18910,7 +18891,6 @@
 	)
 	(label "I2C.SCL"
 		(at 222.25 212.09 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18921,7 +18901,6 @@
 	)
 	(label "~{COM7}"
 		(at 321.31 148.59 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18932,7 +18911,6 @@
 	)
 	(label "SPI.MOSI"
 		(at 87.63 246.38 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18943,7 +18921,6 @@
 	)
 	(label "PWRBTN"
 		(at 180.34 99.06 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18954,7 +18931,6 @@
 	)
 	(label "I2C.SDA"
 		(at 222.25 214.63 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18965,7 +18941,6 @@
 	)
 	(label "SPI.MOSI"
 		(at 328.93 205.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18976,7 +18951,6 @@
 	)
 	(label "SPI.CLK"
 		(at 87.63 243.84 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18987,7 +18961,6 @@
 	)
 	(label "~{TYPE0}"
 		(at 83.82 213.36 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18998,7 +18971,6 @@
 	)
 	(label "~{BIOS_DIS0}"
 		(at 97.79 132.08 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19009,7 +18981,6 @@
 	)
 	(label "SMBus.SCL"
 		(at 91.44 157.48 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19020,7 +18991,6 @@
 	)
 	(label "SER1.TX"
 		(at 87.63 261.62 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19031,7 +19001,6 @@
 	)
 	(label "SMBus.SDA"
 		(at 91.44 160.02 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19042,7 +19011,6 @@
 	)
 	(label "~{TYPE0}"
 		(at 233.68 140.97 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19053,7 +19021,6 @@
 	)
 	(label "SPI.MISO"
 		(at 328.93 208.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19064,7 +19031,6 @@
 	)
 	(label "SPI.~{CS}"
 		(at 87.63 248.92 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19075,7 +19041,6 @@
 	)
 	(label "SPI_POWER"
 		(at 311.15 190.5 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19086,7 +19051,6 @@
 	)
 	(label "~{BIOS_DIS0}"
 		(at 335.28 231.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19097,7 +19061,6 @@
 	)
 	(label "SPI{SPI}"
 		(at 317.5 203.2 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19108,7 +19071,6 @@
 	)
 	(label "SER0.RX"
 		(at 87.63 256.54 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19119,7 +19081,6 @@
 	)
 	(label "~{CW_PWRBTN}"
 		(at 88.9 147.32 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19130,7 +19091,6 @@
 	)
 	(label "SPI_POWER"
 		(at 87.63 238.76 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19142,7 +19102,6 @@
 	(hierarchical_label "FAM_TACH"
 		(shape input)
 		(at 104.14 195.58 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19154,7 +19113,6 @@
 	(hierarchical_label "~{CB_RESET}"
 		(shape output)
 		(at 147.32 144.78 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19166,7 +19124,6 @@
 	(hierarchical_label "I2C{I2C}"
 		(shape output)
 		(at 96.52 266.7 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19178,7 +19135,6 @@
 	(hierarchical_label "FAN_PWM"
 		(shape output)
 		(at 104.14 193.04 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19190,7 +19146,6 @@
 	(hierarchical_label "SER1{UART}"
 		(shape bidirectional)
 		(at 96.52 259.08 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19202,7 +19157,6 @@
 	(hierarchical_label "SER0{UART}"
 		(shape bidirectional)
 		(at 96.52 251.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19214,7 +19168,6 @@
 	(hierarchical_label "PWR_OK"
 		(shape input)
 		(at 90.17 144.78 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19226,7 +19179,6 @@
 	(hierarchical_label "PSON"
 		(shape output)
 		(at 345.44 60.96 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19238,7 +19190,6 @@
 	(hierarchical_label "SMBus{I2C}"
 		(shape output)
 		(at 97.79 151.13 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

@@ -6,7 +6,7 @@
 	(paper "A3")
 	(title_block
 		(title "COM Express 7 Baseboard")
-		(date "2024-12-13")
+		(date "2025-01-30")
 		(rev "1.1.0")
 		(company "Antmicro Ltd")
 		(comment 1 "www.antmicro.com")
@@ -3207,7 +3207,6 @@
 	)
 	(label "UART.RX"
 		(at 257.81 153.67 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3218,7 +3217,6 @@
 	)
 	(label "USB.D+"
 		(at 179.07 167.64 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3229,7 +3227,6 @@
 	)
 	(label "PCIe_{x2}.TX0+"
 		(at 257.81 165.1 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3240,7 +3237,6 @@
 	)
 	(label "PCIe_{x2}.TX1-"
 		(at 176.53 154.94 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3251,7 +3247,6 @@
 	)
 	(label "PCIe_{x2}.RX1+"
 		(at 223.52 152.4 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3262,7 +3257,6 @@
 	)
 	(label "PCIe_{x2}.RX0-"
 		(at 303.53 167.64 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3273,7 +3267,6 @@
 	)
 	(label "USB.D-"
 		(at 303.53 156.21 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3284,7 +3277,6 @@
 	)
 	(label "UART.RX"
 		(at 205.74 167.64 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3295,7 +3287,6 @@
 	)
 	(label "PCIe_{REF}.CK-"
 		(at 187.96 162.56 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3306,7 +3297,6 @@
 	)
 	(label "PCIe_{x2}.RX0+"
 		(at 223.52 144.78 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3317,7 +3307,6 @@
 	)
 	(label "PCIe_{REF}.CK+"
 		(at 303.53 148.59 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3328,7 +3317,6 @@
 	)
 	(label "PCIe_{REF}.CK+"
 		(at 187.96 160.02 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3339,7 +3327,6 @@
 	)
 	(label "~{PRSNT}"
 		(at 257.81 137.16 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3350,7 +3337,6 @@
 	)
 	(label "USB.D-"
 		(at 179.07 170.18 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3361,7 +3347,6 @@
 	)
 	(label "PCIe_{REF}.CK-"
 		(at 303.53 151.13 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3372,7 +3357,6 @@
 	)
 	(label "GPIO"
 		(at 257.81 139.7 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3383,7 +3367,6 @@
 	)
 	(label "~{PERST}"
 		(at 257.81 134.62 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3394,7 +3377,6 @@
 	)
 	(label "UART.TX"
 		(at 205.74 170.18 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3405,7 +3387,6 @@
 	)
 	(label "PCIe_{x2}.RX1-"
 		(at 223.52 154.94 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3416,7 +3397,6 @@
 	)
 	(label "UART.TX"
 		(at 257.81 156.21 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3427,7 +3407,6 @@
 	)
 	(label "PCIe_{x2}.RX1+"
 		(at 303.53 170.18 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3438,7 +3417,6 @@
 	)
 	(label "PCIe_{x2}.TX1-"
 		(at 257.81 172.72 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3449,7 +3427,6 @@
 	)
 	(label "PCIe_{x2}.TX1+"
 		(at 257.81 170.18 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3460,7 +3437,6 @@
 	)
 	(label "PCIe_{x2}.RX0-"
 		(at 223.52 147.32 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3471,7 +3447,6 @@
 	)
 	(label "USB.D+"
 		(at 303.53 153.67 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3482,7 +3457,6 @@
 	)
 	(label "PCIe_{x2}.RX0+"
 		(at 303.53 165.1 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3493,7 +3467,6 @@
 	)
 	(label "PCIe_{x2}.RX1-"
 		(at 303.53 172.72 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3504,7 +3477,6 @@
 	)
 	(label "PCIe_{x2}.TX0-"
 		(at 257.81 167.64 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3515,7 +3487,6 @@
 	)
 	(label "PCIe_{x2}.TX1+"
 		(at 176.53 152.4 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3526,7 +3497,6 @@
 	)
 	(label "PCIe_{x2}.TX0-"
 		(at 176.53 147.32 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3537,7 +3507,6 @@
 	)
 	(label "PCIe_{x2}.TX0+"
 		(at 176.53 144.78 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3549,7 +3518,6 @@
 	(hierarchical_label "~{PRSNT}"
 		(shape output)
 		(at 214.63 162.56 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3561,7 +3529,6 @@
 	(hierarchical_label "~{PERST}"
 		(shape input)
 		(at 214.63 160.02 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3573,7 +3540,6 @@
 	(hierarchical_label "UART{UART}"
 		(shape bidirectional)
 		(at 229.87 165.1 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3585,7 +3551,6 @@
 	(hierarchical_label "PCIe_{REF}{PCIe_{REF}}"
 		(shape input)
 		(at 166.37 161.29 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3597,7 +3562,6 @@
 	(hierarchical_label "GPIO"
 		(shape bidirectional)
 		(at 214.63 165.1 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3609,7 +3573,6 @@
 	(hierarchical_label "USB{USB}"
 		(shape input)
 		(at 166.37 165.1 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3621,7 +3584,6 @@
 	(hierarchical_label "PCIe_{x2}{PCIe}"
 		(shape input)
 		(at 162.56 139.7 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

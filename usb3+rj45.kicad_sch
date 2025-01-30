@@ -6,7 +6,7 @@
 	(paper "A3")
 	(title_block
 		(title "COM Express 7 Baseboard")
-		(date "2024-12-13")
+		(date "2025-01-30")
 		(rev "1.1.0")
 		(company "Antmicro Ltd")
 		(comment 1 "www.antmicro.com")

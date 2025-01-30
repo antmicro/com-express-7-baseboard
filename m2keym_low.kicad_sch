@@ -6,7 +6,7 @@
 	(paper "A3")
 	(title_block
 		(title "COM Express 7 Baseboard")
-		(date "2024-12-13")
+		(date "2025-01-30")
 		(rev "1.1.0")
 		(company "Antmicro Ltd")
 		(comment 1 "www.antmicro.com")
@@ -4525,7 +4525,6 @@
 	)
 	(label "PCIe_{x4}.TX2-"
 		(at 158.75 143.51 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4536,7 +4535,6 @@
 	)
 	(label "PCIe_{x4}.TX1-"
 		(at 158.75 128.27 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4547,7 +4545,6 @@
 	)
 	(label "PCIe_{x4}.TX1+"
 		(at 158.75 125.73 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4558,7 +4555,6 @@
 	)
 	(label "PCIe_{x4}.RX2+"
 		(at 158.75 148.59 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4569,7 +4565,6 @@
 	)
 	(label "PCIe_{x4}.TX2+"
 		(at 158.75 140.97 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4580,7 +4575,6 @@
 	)
 	(label "PCIe_{x4}.RX1-"
 		(at 158.75 135.89 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4591,7 +4585,6 @@
 	)
 	(label "PCIe_{x4}.RX0+"
 		(at 158.75 118.11 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4602,7 +4595,6 @@
 	)
 	(label "PCIe_{x4}.RX0-"
 		(at 158.75 120.65 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4613,7 +4605,6 @@
 	)
 	(label "PCIE_{REF}.CK+"
 		(at 200.66 101.6 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4624,7 +4615,6 @@
 	)
 	(label "PCIe_{x4}.TX0-"
 		(at 158.75 113.03 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4635,7 +4625,6 @@
 	)
 	(label "PCIe_{x4}.RX3-"
 		(at 158.75 166.37 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4646,7 +4635,6 @@
 	)
 	(label "PCIe_{x4}.TX3+"
 		(at 158.75 156.21 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4657,7 +4645,6 @@
 	)
 	(label "PCIe_{x4}.RX2-"
 		(at 158.75 151.13 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4668,7 +4655,6 @@
 	)
 	(label "PCIe_{x4}.TX0+"
 		(at 158.75 110.49 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4679,7 +4665,6 @@
 	)
 	(label "~{PERST_D}"
 		(at 171.45 88.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4690,7 +4675,6 @@
 	)
 	(label "M2_3V3"
 		(at 232.41 85.09 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4701,7 +4685,6 @@
 	)
 	(label "PCIe_{x4}.TX3-"
 		(at 158.75 158.75 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4712,7 +4695,6 @@
 	)
 	(label "PCIE_{REF}.CK-"
 		(at 200.66 104.14 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4723,7 +4705,6 @@
 	)
 	(label "PCIe_{x4}.RX1+"
 		(at 158.75 133.35 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4734,7 +4715,6 @@
 	)
 	(label "PCIe_{x4}.RX3+"
 		(at 158.75 163.83 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4746,7 +4726,6 @@
 	(hierarchical_label "~{PERST}"
 		(shape input)
 		(at 149.86 88.9 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4758,7 +4737,6 @@
 	(hierarchical_label "SUSCLK"
 		(shape input)
 		(at 246.38 101.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4770,7 +4748,6 @@
 	(hierarchical_label "PCIE_{REF}{PCIe_{REF}}"
 		(shape input)
 		(at 149.86 96.52 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4782,7 +4759,6 @@
 	(hierarchical_label "PCIe_{x4}{PCIe}"
 		(shape input)
 		(at 149.86 83.82 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4794,7 +4770,6 @@
 	(hierarchical_label "~{CLKREQ}"
 		(shape output)
 		(at 149.86 91.44 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

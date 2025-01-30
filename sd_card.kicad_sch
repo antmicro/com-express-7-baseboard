@@ -6,7 +6,7 @@
 	(paper "A3")
 	(title_block
 		(title "COM Express 7 Baseboard")
-		(date "2024-12-13")
+		(date "2025-01-30")
 		(rev "1.1.0")
 		(company "Antmicro Ltd")
 		(comment 1 "www.antmicro.com")
@@ -2517,7 +2517,6 @@
 	)
 	(label "SDIO.DAT0"
 		(at 198.12 152.4 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2528,7 +2527,6 @@
 	)
 	(label "SDIO.DAT1"
 		(at 198.12 154.94 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2539,7 +2537,6 @@
 	)
 	(label "SDIO.CLK"
 		(at 198.12 149.86 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2550,7 +2547,6 @@
 	)
 	(label "SDIO.CMD"
 		(at 198.12 147.32 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2561,7 +2557,6 @@
 	)
 	(label "SDIO.DAT2"
 		(at 198.12 142.24 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2572,7 +2567,6 @@
 	)
 	(label "SDIO.DAT3"
 		(at 198.12 144.78 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2584,7 +2578,6 @@
 	(hierarchical_label "CD_SW"
 		(shape output)
 		(at 180.34 157.48 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2596,7 +2589,6 @@
 	(hierarchical_label "SDIO{SDIO}"
 		(shape input)
 		(at 180.34 139.7 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

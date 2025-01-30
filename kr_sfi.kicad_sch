@@ -6,7 +6,7 @@
 	(paper "A3")
 	(title_block
 		(title "COM Express 7 Baseboard")
-		(date "2024-12-13")
+		(date "2025-01-30")
 		(rev "1.1.0")
 		(company "Antmicro Ltd")
 		(comment 1 "www.antmicro.com")
@@ -8451,7 +8451,6 @@
 	)
 	(label "KR.TX+"
 		(at 104.14 83.82 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8462,7 +8461,6 @@
 	)
 	(label "SFI.RX+"
 		(at 294.64 83.82 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8473,7 +8471,6 @@
 	)
 	(label "SFI_R.TX-"
 		(at 265.43 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8484,7 +8481,6 @@
 	)
 	(label "BYP_TX-"
 		(at 293.37 44.45 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8495,7 +8491,6 @@
 	)
 	(label "BYP_TX+"
 		(at 128.27 41.91 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8506,7 +8501,6 @@
 	)
 	(label "MDIO.MDIO"
 		(at 74.93 228.6 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8517,7 +8511,6 @@
 	)
 	(label "SFI.TX+"
 		(at 294.64 76.2 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8528,7 +8521,6 @@
 	)
 	(label "BYP_RX+"
 		(at 128.27 48.26 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8539,7 +8531,6 @@
 	)
 	(label "BYP_RX+"
 		(at 293.37 48.26 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8550,7 +8541,6 @@
 	)
 	(label "REFCLK-"
 		(at 152.4 193.04 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8561,7 +8551,6 @@
 	)
 	(label "BYP_TX-"
 		(at 128.27 44.45 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8572,7 +8561,6 @@
 	)
 	(label "MDIO_R"
 		(at 102.87 228.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8583,7 +8571,6 @@
 	)
 	(label "SFI_R.TX+"
 		(at 265.43 76.2 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8594,7 +8581,6 @@
 	)
 	(label "MDC"
 		(at 140.97 231.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8605,7 +8591,6 @@
 	)
 	(label "KR.RX+"
 		(at 104.14 76.2 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8616,7 +8601,6 @@
 	)
 	(label "BYP_TX+"
 		(at 293.37 41.91 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8627,7 +8611,6 @@
 	)
 	(label "KR_R.RX-"
 		(at 148.59 78.74 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8638,7 +8621,6 @@
 	)
 	(label "SFI.RX-"
 		(at 294.64 86.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8649,7 +8631,6 @@
 	)
 	(label "KR_C.TX-"
 		(at 148.59 86.36 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8660,7 +8641,6 @@
 	)
 	(label "MDIO"
 		(at 140.97 228.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8671,7 +8651,6 @@
 	)
 	(label "TMS"
 		(at 153.67 210.82 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8682,7 +8661,6 @@
 	)
 	(label "~{TRST}"
 		(at 153.67 215.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8693,7 +8671,6 @@
 	)
 	(label "MDC_R"
 		(at 102.87 231.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8704,7 +8681,6 @@
 	)
 	(label "TDI"
 		(at 153.67 205.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8715,7 +8691,6 @@
 	)
 	(label "TDO"
 		(at 153.67 208.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8726,7 +8701,6 @@
 	)
 	(label "TCK"
 		(at 153.67 213.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8737,7 +8711,6 @@
 	)
 	(label "CLK+"
 		(at 107.95 190.5 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8748,7 +8721,6 @@
 	)
 	(label "SFI_R.RX-"
 		(at 265.43 86.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8759,7 +8731,6 @@
 	)
 	(label "SFI.TX-"
 		(at 294.64 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8770,7 +8741,6 @@
 	)
 	(label "KR_C.TX+"
 		(at 148.59 83.82 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8781,7 +8751,6 @@
 	)
 	(label "KR.RX-"
 		(at 104.14 78.74 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8792,7 +8761,6 @@
 	)
 	(label "~{RESET}"
 		(at 146.05 185.42 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8803,7 +8771,6 @@
 	)
 	(label "KR.TX-"
 		(at 104.14 86.36 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8814,7 +8781,6 @@
 	)
 	(label "SFI_R.RX+"
 		(at 265.43 83.82 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8825,7 +8791,6 @@
 	)
 	(label "KR_R.RX+"
 		(at 148.59 76.2 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8836,7 +8801,6 @@
 	)
 	(label "PRBSEN"
 		(at 140.97 220.98 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8847,7 +8811,6 @@
 	)
 	(label "MDIO.MDC"
 		(at 74.93 231.14 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8858,7 +8821,6 @@
 	)
 	(label "REFCLK+"
 		(at 152.4 190.5 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8869,7 +8831,6 @@
 	)
 	(label "CLK-"
 		(at 107.95 193.04 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8880,7 +8841,6 @@
 	)
 	(label "BYP_RX-"
 		(at 293.37 50.8 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8891,7 +8851,6 @@
 	)
 	(label "BYP_RX-"
 		(at 128.27 50.8 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8903,7 +8862,6 @@
 	(hierarchical_label "MDIO{MDIO}"
 		(shape input)
 		(at 57.15 226.06 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8915,7 +8873,6 @@
 	(hierarchical_label "SFI{SFI}"
 		(shape input)
 		(at 373.38 69.85 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8927,7 +8884,6 @@
 	(hierarchical_label "KR{10GBaseKR}"
 		(shape input)
 		(at 48.26 69.85 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8939,7 +8895,6 @@
 	(hierarchical_label "PHY_RESET"
 		(shape input)
 		(at 123.19 182.88 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

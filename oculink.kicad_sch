@@ -6,7 +6,7 @@
 	(paper "A3")
 	(title_block
 		(title "COM Express 7 Baseboard")
-		(date "2024-12-13")
+		(date "2025-01-30")
 		(rev "1.1.0")
 		(company "Antmicro Ltd")
 		(comment 1 "www.antmicro.com")
@@ -4243,7 +4243,6 @@
 	)
 	(label "I2C0.SDA"
 		(at 208.28 111.76 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4254,7 +4253,6 @@
 	)
 	(label "PCIe_{x4}.TX2+"
 		(at 181.61 180.34 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4265,7 +4263,6 @@
 	)
 	(label "PCIe_{REF0}.CK+"
 		(at 358.14 134.62 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4276,7 +4273,6 @@
 	)
 	(label "PCIe_{x4}.RX2-"
 		(at 181.61 152.4 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4287,7 +4283,6 @@
 	)
 	(label "PCIe_{x4}.RX1-"
 		(at 181.61 144.78 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4298,7 +4293,6 @@
 	)
 	(label "~{CPRSNT_D0}"
 		(at 223.52 127 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4309,7 +4303,6 @@
 	)
 	(label "PCIe_{x4}.RX1+"
 		(at 181.61 142.24 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4320,7 +4313,6 @@
 	)
 	(label "PCIe_{x4}.TX3-"
 		(at 181.61 190.5 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4331,7 +4323,6 @@
 	)
 	(label "PCIe_{x4}.RX0+"
 		(at 181.61 134.62 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4342,7 +4333,6 @@
 	)
 	(label "PCIe_{x4}.TX0+"
 		(at 314.96 134.62 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4353,7 +4343,6 @@
 	)
 	(label "PCIe_{x4}.TX2+"
 		(at 314.96 153.67 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4364,7 +4353,6 @@
 	)
 	(label "PCIe_{x4}.TX1+"
 		(at 314.96 139.7 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4375,7 +4363,6 @@
 	)
 	(label "PCIe_{x4}.TX3-"
 		(at 314.96 161.29 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4386,7 +4373,6 @@
 	)
 	(label "SCL"
 		(at 358.14 153.67 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4397,7 +4383,6 @@
 	)
 	(label "PCIe_{x4}.RX0-"
 		(at 181.61 137.16 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4408,7 +4393,6 @@
 	)
 	(label "~{PERST_D0}"
 		(at 223.52 124.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4419,7 +4403,6 @@
 	)
 	(label "PCIe_{x4}.RX2+"
 		(at 271.78 153.67 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4430,7 +4413,6 @@
 	)
 	(label "PCIe_{x4}.RX0+"
 		(at 271.78 134.62 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4441,7 +4423,6 @@
 	)
 	(label "V_{ACT_RX}0"
 		(at 224.79 101.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4452,7 +4433,6 @@
 	)
 	(label "PCIe_{x4}.RX3+"
 		(at 271.78 158.75 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4463,7 +4443,6 @@
 	)
 	(label "PCIe_{REF0}.CK-"
 		(at 236.22 119.38 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4474,7 +4453,6 @@
 	)
 	(label "PCIe_{x4}.TX3+"
 		(at 181.61 187.96 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4485,7 +4463,6 @@
 	)
 	(label "PCIe_{x4}.TX0-"
 		(at 181.61 167.64 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4496,7 +4473,6 @@
 	)
 	(label "PCIe_{x4}.TX2-"
 		(at 314.96 156.21 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4507,7 +4483,6 @@
 	)
 	(label "V_{ACT_TX}0"
 		(at 224.79 104.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4518,7 +4493,6 @@
 	)
 	(label "SCL"
 		(at 232.41 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4529,7 +4503,6 @@
 	)
 	(label "I2C0.SCL"
 		(at 208.28 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4540,7 +4513,6 @@
 	)
 	(label "PCIe_{x4}.RX2-"
 		(at 271.78 156.21 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4551,7 +4523,6 @@
 	)
 	(label "~{CPRSNT_D0}"
 		(at 358.14 161.29 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4562,7 +4533,6 @@
 	)
 	(label "PCIe_{x4}.TX0-"
 		(at 314.96 137.16 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4573,7 +4543,6 @@
 	)
 	(label "SDA"
 		(at 358.14 156.21 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4584,7 +4553,6 @@
 	)
 	(label "PCIe_{REF0}.CK-"
 		(at 358.14 137.16 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4595,7 +4563,6 @@
 	)
 	(label "PCIe_{x4}.RX3-"
 		(at 181.61 160.02 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4606,7 +4573,6 @@
 	)
 	(label "PCIe_{x4}.RX2+"
 		(at 181.61 149.86 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4617,7 +4583,6 @@
 	)
 	(label "PCIe_{x4}.RX1-"
 		(at 271.78 142.24 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4628,7 +4593,6 @@
 	)
 	(label "PCIe_{x4}.TX1+"
 		(at 181.61 172.72 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4639,7 +4603,6 @@
 	)
 	(label "PCIe_{x4}.RX1+"
 		(at 271.78 139.7 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4650,7 +4613,6 @@
 	)
 	(label "PCIe_{REF0}.CK+"
 		(at 236.22 116.84 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4661,7 +4623,6 @@
 	)
 	(label "5V_CONN0"
 		(at 231.14 87.63 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4672,7 +4633,6 @@
 	)
 	(label "PCIe_{x4}.TX1-"
 		(at 181.61 175.26 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4683,7 +4643,6 @@
 	)
 	(label "PCIe_{x4}.TX1-"
 		(at 314.96 142.24 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4694,7 +4653,6 @@
 	)
 	(label "PCIe_{x4}.RX0-"
 		(at 271.78 137.16 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4705,7 +4663,6 @@
 	)
 	(label "PCIe_{x4}.RX3-"
 		(at 271.78 161.29 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4716,7 +4673,6 @@
 	)
 	(label "PCIe_{x4}.TX0+"
 		(at 181.61 165.1 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4727,7 +4683,6 @@
 	)
 	(label "PCIe_{x4}.TX2-"
 		(at 181.61 182.88 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4738,7 +4693,6 @@
 	)
 	(label "PCIe_{x4}.TX3+"
 		(at 314.96 158.75 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4749,7 +4703,6 @@
 	)
 	(label "SDA"
 		(at 232.41 111.76 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4760,7 +4713,6 @@
 	)
 	(label "~{PERST_D0}"
 		(at 358.14 158.75 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4771,7 +4723,6 @@
 	)
 	(label "PCIe_{x4}.RX3+"
 		(at 181.61 157.48 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4783,7 +4734,6 @@
 	(hierarchical_label "I2C0{I2C}"
 		(shape input)
 		(at 171.45 106.68 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4795,7 +4745,6 @@
 	(hierarchical_label "PCIe_{REF0}{PCIe_{REF}}"
 		(shape input)
 		(at 171.45 111.76 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4807,7 +4756,6 @@
 	(hierarchical_label "PCIe_{x4}{PCIe}"
 		(shape input)
 		(at 171.45 129.54 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4819,7 +4767,6 @@
 	(hierarchical_label "~{CPRSNT0}"
 		(shape output)
 		(at 171.45 127 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4831,7 +4778,6 @@
 	(hierarchical_label "~{PERST}"
 		(shape input)
 		(at 171.45 124.46 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

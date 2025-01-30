@@ -6,7 +6,7 @@
 	(paper "A3")
 	(title_block
 		(title "COM Express 7 Baseboard")
-		(date "2024-12-13")
+		(date "2025-01-30")
 		(rev "1.1.0")
 		(company "Antmicro Ltd")
 		(comment 1 "www.antmicro.com")
@@ -13994,7 +13994,6 @@
 	)
 	(label "I2C{I2C}"
 		(at 151.13 152.4 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14005,7 +14004,6 @@
 	)
 	(label "I2C.SCL"
 		(at 163.83 157.48 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14016,7 +14014,6 @@
 	)
 	(label "I2C.SCL"
 		(at 44.45 245.11 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14027,7 +14024,6 @@
 	)
 	(label "I2C.SDA"
 		(at 312.42 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14038,7 +14034,6 @@
 	)
 	(label "PG_{1V0}"
 		(at 146.05 242.57 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14049,7 +14044,6 @@
 	)
 	(label "PG_{3V3}"
 		(at 254 149.86 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14060,7 +14054,6 @@
 	)
 	(label "I2C.SDA"
 		(at 44.45 242.57 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14071,7 +14064,6 @@
 	)
 	(label "I2C.SCL"
 		(at 312.42 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14082,7 +14074,6 @@
 	)
 	(label "I2C{I2C}"
 		(at 299.72 76.2 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14093,7 +14084,6 @@
 	)
 	(label "I2C.SDA"
 		(at 163.83 154.94 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14104,7 +14094,6 @@
 	)
 	(label "PG_{3V3}"
 		(at 97.79 142.24 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14115,7 +14104,6 @@
 	)
 	(label "PG_{1V0}"
 		(at 97.79 62.23 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14127,7 +14115,6 @@
 	(hierarchical_label "PSON"
 		(shape input)
 		(at 63.5 154.94 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14139,7 +14126,6 @@
 	(hierarchical_label "PWR_OK"
 		(shape output)
 		(at 201.93 240.03 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14151,7 +14137,6 @@
 	(hierarchical_label "PSON"
 		(shape input)
 		(at 85.09 246.38 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14163,7 +14148,6 @@
 	(hierarchical_label "I2C{I2C}"
 		(shape input)
 		(at 38.1 240.03 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14175,7 +14159,6 @@
 	(hierarchical_label "~{RESET}"
 		(shape input)
 		(at 359.41 82.55 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

@@ -6,7 +6,7 @@
 	(paper "A3")
 	(title_block
 		(title "COM Express 7 Baseboard")
-		(date "2024-12-13")
+		(date "2025-01-30")
 		(rev "1.1.0")
 		(company "Antmicro Ltd")
 		(comment 1 "www.antmicro.com")
@@ -6216,7 +6216,6 @@
 	)
 	(label "SFP1_LEDY"
 		(at 309.88 165.1 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6227,7 +6226,6 @@
 	)
 	(label "SFI0.TX-"
 		(at 236.22 96.52 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6238,7 +6236,6 @@
 	)
 	(label "SFP1_LEDY"
 		(at 241.3 236.22 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6249,7 +6246,6 @@
 	)
 	(label "SFP0_LEDY"
 		(at 311.15 87.63 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6260,7 +6256,6 @@
 	)
 	(label "~{LED0_2}"
 		(at 204.47 233.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6271,7 +6266,6 @@
 	)
 	(label "SFI1.TX+"
 		(at 236.22 177.8 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6282,7 +6276,6 @@
 	)
 	(label "I2C_{SFP0}.SCL"
 		(at 177.8 71.12 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6293,7 +6286,6 @@
 	)
 	(label "SFI0{SFI}"
 		(at 213.36 88.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6304,7 +6296,6 @@
 	)
 	(label "~{LED1_1}"
 		(at 204.47 238.76 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6315,7 +6306,6 @@
 	)
 	(label "SFP0_LEDY"
 		(at 241.3 228.6 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6326,7 +6316,6 @@
 	)
 	(label "SFP0_LEDG"
 		(at 332.74 87.63 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6337,7 +6326,6 @@
 	)
 	(label "SFI0.TX+"
 		(at 236.22 93.98 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6348,7 +6336,6 @@
 	)
 	(label "I2C_{SFP1}.SDA"
 		(at 177.8 152.4 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6359,7 +6346,6 @@
 	)
 	(label "SFI0.RX-"
 		(at 236.22 104.14 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6370,7 +6356,6 @@
 	)
 	(label "SH"
 		(at 299.72 99.06 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6381,7 +6366,6 @@
 	)
 	(label "SDA1"
 		(at 255.27 152.4 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6392,7 +6376,6 @@
 	)
 	(label "I2C_{SFP0}.SDA"
 		(at 177.8 68.58 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6403,7 +6386,6 @@
 	)
 	(label "I2C_{SFP1}.SCL"
 		(at 177.8 154.94 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6414,7 +6396,6 @@
 	)
 	(label "I2C_{LED}.SCL"
 		(at 148.59 236.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6425,7 +6406,6 @@
 	)
 	(label "SFI1.TX-"
 		(at 236.22 180.34 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6436,7 +6416,6 @@
 	)
 	(label "SFP1_LEDG"
 		(at 241.3 238.76 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6447,7 +6426,6 @@
 	)
 	(label "SFI1{SFI}"
 		(at 213.36 172.72 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6458,7 +6436,6 @@
 	)
 	(label "SFI1.RX-"
 		(at 236.22 187.96 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6469,7 +6446,6 @@
 	)
 	(label "I2C_{LED}.SDA"
 		(at 148.59 233.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6480,7 +6456,6 @@
 	)
 	(label "SCL0"
 		(at 255.27 71.12 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6491,7 +6466,6 @@
 	)
 	(label "SFI1.RX+"
 		(at 236.22 185.42 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6502,7 +6476,6 @@
 	)
 	(label "~{LED0_1}"
 		(at 204.47 231.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6513,7 +6486,6 @@
 	)
 	(label "~{LED1_0}"
 		(at 204.47 236.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6524,7 +6496,6 @@
 	)
 	(label "~{LED1_2}"
 		(at 204.47 241.3 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6535,7 +6506,6 @@
 	)
 	(label "~{LED0_0}"
 		(at 204.47 228.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6546,7 +6516,6 @@
 	)
 	(label "SFP0_LEDG"
 		(at 241.3 231.14 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6557,7 +6526,6 @@
 	)
 	(label "SDA0"
 		(at 255.27 68.58 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6568,7 +6536,6 @@
 	)
 	(label "SFP1_LEDG"
 		(at 331.47 165.1 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6579,7 +6546,6 @@
 	)
 	(label "SCL1"
 		(at 255.27 154.94 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6590,7 +6556,6 @@
 	)
 	(label "SFI0.RX+"
 		(at 236.22 101.6 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6602,7 +6567,6 @@
 	(hierarchical_label "PHY1_{RESET}"
 		(shape input)
 		(at 142.24 189.23 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6614,7 +6578,6 @@
 	(hierarchical_label "I2C_{SFP0}{I2C}"
 		(shape input)
 		(at 142.24 66.04 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6626,7 +6589,6 @@
 	(hierarchical_label "I2C_{LED}{I2C}"
 		(shape input)
 		(at 142.24 229.87 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6638,7 +6600,6 @@
 	(hierarchical_label "10GKR_SFP0{10GBaseKR}"
 		(shape input)
 		(at 142.24 88.9 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6650,7 +6611,6 @@
 	(hierarchical_label "MOD1_ABS"
 		(shape output)
 		(at 142.24 160.02 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6662,7 +6622,6 @@
 	(hierarchical_label "PHY0_{RESET}"
 		(shape input)
 		(at 142.24 105.41 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6674,7 +6633,6 @@
 	(hierarchical_label "MOD0_ABS"
 		(shape output)
 		(at 142.24 76.2 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6686,7 +6644,6 @@
 	(hierarchical_label "~{RESET}"
 		(shape input)
 		(at 142.24 251.46 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6698,7 +6655,6 @@
 	(hierarchical_label "10GKR_SFP1{10GBaseKR}"
 		(shape input)
 		(at 142.24 172.72 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6710,7 +6666,6 @@
 	(hierarchical_label "MDIO1{MDIO}"
 		(shape input)
 		(at 142.24 186.69 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6722,7 +6677,6 @@
 	(hierarchical_label "I2C_{SFP1}{I2C}"
 		(shape input)
 		(at 142.24 149.86 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6734,7 +6688,6 @@
 	(hierarchical_label "MDIO0{MDIO}"
 		(shape input)
 		(at 142.24 102.87 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

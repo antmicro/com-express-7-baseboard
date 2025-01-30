@@ -6,7 +6,7 @@
 	(paper "A3")
 	(title_block
 		(title "COM Express 7 Baseboard")
-		(date "2024-12-13")
+		(date "2025-01-30")
 		(rev "1.1.0")
 		(company "Antmicro Ltd")
 		(comment 1 "www.antmicro.com")
@@ -5587,7 +5587,6 @@
 	)
 	(label "RX_EQ0"
 		(at 226.06 229.87 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5598,7 +5597,6 @@
 	)
 	(label "PCIe_{I}.RX0-"
 		(at 135.89 209.55 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5609,7 +5607,6 @@
 	)
 	(label "PCIe_{O}_C.TX1-"
 		(at 224.79 74.93 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5620,7 +5617,6 @@
 	)
 	(label "PCIe_{I}.TX3+"
 		(at 135.89 62.23 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5631,7 +5627,6 @@
 	)
 	(label "PCIe_{O}.RX0+"
 		(at 250.19 207.01 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5642,7 +5637,6 @@
 	)
 	(label "PCIe_{O}_C.TX0+"
 		(at 224.79 85.09 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5653,7 +5647,6 @@
 	)
 	(label "PCIe_{O}.RX2+"
 		(at 250.19 191.77 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5664,7 +5657,6 @@
 	)
 	(label "PCIe_{O}.TX1-"
 		(at 254 74.93 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5675,7 +5667,6 @@
 	)
 	(label "PCIe_{I}.TX2+"
 		(at 135.89 69.85 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5686,7 +5677,6 @@
 	)
 	(label "TX_FG0"
 		(at 167.64 115.57 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5697,7 +5687,6 @@
 	)
 	(label "PCIe_{I}_C.RX1+"
 		(at 166.37 199.39 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5708,7 +5697,6 @@
 	)
 	(label "PCIe_{I}_C.RX3+"
 		(at 166.37 184.15 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5719,7 +5707,6 @@
 	)
 	(label "PCIe_{O}.TX0+"
 		(at 254 85.09 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5730,7 +5717,6 @@
 	)
 	(label "PCIe_{I}.TX0+"
 		(at 135.89 85.09 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5741,7 +5727,6 @@
 	)
 	(label "PCIe_{O}.TX3-"
 		(at 254 59.69 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5752,7 +5737,6 @@
 	)
 	(label "RX_FG1"
 		(at 226.06 242.57 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5763,7 +5747,6 @@
 	)
 	(label "PCIe_{I}_C.RX2+"
 		(at 166.37 191.77 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5774,7 +5757,6 @@
 	)
 	(label "PCIe_{O}_C.TX1+"
 		(at 224.79 77.47 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5785,7 +5767,6 @@
 	)
 	(label "PCIe_{I}_C.RX0+"
 		(at 166.37 207.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5796,7 +5777,6 @@
 	)
 	(label "PCIe_{I}.RX2+"
 		(at 135.89 191.77 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5807,7 +5787,6 @@
 	)
 	(label "PCIe_{I}.RX3+"
 		(at 135.89 184.15 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5818,7 +5797,6 @@
 	)
 	(label "PCIe_{O}.TX1+"
 		(at 254 77.47 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5829,7 +5807,6 @@
 	)
 	(label "PCIe_{I}_C.RX0-"
 		(at 166.37 209.55 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5840,7 +5817,6 @@
 	)
 	(label "PCIe_{I}_C.RX3-"
 		(at 166.37 186.69 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5851,7 +5827,6 @@
 	)
 	(label "PCIe_{I}_C.RX2-"
 		(at 166.37 194.31 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5862,7 +5837,6 @@
 	)
 	(label "RX_FG0"
 		(at 226.06 240.03 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5873,7 +5847,6 @@
 	)
 	(label "PCIe_{O}_C.TX2-"
 		(at 224.79 67.31 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5884,7 +5857,6 @@
 	)
 	(label "TX_FG1"
 		(at 167.64 118.11 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5895,7 +5867,6 @@
 	)
 	(label "PCIe_{O}.TX3+"
 		(at 254 62.23 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5906,7 +5877,6 @@
 	)
 	(label "RX_EQ2"
 		(at 226.06 234.95 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5917,7 +5887,6 @@
 	)
 	(label "TX_SW"
 		(at 167.64 120.65 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5928,7 +5897,6 @@
 	)
 	(label "PCIe_{I}.RX1-"
 		(at 135.89 201.93 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5939,7 +5907,6 @@
 	)
 	(label "PCIe_{I}.TX0-"
 		(at 135.89 82.55 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5950,7 +5917,6 @@
 	)
 	(label "PCIe_{O}.RX0-"
 		(at 250.19 209.55 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5961,7 +5927,6 @@
 	)
 	(label "PCIe_{O}.RX1-"
 		(at 250.19 201.93 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5972,7 +5937,6 @@
 	)
 	(label "PCIe_{O}.RX2-"
 		(at 250.19 194.31 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5983,7 +5947,6 @@
 	)
 	(label "TX_EQ0"
 		(at 167.64 105.41 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5994,7 +5957,6 @@
 	)
 	(label "PCIe_{O}.TX2+"
 		(at 254 69.85 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6005,7 +5967,6 @@
 	)
 	(label "TX_EQ1"
 		(at 167.64 107.95 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6016,7 +5977,6 @@
 	)
 	(label "PCIe_{O}.RX1+"
 		(at 250.19 199.39 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6027,7 +5987,6 @@
 	)
 	(label "PCIe_{I}.RX3-"
 		(at 135.89 186.69 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6038,7 +5997,6 @@
 	)
 	(label "PCIe_{O}_C.TX2+"
 		(at 224.79 69.85 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6049,7 +6007,6 @@
 	)
 	(label "PCIe_{O}_C.TX3-"
 		(at 224.79 59.69 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6060,7 +6017,6 @@
 	)
 	(label "RX_EQ1"
 		(at 226.06 232.41 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6071,7 +6027,6 @@
 	)
 	(label "PCIe_{I}.RX1+"
 		(at 135.89 199.39 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6082,7 +6037,6 @@
 	)
 	(label "PCIe_{I}_C.RX1-"
 		(at 166.37 201.93 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6093,7 +6047,6 @@
 	)
 	(label "PCIe_{I}.RX0+"
 		(at 135.89 207.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6104,7 +6057,6 @@
 	)
 	(label "RX_SW"
 		(at 226.06 245.11 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6115,7 +6067,6 @@
 	)
 	(label "PCIe_{O}.TX2-"
 		(at 254 67.31 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6126,7 +6077,6 @@
 	)
 	(label "PCIe_{O}.RX3+"
 		(at 250.19 184.15 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6137,7 +6087,6 @@
 	)
 	(label "PCIe_{I}.TX1-"
 		(at 135.89 74.93 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6148,7 +6097,6 @@
 	)
 	(label "PCIe_{O}.TX0-"
 		(at 254 82.55 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6159,7 +6107,6 @@
 	)
 	(label "PCIe_{I}.TX3-"
 		(at 135.89 59.69 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6170,7 +6117,6 @@
 	)
 	(label "PCIe_{O}_C.TX0-"
 		(at 224.79 82.55 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6181,7 +6127,6 @@
 	)
 	(label "PCIe_{I}.RX2-"
 		(at 135.89 194.31 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6192,7 +6137,6 @@
 	)
 	(label "TX_EQ2"
 		(at 167.64 110.49 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6203,7 +6147,6 @@
 	)
 	(label "PCIe_{O}.RX3-"
 		(at 250.19 186.69 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6214,7 +6157,6 @@
 	)
 	(label "PCIe_{I}.TX2-"
 		(at 135.89 67.31 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6225,7 +6167,6 @@
 	)
 	(label "PCIe_{I}.TX1+"
 		(at 135.89 77.47 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6236,7 +6177,6 @@
 	)
 	(label "PCIe_{O}_C.TX3+"
 		(at 224.79 62.23 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6248,7 +6188,6 @@
 	(hierarchical_label "~{PRSNT}"
 		(shape input)
 		(at 266.7 90.17 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6260,7 +6199,6 @@
 	(hierarchical_label "PCIe_{I}{PCIe}"
 		(shape input)
 		(at 124.46 54.61 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6272,7 +6210,6 @@
 	(hierarchical_label "PCIe_{O}{PCIe}"
 		(shape output)
 		(at 266.7 54.61 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

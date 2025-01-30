@@ -6,7 +6,7 @@
 	(paper "A3")
 	(title_block
 		(title "COM Express 7 Baseboard")
-		(date "2024-12-13")
+		(date "2025-01-30")
 		(rev "1.1.0")
 		(company "Antmicro Ltd")
 		(comment 1 "www.antmicro.com")
@@ -13615,7 +13615,6 @@
 	)
 	(label "PCIe_{B1x4}.TX3-"
 		(at 210.82 66.04 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13626,7 +13625,6 @@
 	)
 	(label "SDIO.DAT2"
 		(at 358.14 91.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13637,7 +13635,6 @@
 	)
 	(label "I2C_{SFP1}.SCL"
 		(at 298.45 119.38 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13648,7 +13645,6 @@
 	)
 	(label "PCIe_{B3x2}.RX0+"
 		(at 68.58 269.24 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13659,7 +13655,6 @@
 	)
 	(label "PCIe_{B3x2}.RX1-"
 		(at 68.58 256.54 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13670,7 +13665,6 @@
 	)
 	(label "PCIe_{B1x2}.TX1-"
 		(at 210.82 35.56 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13681,7 +13675,6 @@
 	)
 	(label "USB1.D+"
 		(at 210.82 172.72 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13692,7 +13685,6 @@
 	)
 	(label "PCIe_{B1x4}.TX3+"
 		(at 210.82 63.5 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13703,7 +13695,6 @@
 	)
 	(label "PCIe_{B3x2}.TX1+"
 		(at 68.58 246.38 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13714,7 +13705,6 @@
 	)
 	(label "PCIe_{B1x4}.RX3+"
 		(at 210.82 71.12 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13725,7 +13715,6 @@
 	)
 	(label "KR0.RX-"
 		(at 290.83 88.9 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13736,7 +13725,6 @@
 	)
 	(label "PCIe_{B2Bx4}.TX2-"
 		(at 139.7 50.8 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13747,7 +13735,6 @@
 	)
 	(label "PCIe_{B2Bx4}.TX0-"
 		(at 139.7 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13758,7 +13745,6 @@
 	)
 	(label "SDIO.DAT3"
 		(at 358.14 93.98 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13769,7 +13755,6 @@
 	)
 	(label "USB3.D-"
 		(at 210.82 160.02 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13780,7 +13765,6 @@
 	)
 	(label "PCIe_{B1x4}.RX2+"
 		(at 210.82 86.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13791,7 +13775,6 @@
 	)
 	(label "USBSS3.RX+"
 		(at 210.82 213.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13802,7 +13785,6 @@
 	)
 	(label "USB2.D-"
 		(at 210.82 167.64 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13813,7 +13795,6 @@
 	)
 	(label "PCIe_{B2Ax4}.TX3+"
 		(at 139.7 93.98 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13824,7 +13805,6 @@
 	)
 	(label "USB3.D+"
 		(at 210.82 157.48 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13835,7 +13815,6 @@
 	)
 	(label "USBSS2.TX+"
 		(at 210.82 220.98 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13846,7 +13825,6 @@
 	)
 	(label "PCIe_{B3x2}.TX0+"
 		(at 68.58 261.62 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13857,7 +13835,6 @@
 	)
 	(label "PCIe_{B2Ax4}.RX3-"
 		(at 139.7 104.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13868,7 +13845,6 @@
 	)
 	(label "GBE0.MDI2-"
 		(at 139.7 226.06 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13879,7 +13855,6 @@
 	)
 	(label "USBSS2.RX+"
 		(at 210.82 228.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13890,7 +13865,6 @@
 	)
 	(label "PCIe_{B1x2}.TX0-"
 		(at 210.82 50.8 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13901,7 +13875,6 @@
 	)
 	(label "PCIe_{B2Ax4}.RX0+"
 		(at 139.7 147.32 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13912,7 +13885,6 @@
 	)
 	(label "MDIO1.MDIO"
 		(at 298.45 121.92 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13923,7 +13895,6 @@
 	)
 	(label "GBE0.MDI2+"
 		(at 139.7 223.52 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13934,7 +13905,6 @@
 	)
 	(label "PCIe_{B2Ax4}.RX1-"
 		(at 139.7 134.62 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13945,7 +13915,6 @@
 	)
 	(label "KR1.TX-"
 		(at 290.83 66.04 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13956,7 +13925,6 @@
 	)
 	(label "GBE0.MDI1-"
 		(at 139.7 233.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13967,7 +13935,6 @@
 	)
 	(label "SDIO.CMD"
 		(at 358.14 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13978,7 +13945,6 @@
 	)
 	(label "SD_WP"
 		(at 367.03 81.28 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13989,7 +13955,6 @@
 	)
 	(label "I2C_{SFP0}.SCL"
 		(at 298.45 104.14 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14000,7 +13965,6 @@
 	)
 	(label "PCIe_{B1x4}.RX2-"
 		(at 210.82 88.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14011,7 +13975,6 @@
 	)
 	(label "USB0.D+"
 		(at 210.82 180.34 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14022,7 +13985,6 @@
 	)
 	(label "SDIO.CLK"
 		(at 358.14 76.2 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14033,7 +13995,6 @@
 	)
 	(label "KR1.RX-"
 		(at 290.83 73.66 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14044,7 +14005,6 @@
 	)
 	(label "GBE0.MDI3+"
 		(at 139.7 215.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14055,7 +14015,6 @@
 	)
 	(label "PCIe_{B2Ax4}.RX2-"
 		(at 139.7 119.38 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14066,7 +14025,6 @@
 	)
 	(label "PCIe_{B2Bx4}.RX3+"
 		(at 139.7 40.64 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14077,7 +14035,6 @@
 	)
 	(label "PCIe_{B1x4}.TX1+"
 		(at 210.82 93.98 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14088,7 +14045,6 @@
 	)
 	(label "PCIe_{B2Ax4}.TX0-"
 		(at 139.7 142.24 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14099,7 +14055,6 @@
 	)
 	(label "PCIe_{B3x2}.RX0-"
 		(at 68.58 271.78 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14110,7 +14065,6 @@
 	)
 	(label "GBE0.MDI3-"
 		(at 139.7 218.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14121,7 +14075,6 @@
 	)
 	(label "PCIE_{REF}.CK-"
 		(at 210.82 127 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14132,7 +14085,6 @@
 	)
 	(label "PCIe_{B1x4}.TX2+"
 		(at 210.82 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14143,7 +14095,6 @@
 	)
 	(label "KR0.TX+"
 		(at 290.83 78.74 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14154,7 +14105,6 @@
 	)
 	(label "GBE0.CTREF"
 		(at 139.7 210.82 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14165,7 +14115,6 @@
 	)
 	(label "PCIE_{REF}.CK+"
 		(at 210.82 124.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14176,7 +14125,6 @@
 	)
 	(label "PCIe_{B2Ax4}.RX0-"
 		(at 139.7 149.86 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14187,7 +14135,6 @@
 	)
 	(label "PCIe_{B2Bx4}.RX0-"
 		(at 139.7 88.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14198,7 +14145,6 @@
 	)
 	(label "MDIO0.MDIO"
 		(at 298.45 106.68 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14209,7 +14155,6 @@
 	)
 	(label "PCIe_{B1x4}.RX1+"
 		(at 210.82 101.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14220,7 +14165,6 @@
 	)
 	(label "PCIe_{B2Bx4}.TX1+"
 		(at 139.7 63.5 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14231,7 +14175,6 @@
 	)
 	(label "PCIe_{B1x4}.TX2-"
 		(at 210.82 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14242,7 +14185,6 @@
 	)
 	(label "PCIe_{B2Ax4}.TX2+"
 		(at 139.7 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14253,7 +14195,6 @@
 	)
 	(label "PCIe_{B2Bx4}.RX1+"
 		(at 139.7 71.12 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14264,7 +14205,6 @@
 	)
 	(label "KR1.RX+"
 		(at 290.83 71.12 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14275,7 +14215,6 @@
 	)
 	(label "USBSS3.RX-"
 		(at 210.82 215.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14286,7 +14225,6 @@
 	)
 	(label "PCIe_{B2Ax4}.RX1+"
 		(at 139.7 132.08 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14297,7 +14235,6 @@
 	)
 	(label "I2C_{SFP0}.SDA"
 		(at 298.45 101.6 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14308,7 +14245,6 @@
 	)
 	(label "MDIO0.MDC"
 		(at 298.45 109.22 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14319,7 +14255,6 @@
 	)
 	(label "GBE0.MDI0-"
 		(at 139.7 241.3 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14330,7 +14265,6 @@
 	)
 	(label "PCIe_{B2Ax4}.TX2-"
 		(at 139.7 111.76 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14341,7 +14275,6 @@
 	)
 	(label "PCIe_{B2Bx4}.RX2-"
 		(at 139.7 58.42 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14352,7 +14285,6 @@
 	)
 	(label "PCIe_{B2Bx4}.RX3-"
 		(at 139.7 43.18 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14363,7 +14295,6 @@
 	)
 	(label "KR0.TX-"
 		(at 290.83 81.28 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14374,7 +14305,6 @@
 	)
 	(label "PCIe_{B1x2}.RX1-"
 		(at 210.82 43.18 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14385,7 +14315,6 @@
 	)
 	(label "USBSS2.TX-"
 		(at 210.82 223.52 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14396,7 +14325,6 @@
 	)
 	(label "I2C_{SFP1}.SDA"
 		(at 298.45 116.84 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14407,7 +14335,6 @@
 	)
 	(label "PCIe_{B2Bx4}.RX1-"
 		(at 139.7 73.66 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14418,7 +14345,6 @@
 	)
 	(label "GBE0.MDI1+"
 		(at 139.7 231.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14429,7 +14355,6 @@
 	)
 	(label "PCIe_{B3x2}.TX1-"
 		(at 68.58 248.92 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14440,7 +14365,6 @@
 	)
 	(label "USB0.D-"
 		(at 210.82 182.88 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14451,7 +14375,6 @@
 	)
 	(label "PCIe_{B1x4}.TX0-"
 		(at 210.82 111.76 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14462,7 +14385,6 @@
 	)
 	(label "USBSS2.RX-"
 		(at 210.82 231.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14473,7 +14395,6 @@
 	)
 	(label "PCIe_{B2Bx4}.RX2+"
 		(at 139.7 55.88 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14484,7 +14405,6 @@
 	)
 	(label "PCIe_{B1x2}.RX1+"
 		(at 210.82 40.64 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14495,7 +14415,6 @@
 	)
 	(label "PCIe_{B2Bx4}.TX2+"
 		(at 139.7 48.26 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14506,7 +14425,6 @@
 	)
 	(label "PCIe_{B2Bx4}.RX0+"
 		(at 139.7 86.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14517,7 +14435,6 @@
 	)
 	(label "PCIe_{B2Ax4}.TX0+"
 		(at 139.7 139.7 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14528,7 +14445,6 @@
 	)
 	(label "PCIe_{B3x2}.RX1+"
 		(at 68.58 254 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14539,7 +14455,6 @@
 	)
 	(label "PCIe_{B2Ax4}.TX3-"
 		(at 139.7 96.52 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14550,7 +14465,6 @@
 	)
 	(label "USB1.D-"
 		(at 210.82 175.26 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14561,7 +14475,6 @@
 	)
 	(label "PCIe_{B1x4}.TX1-"
 		(at 210.82 96.52 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14572,7 +14485,6 @@
 	)
 	(label "PCIe_{B1x2}.TX0+"
 		(at 210.82 48.26 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14583,7 +14495,6 @@
 	)
 	(label "PCIe_{B1x4}.RX1-"
 		(at 210.82 104.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14594,7 +14505,6 @@
 	)
 	(label "GBE0.MDI0+"
 		(at 139.7 238.76 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14605,7 +14515,6 @@
 	)
 	(label "I2C_{10GLED}.SDA"
 		(at 298.45 182.88 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14616,7 +14525,6 @@
 	)
 	(label "USB2.D+"
 		(at 210.82 165.1 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14627,7 +14535,6 @@
 	)
 	(label "PCIe_{B1x4}.TX0+"
 		(at 210.82 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14638,7 +14545,6 @@
 	)
 	(label "PCIe_{B2Bx4}.TX3-"
 		(at 139.7 35.56 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14649,7 +14555,6 @@
 	)
 	(label "PCIe_{B2Bx4}.TX1-"
 		(at 139.7 66.04 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14660,7 +14565,6 @@
 	)
 	(label "PCIe_{B2Ax4}.RX2+"
 		(at 139.7 116.84 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14671,7 +14575,6 @@
 	)
 	(label "PCIe_{B3x2}.TX0-"
 		(at 68.58 264.16 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14682,7 +14585,6 @@
 	)
 	(label "PCIe_{B2Ax4}.TX1-"
 		(at 139.7 127 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14693,7 +14595,6 @@
 	)
 	(label "MDIO1.MDC"
 		(at 298.45 124.46 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14704,7 +14605,6 @@
 	)
 	(label "PCIe_{B1x2}.RX0-"
 		(at 210.82 58.42 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14715,7 +14615,6 @@
 	)
 	(label "PCIe_{B2Ax4}.RX3+"
 		(at 139.7 101.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14726,7 +14625,6 @@
 	)
 	(label "I2C_{10GLED}.SCL"
 		(at 298.45 185.42 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14737,7 +14635,6 @@
 	)
 	(label "PCIe_{B1x4}.RX0+"
 		(at 210.82 116.84 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14748,7 +14645,6 @@
 	)
 	(label "USBSS3.TX+"
 		(at 210.82 205.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14759,7 +14655,6 @@
 	)
 	(label "PCIe_{B2Bx4}.TX0+"
 		(at 139.7 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14770,7 +14665,6 @@
 	)
 	(label "PCIe_{B2Bx4}.TX3+"
 		(at 139.7 33.02 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14781,7 +14675,6 @@
 	)
 	(label "PCIe_{B1x2}.RX0+"
 		(at 210.82 55.88 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14792,7 +14685,6 @@
 	)
 	(label "KR0.RX+"
 		(at 290.83 86.36 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14803,7 +14695,6 @@
 	)
 	(label "SDIO.DAT1"
 		(at 358.14 88.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14814,7 +14705,6 @@
 	)
 	(label "PCIe_{B2Ax4}.TX1+"
 		(at 139.7 124.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14825,7 +14715,6 @@
 	)
 	(label "SDIO.DAT0"
 		(at 358.14 86.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14836,7 +14725,6 @@
 	)
 	(label "USBSS3.TX-"
 		(at 210.82 208.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14847,7 +14735,6 @@
 	)
 	(label "KR1.TX+"
 		(at 290.83 63.5 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14858,7 +14745,6 @@
 	)
 	(label "PCIe_{B1x4}.RX3-"
 		(at 210.82 73.66 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14869,7 +14755,6 @@
 	)
 	(label "PCIe_{B1x4}.RX0-"
 		(at 210.82 119.38 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14880,7 +14765,6 @@
 	)
 	(label "PCIe_{B1x2}.TX1+"
 		(at 210.82 33.02 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14892,7 +14776,6 @@
 	(hierarchical_label "USBSS3{USBSS}"
 		(shape output)
 		(at 227.33 203.2 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14904,7 +14787,6 @@
 	(hierarchical_label "USB1{USB}"
 		(shape output)
 		(at 222.25 170.18 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14916,7 +14798,6 @@
 	(hierarchical_label "10G_INT0"
 		(shape input)
 		(at 303.53 111.76 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14928,7 +14809,6 @@
 	(hierarchical_label "SDIO{SDIO}"
 		(shape output)
 		(at 378.46 73.66 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14940,7 +14820,6 @@
 	(hierarchical_label "~{USB_2_3_OC}"
 		(shape input)
 		(at 220.98 193.04 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14952,7 +14831,6 @@
 	(hierarchical_label "10G_PHY_RST01"
 		(shape output)
 		(at 303.53 93.98 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14964,7 +14842,6 @@
 	(hierarchical_label "10G_INT1"
 		(shape input)
 		(at 303.53 127 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14976,7 +14853,6 @@
 	(hierarchical_label "~{GBE0_ACT}"
 		(shape output)
 		(at 148.59 254 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14988,7 +14864,6 @@
 	(hierarchical_label "I2C_{SFP0}{I2C}"
 		(shape output)
 		(at 303.53 99.06 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15000,7 +14875,6 @@
 	(hierarchical_label "~{GBE0_LINK_1000}"
 		(shape output)
 		(at 148.59 246.38 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15012,7 +14886,6 @@
 	(hierarchical_label "MDIO0{MDIO}"
 		(shape output)
 		(at 303.53 104.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15024,7 +14897,6 @@
 	(hierarchical_label "~{GBE0_LINK}"
 		(shape output)
 		(at 148.59 251.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15036,7 +14908,6 @@
 	(hierarchical_label "MDIO1{MDIO}"
 		(shape output)
 		(at 303.53 119.38 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15048,7 +14919,6 @@
 	(hierarchical_label "USB3{USB}"
 		(shape output)
 		(at 222.25 154.94 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15060,7 +14930,6 @@
 	(hierarchical_label "I2C_{SFP1}{I2C}"
 		(shape output)
 		(at 303.53 114.3 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15072,7 +14941,6 @@
 	(hierarchical_label "KR1{10GBaseKR}"
 		(shape output)
 		(at 297.18 60.96 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15084,7 +14952,6 @@
 	(hierarchical_label "USBSS2{USBSS}"
 		(shape output)
 		(at 227.33 218.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15096,7 +14963,6 @@
 	(hierarchical_label "PCIe_{B2Bx4}{PCIe}"
 		(shape output)
 		(at 160.02 30.48 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15108,7 +14974,6 @@
 	(hierarchical_label "USB0{USB}"
 		(shape output)
 		(at 222.25 177.8 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15120,7 +14985,6 @@
 	(hierarchical_label "PCIE_{REF}{PCIe_{REF}}"
 		(shape output)
 		(at 231.14 120.65 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15132,7 +14996,6 @@
 	(hierarchical_label "PCIe_{B1x4}{PCIe}"
 		(shape output)
 		(at 232.41 59.69 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15144,7 +15007,6 @@
 	(hierarchical_label "USB2{USB}"
 		(shape output)
 		(at 222.25 162.56 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15156,7 +15018,6 @@
 	(hierarchical_label "PCIe_{B3x2}{PCIe}"
 		(shape output)
 		(at 90.17 212.09 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15168,7 +15029,6 @@
 	(hierarchical_label "PCIe_{B2Ax4}{PCIe}"
 		(shape output)
 		(at 160.02 91.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15180,7 +15040,6 @@
 	(hierarchical_label "KR0{10GBaseKR}"
 		(shape output)
 		(at 297.18 76.2 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15192,7 +15051,6 @@
 	(hierarchical_label "GBE0{GbE}"
 		(shape output)
 		(at 156.21 207.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15204,7 +15062,6 @@
 	(hierarchical_label "SD_CD"
 		(shape input)
 		(at 378.46 83.82 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15216,7 +15073,6 @@
 	(hierarchical_label "I2C_{10GLED}{I2C}"
 		(shape output)
 		(at 303.53 180.34 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15228,7 +15084,6 @@
 	(hierarchical_label "PCIe_{B1x2}{PCIe}"
 		(shape output)
 		(at 232.41 29.21 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
