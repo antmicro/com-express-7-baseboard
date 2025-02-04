@@ -28,7 +28,7 @@
 )
 
 (rule "10GKR_LM_1"
-	(constraint length (min 75.7mm) (max 75.9mm))
+	(constraint length (min 75.4mm) (max 75.5mm))
 	(constraint skew (min -0.1mm) (max 0.1mm) (opt 0.0mm))
 	(condition "(A.NetName == '*10GKR*')")
 )
