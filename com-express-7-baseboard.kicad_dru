@@ -1,5 +1,10 @@
 (version 1)
 
+(rule "Via IPI"
+	(constraint hole_clearance (min 0.3mm))
+	(condition "(A.Type == 'Via')")
+)
+
 (rule "100Ohm_diff_GbE_inner" 
 	(constraint track_width (opt 0.125mm))
 	(constraint diff_pair_gap (opt 0.22mm))
