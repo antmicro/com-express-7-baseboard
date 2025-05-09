@@ -23,7 +23,7 @@
 "27", "GND","28", "GND"
 "29", "PCIe REF.CK+","30", "!PERST"
 "31", "PCIe REF.CK-","32", "!PRSNT"
-"33", "GND","34", "GND"
+"33", "GND","34", "GPIO"
 "35","USB.D+","36","UART.RX"
 "37","USB.D-","38","UART.TX"
 "39", "GND","40", "GND"

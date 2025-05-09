@@ -4,7 +4,8 @@
 :maxdepth: 3
 
 introduction
-peripherals
+getting_started
 power_supply
+peripherals
 pinouts
 ```
