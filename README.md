@@ -2,6 +2,7 @@
 
 Copyright (c) 2022-2025 [Antmicro](https://www.antmicro.com)
 
+[![image](https://img.shields.io/badge/View%20on-Antmicro%20Open%20Hardware%20Portal-332d37?style=flat-square)](https://openhardware.antmicro.com/boards/com-express-7-baseboard)
 ![](assets/previews/orthoT.png)
 
 ## Overview
